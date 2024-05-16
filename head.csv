@@ -1,0 +1,7 @@
+,Column1,user_id,status_id,created_at,is_retweet,is_quote,is_reply,lang,text,created_at_int,hora,dia
+0,0,user1681,tweet164722,24-10-2019 23:28,FALSO,FALSO,FALSO,es,"@sebastianpinera el país se aburrió de ti y tu mal manejo.
+#NoMasTorturas",201910240,23,5
+1,1,user1681,tweet142612,23-10-2019 2:27,FALSO,FALSO,FALSO,es,Lo están borrando https://t.co/QCE7c1dWSb,201910230,2,4
+2,2,user1681,tweet142889,23-10-2019 2:43,FALSO,FALSO,FALSO,es,Lo están borrando https://t.co/bAAkjDMhaX,201910230,2,4
+3,3,user11284,tweet114988,21-10-2019 18:55,FALSO,FALSO,FALSO,es,Augusto PIÑECHET...es el nuevo nombre que la poner Maduro al Presidente. Para pensar...,201910210,18,2
+4,4,user11284,tweet28901,11-10-2019 13:04,FALSO,FALSO,FALSO,es,"Después de un año con licencias médicas, compromisos impagos, por lo tanto no me dan posibilidad de trabajar. Si alguien tiene dato, lo agradecería. Necesito subsistir.",201910110,13,6

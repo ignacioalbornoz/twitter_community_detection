@@ -1,0 +1,13 @@
+,0
+Column1,int64
+user_id,object
+status_id,object
+created_at,object
+is_retweet,object
+is_quote,object
+is_reply,object
+lang,object
+text,object
+created_at_int,int64
+hora,int64
+dia,int64
