@@ -1,0 +1,3085 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-05-19">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <nodes>
+      <node id="user1708" label="user1708" />
+      <node id="@LaRuciaLoca" label="@LaRuciaLoca" />
+      <node id="user1717" label="user1717" />
+      <node id="@Carabdechile" label="@Carabdechile" />
+      <node id="@PDI_CHILE" label="@PDI_CHILE" />
+      <node id="user1723" label="user1723" />
+      <node id="@KarlaEnAccion" label="@KarlaEnAccion" />
+      <node id="@inddhh" label="@inddhh" />
+      <node id="user1727" label="user1727" />
+      <node id="@ChangeorgLatino" label="@ChangeorgLatino" />
+      <node id="@PamJiles" label="@PamJiles" />
+      <node id="@FELIX_GonzalezG" label="@FELIX_GonzalezG" />
+      <node id="@ifloresdiputado" label="@ifloresdiputado" />
+      <node id="user1735" label="user1735" />
+      <node id="@PitxuSanmartin" label="@PitxuSanmartin" />
+      <node id="@UNHumanRights" label="@UNHumanRights" />
+      <node id="@hrw" label="@hrw" />
+      <node id="@hrw_espanol" label="@hrw_espanol" />
+      <node id="@amnistiaespana" label="@amnistiaespana" />
+      <node id="@amnistia" label="@amnistia" />
+      <node id="@CIDH" label="@CIDH" />
+      <node id="user11439" label="user11439" />
+      <node id="@santicatn" label="@santicatn" />
+      <node id="user1742" label="user1742" />
+      <node id="@saesa" label="@saesa" />
+      <node id="user11447" label="user11447" />
+      <node id="@clercanifru" label="@clercanifru" />
+      <node id="@barloreto" label="@barloreto" />
+      <node id="user11450" label="user11450" />
+      <node id="user11483" label="user11483" />
+      <node id="@lautarocarmona" label="@lautarocarmona" />
+      <node id="user6668" label="user6668" />
+      <node id="@GobiernodeChile" label="@GobiernodeChile" />
+      <node id="@frentefotografico" label="@frentefotografico" />
+      <node id="user28" label="user28" />
+      <node id="@ClauditaBR" label="@ClauditaBR" />
+      <node id="@Milito2_0" label="@Milito2_0" />
+      <node id="@MerinoFranco" label="@MerinoFranco" />
+      <node id="user6675" label="user6675" />
+      <node id="@carlustweet" label="@carlustweet" />
+      <node id="user1770" label="user1770" />
+      <node id="@PANCHOSAAVEDRA" label="@PANCHOSAAVEDRA" />
+      <node id="@canal13" label="@canal13" />
+      <node id="@aluksicc" label="@aluksicc" />
+      <node id="user1787" label="user1787" />
+      <node id="@eldia_cl" label="@eldia_cl" />
+      <node id="@T13" label="@T13" />
+      <node id="@carolaurrejola" label="@carolaurrejola" />
+      <node id="@IvanValenzuelaU" label="@IvanValenzuelaU" />
+      <node id="user6683" label="user6683" />
+      <node id="@sol__despeinada" label="@sol__despeinada" />
+      <node id="user1794" label="user1794" />
+      <node id="@CHVNoticias" label="@CHVNoticias" />
+      <node id="user1805" label="user1805" />
+      <node id="@estadonacional" label="@estadonacional" />
+      <node id="@labeasanchez" label="@labeasanchez" />
+      <node id="user1808" label="user1808" />
+      <node id="@Pauloque2" label="@Pauloque2" />
+      <node id="@h_barxel" label="@h_barxel" />
+      <node id="@senadornavarro" label="@senadornavarro" />
+      <node id="@Senado_Chile" label="@Senado_Chile" />
+      <node id="@biobio" label="@biobio" />
+      <node id="@el_dinamo" label="@el_dinamo" />
+      <node id="@eldesconcierto" label="@eldesconcierto" />
+      <node id="@Emol" label="@Emol" />
+      <node id="@ElMercurio_cl" label="@ElMercurio_cl" />
+      <node id="@laestrellavalpo" label="@laestrellavalpo" />
+      <node id="@thecliniccl" label="@thecliniccl" />
+      <node id="@thetimesCL" label="@thetimesCL" />
+      <node id="user11597" label="user11597" />
+      <node id="@marcelobarti" label="@marcelobarti" />
+      <node id="@CSDColoColo" label="@CSDColoColo" />
+      <node id="@GARRABLANCAofi" label="@GARRABLANCAofi" />
+      <node id="@colocolodetodos" label="@colocolodetodos" />
+      <node id="user1809" label="user1809" />
+      <node id="@Cooperativa" label="@Cooperativa" />
+      <node id="user11604" label="user11604" />
+      <node id="@beatrizmancuso" label="@beatrizmancuso" />
+      <node id="user11609" label="user11609" />
+      <node id="@sebastianpinera" label="@sebastianpinera" />
+      <node id="user1832" label="user1832" />
+      <node id="@FalabellaAyuda" label="@FalabellaAyuda" />
+      <node id="user11677" label="user11677" />
+      <node id="@diamaov" label="@diamaov" />
+      <node id="@DCoronell" label="@DCoronell" />
+      <node id="@CGurisattiNTN24" label="@CGurisattiNTN24" />
+      <node id="@HassNassar" label="@HassNassar" />
+      <node id="@DanielSamperO" label="@DanielSamperO" />
+      <node id="@VickyDavilaH" label="@VickyDavilaH" />
+      <node id="@yohirakerman" label="@yohirakerman" />
+      <node id="@PirryOficial" label="@PirryOficial" />
+      <node id="user11680" label="user11680" />
+      <node id="@adictiveswoong" label="@adictiveswoong" />
+      <node id="user1845" label="user1845" />
+      <node id="@emol" label="@emol" />
+      <node id="user1855" label="user1855" />
+      <node id="@luislarrainlyd" label="@luislarrainlyd" />
+      <node id="user1869" label="user1869" />
+      <node id="@JumboChile" label="@JumboChile" />
+      <node id="user1877" label="user1877" />
+      <node id="@JS_Chile" label="@JS_Chile" />
+      <node id="@carlosmontestwt" label="@carlosmontestwt" />
+      <node id="user1884" label="user1884" />
+      <node id="@CervezaQuimera" label="@CervezaQuimera" />
+      <node id="user6710" label="user6710" />
+      <node id="@ignatiuswilde" label="@ignatiuswilde" />
+      <node id="user11767" label="user11767" />
+      <node id="@JoseEmilio1052" label="@JoseEmilio1052" />
+      <node id="@MTTValparaiso" label="@MTTValparaiso" />
+      <node id="@MTTChile" label="@MTTChile" />
+      <node id="@Subtrans" label="@Subtrans" />
+      <node id="user1903" label="user1903" />
+      <node id="@QueerEye" label="@QueerEye" />
+      <node id="user11807" label="user11807" />
+      <node id="@AndresCubillosV" label="@AndresCubillosV" />
+      <node id="@elfrente_amplio" label="@elfrente_amplio" />
+      <node id="@PCdeChile" label="@PCdeChile" />
+      <node id="@PSChile" label="@PSChile" />
+      <node id="user11811" label="user11811" />
+      <node id="@nayibbukele" label="@nayibbukele" />
+      <node id="@NicolasMaduro" label="@NicolasMaduro" />
+      <node id="@DrodriguezVen" label="@DrodriguezVen" />
+      <node id="@jaarreaza" label="@jaarreaza" />
+      <node id="@WalterDossier" label="@WalterDossier" />
+      <node id="@dcabellor" label="@dcabellor" />
+      <node id="@CarlosFT_FSLN" label="@CarlosFT_FSLN" />
+      <node id="@taniasandinista" label="@taniasandinista" />
+      <node id="user6721" label="user6721" />
+      <node id="@Pagina12" label="@Pagina12" />
+      <node id="@YouTube" label="@YouTube" />
+      <node id="user6728" label="user6728" />
+      <node id="user1944" label="user1944" />
+      <node id="@pela0yakuzza" label="@pela0yakuzza" />
+      <node id="user11938" label="user11938" />
+      <node id="@twisglow" label="@twisglow" />
+      <node id="@___h4ngyel" label="@___h4ngyel" />
+      <node id="user11939" label="user11939" />
+      <node id="@miaufraan" label="@miaufraan" />
+      <node id="@tere_marinovic" label="@tere_marinovic" />
+      <node id="@pinupgabikat" label="@pinupgabikat" />
+      <node id="user12006" label="user12006" />
+      <node id="@CorteSupremaJ" label="@CorteSupremaJ" />
+      <node id="@AlvaroUribeVel" label="@AlvaroUribeVel" />
+      <node id="@IntlCrimCourt" label="@IntlCrimCourt" />
+      <node id="@Pontifex_es" label="@Pontifex_es" />
+      <node id="user12053" label="user12053" />
+      <node id="@pensador20201" label="@pensador20201" />
+      <node id="@SadiMelo" label="@SadiMelo" />
+      <node id="@munielbosque" label="@munielbosque" />
+      <node id="@RadioElBosque" label="@RadioElBosque" />
+      <node id="@todogranavenida" label="@todogranavenida" />
+      <node id="@ElBosqueEduca" label="@ElBosqueEduca" />
+      <node id="@DowneyLorena" label="@DowneyLorena" />
+      <node id="@LuisMoralesConc" label="@LuisMoralesConc" />
+      <node id="@iborcoski" label="@iborcoski" />
+      <node id="@fernando161968" label="@fernando161968" />
+      <node id="@prensaps" label="@prensaps" />
+      <node id="user1976" label="user1976" />
+      <node id="user1985" label="user1985" />
+      <node id="@Jaime_Bassa" label="@Jaime_Bassa" />
+      <node id="user6755" label="user6755" />
+      <node id="@DUALIPA" label="@DUALIPA" />
+      <node id="user12135" label="user12135" />
+      <node id="@appleve_" label="@appleve_" />
+      <node id="user12206" label="user12206" />
+      <node id="@lamazon_oficial" label="@lamazon_oficial" />
+      <node id="user12247" label="user12247" />
+      <node id="@drptht" label="@drptht" />
+      <node id="user12257" label="user12257" />
+      <node id="@PorterOficial" label="@PorterOficial" />
+      <node id="user12282" label="user12282" />
+      <node id="user2037" label="user2037" />
+      <node id="@InterferenciaCL" label="@InterferenciaCL" />
+      <node id="user2044" label="user2044" />
+      <node id="@monlaferte" label="@monlaferte" />
+      <node id="user12340" label="user12340" />
+      <node id="@LavinJoaquin" label="@LavinJoaquin" />
+      <node id="user2050" label="user2050" />
+      <node id="@gabrielboric" label="@gabrielboric" />
+      <node id="@JorgeSharp" label="@JorgeSharp" />
+      <node id="@karen_rojov" label="@karen_rojov" />
+      <node id="@muniantof" label="@muniantof" />
+      <node id="@paulinanu" label="@paulinanu" />
+      <node id="@melnicksergio" label="@melnicksergio" />
+      <node id="@AranasNegras" label="@AranasNegras" />
+      <node id="user12384" label="user12384" />
+      <node id="user12415" label="user12415" />
+      <node id="user12478" label="user12478" />
+      <node id="@ErnaUlloaRiquel" label="@ErnaUlloaRiquel" />
+      <node id="@Maryelibe" label="@Maryelibe" />
+      <node id="@nanoxve" label="@nanoxve" />
+      <node id="user12512" label="user12512" />
+      <node id="@OfficialMonstaX" label="@OfficialMonstaX" />
+      <node id="user2081" label="user2081" />
+      <node id="@SEBIN_OFICIAL" label="@SEBIN_OFICIAL" />
+      <node id="user6793" label="user6793" />
+      <node id="@Jorge_BarriL" label="@Jorge_BarriL" />
+      <node id="@CalcioDePalma" label="@CalcioDePalma" />
+      <node id="user12570" label="user12570" />
+      <node id="@BayamoSomos" label="@BayamoSomos" />
+      <node id="@memdizabal" label="@memdizabal" />
+      <node id="@gkanozo" label="@gkanozo" />
+      <node id="@JTolcachier" label="@JTolcachier" />
+      <node id="@triana_alexis" label="@triana_alexis" />
+      <node id="@barricadatv" label="@barricadatv" />
+      <node id="@VocesUrgentes" label="@VocesUrgentes" />
+      <node id="@clio1968OtraVez" label="@clio1968OtraVez" />
+      <node id="@UJCuba" label="@UJCuba" />
+      <node id="user12588" label="user12588" />
+      <node id="@AldeanoAOE" label="@AldeanoAOE" />
+      <node id="@Stefahernandezf" label="@Stefahernandezf" />
+      <node id="@adnradiochile" label="@adnradiochile" />
+      <node id="user12624" label="user12624" />
+      <node id="@AlvaroDurn6" label="@AlvaroDurn6" />
+      <node id="@lmirandaai" label="@lmirandaai" />
+      <node id="@gussanelli" label="@gussanelli" />
+      <node id="@ChromeNyusan" label="@ChromeNyusan" />
+      <node id="@MauricioLarena4" label="@MauricioLarena4" />
+      <node id="user12688" label="user12688" />
+      <node id="@lovshts" label="@lovshts" />
+      <node id="@mililipari" label="@mililipari" />
+      <node id="@Valval1304" label="@Valval1304" />
+      <node id="@softyuwin" label="@softyuwin" />
+      <node id="user12731" label="user12731" />
+      <node id="@Wolf48509619" label="@Wolf48509619" />
+      <node id="@joseantoniokast" label="@joseantoniokast" />
+      <node id="user2112" label="user2112" />
+      <node id="user6807" label="user6807" />
+      <node id="@IsabeldelaCarr1" label="@IsabeldelaCarr1" />
+      <node id="user12789" label="user12789" />
+      <node id="user12834" label="user12834" />
+      <node id="@Geosorno01" label="@Geosorno01" />
+      <node id="user2123" label="user2123" />
+      <node id="@PCFactoryCL" label="@PCFactoryCL" />
+      <node id="user12865" label="user12865" />
+      <node id="@DGCIMDENUNCIAS" label="@DGCIMDENUNCIAS" />
+      <node id="user12880" label="user12880" />
+      <node id="user6820" label="user6820" />
+      <node id="@mechitasdeclavo" label="@mechitasdeclavo" />
+      <node id="@alvaroramis" label="@alvaroramis" />
+      <node id="@mirnaschindler" label="@mirnaschindler" />
+      <node id="@kennysubiabre" label="@kennysubiabre" />
+      <node id="@FelipeParadaM" label="@FelipeParadaM" />
+      <node id="@marcelomena" label="@marcelomena" />
+      <node id="@AnaMariaGazmuri" label="@AnaMariaGazmuri" />
+      <node id="user2137" label="user2137" />
+      <node id="user12935" label="user12935" />
+      <node id="@hidrocaribe" label="@hidrocaribe" />
+      <node id="@MPPAAguas" label="@MPPAAguas" />
+      <node id="@EvelynB_Vasquez" label="@EvelynB_Vasquez" />
+      <node id="@luisjmarcano" label="@luisjmarcano" />
+      <node id="@ConElMazoDando" label="@ConElMazoDando" />
+      <node id="@LaZurdaDeChavez" label="@LaZurdaDeChavez" />
+      <node id="@LaHojillaenTV" label="@LaHojillaenTV" />
+      <node id="@TarekWiliamSaab" label="@TarekWiliamSaab" />
+      <node id="user12945" label="user12945" />
+      <node id="user12969" label="user12969" />
+      <node id="@monschlotthauer" label="@monschlotthauer" />
+      <node id="@MechiDemen" label="@MechiDemen" />
+      <node id="@izqsocialista" label="@izqsocialista" />
+      <node id="user13001" label="user13001" />
+      <node id="@SunflowerCuba" label="@SunflowerCuba" />
+      <node id="user2145" label="user2145" />
+      <node id="@PamPavez" label="@PamPavez" />
+      <node id="user13021" label="user13021" />
+      <node id="@somosredjs" label="@somosredjs" />
+      <node id="user2152" label="user2152" />
+      <node id="@Appoloniaparati" label="@Appoloniaparati" />
+      <node id="user13068" label="user13068" />
+      <node id="@AttackedByRats6" label="@AttackedByRats6" />
+      <node id="user6827" label="user6827" />
+      <node id="@patsegura" label="@patsegura" />
+      <node id="@CMicrodatos" label="@CMicrodatos" />
+      <node id="@FelipeGuevaraSt" label="@FelipeGuevaraSt" />
+      <node id="@ciper" label="@ciper" />
+      <node id="@HBO" label="@HBO" />
+      <node id="@HBOLAT" label="@HBOLAT" />
+      <node id="@DMatamala" label="@DMatamala" />
+      <node id="user2163" label="user2163" />
+      <node id="@Krizer1" label="@Krizer1" />
+      <node id="@chileconvoca" label="@chileconvoca" />
+      <node id="@LeoSotoChile" label="@LeoSotoChile" />
+      <node id="user13085" label="user13085" />
+      <node id="user2168" label="user2168" />
+      <node id="user13117" label="user13117" />
+      <node id="@anibaito" label="@anibaito" />
+      <node id="user13132" label="user13132" />
+      <node id="user2192" label="user2192" />
+      <node id="user13163" label="user13163" />
+      <node id="@GiorgioJackson" label="@GiorgioJackson" />
+      <node id="@carreragonzalo" label="@carreragonzalo" />
+      <node id="user13166" label="user13166" />
+      <node id="@Lenin" label="@Lenin" />
+      <node id="@pedropalaciosu" label="@pedropalaciosu" />
+      <node id="user2211" label="user2211" />
+      <node id="@senadorquintana" label="@senadorquintana" />
+      <node id="@CamaraDiputados" label="@CamaraDiputados" />
+      <node id="user2212" label="user2212" />
+      <node id="@chillanactivo" label="@chillanactivo" />
+      <node id="@NUBLEONLINE_" label="@NUBLEONLINE_" />
+      <node id="@RadioNuble" label="@RadioNuble" />
+      <node id="@Chillan140" label="@Chillan140" />
+      <node id="@ChillanOnline" label="@ChillanOnline" />
+      <node id="@chillan_info" label="@chillan_info" />
+      <node id="user13178" label="user13178" />
+      <node id="@parquemetminvu" label="@parquemetminvu" />
+      <node id="user13250" label="user13250" />
+      <node id="user2219" label="user2219" />
+      <node id="@rodolfocarter" label="@rodolfocarter" />
+      <node id="user13299" label="user13299" />
+      <node id="@DfromDisaster" label="@DfromDisaster" />
+      <node id="user2223" label="user2223" />
+      <node id="@LaProfeJovi" label="@LaProfeJovi" />
+      <node id="@MielyMerken" label="@MielyMerken" />
+      <node id="@Huasita_AzUl" label="@Huasita_AzUl" />
+      <node id="user13434" label="user13434" />
+      <node id="@SantaIsabelCL" label="@SantaIsabelCL" />
+      <node id="user13459" label="user13459" />
+      <node id="user13613" label="user13613" />
+      <node id="@HernanLarrain" label="@HernanLarrain" />
+      <node id="user13616" label="user13616" />
+      <node id="@PensanteL" label="@PensanteL" />
+      <node id="@pame_gatica" label="@pame_gatica" />
+      <node id="user2247" label="user2247" />
+      <node id="@RNchile" label="@RNchile" />
+      <node id="@SenadoresRN" label="@SenadoresRN" />
+      <node id="@DiputadosRN" label="@DiputadosRN" />
+      <node id="@AraucaniaRn" label="@AraucaniaRn" />
+      <node id="user2251" label="user2251" />
+      <node id="@SadracH" label="@SadracH" />
+      <node id="user13647" label="user13647" />
+      <node id="@Rosario93610971" label="@Rosario93610971" />
+      <node id="user13652" label="user13652" />
+      <node id="user2268" label="user2268" />
+      <node id="@daned_fisan" label="@daned_fisan" />
+      <node id="@ElDiabloRoboc" label="@ElDiabloRoboc" />
+      <node id="user13669" label="user13669" />
+      <node id="@HeraldoMunoz" label="@HeraldoMunoz" />
+      <node id="@olvid" label="@olvid" />
+      <node id="user13676" label="user13676" />
+      <node id="@CNNChile" label="@CNNChile" />
+      <node id="user2277" label="user2277" />
+      <node id="@yapocl" label="@yapocl" />
+      <node id="user13709" label="user13709" />
+      <node id="@baradit" label="@baradit" />
+      <node id="@BeaSanchezYTu" label="@BeaSanchezYTu" />
+      <node id="user2287" label="user2287" />
+      <node id="@camila_vallejo" label="@camila_vallejo" />
+      <node id="@KarolCariola" label="@KarolCariola" />
+      <node id="user2310" label="user2310" />
+      <node id="@TharsisReynaldo" label="@TharsisReynaldo" />
+      <node id="user2314" label="user2314" />
+      <node id="@RadioActivaFm" label="@RadioActivaFm" />
+      <node id="@CACEROLEITOR" label="@CACEROLEITOR" />
+      <node id="@bessygprado" label="@bessygprado" />
+      <node id="@ExFigura" label="@ExFigura" />
+      <node id="user2364" label="user2364" />
+      <node id="@LilitaAbello" label="@LilitaAbello" />
+      <node id="user2365" label="user2365" />
+      <node id="@benke_cl" label="@benke_cl" />
+      <node id="user2416" label="user2416" />
+      <node id="@marinadelsol_" label="@marinadelsol_" />
+      <node id="user2430" label="user2430" />
+      <node id="@txalompd" label="@txalompd" />
+      <node id="@45sna_" label="@45sna_" />
+      <node id="user6880" label="user6880" />
+      <node id="@Juano1986_" label="@Juano1986_" />
+      <node id="user2441" label="user2441" />
+      <node id="user2464" label="user2464" />
+      <node id="@mfc_oficial" label="@mfc_oficial" />
+      <node id="@ciclorecreovia" label="@ciclorecreovia" />
+      <node id="user2472" label="user2472" />
+      <node id="@neilaskatinas" label="@neilaskatinas" />
+      <node id="user6935" label="user6935" />
+      <node id="@gblumel" label="@gblumel" />
+      <node id="@allamand" label="@allamand" />
+      <node id="@gonzalomuller" label="@gonzalomuller" />
+      <node id="user2540" label="user2540" />
+      <node id="@eugeniofigueroa" label="@eugeniofigueroa" />
+      <node id="user6948" label="user6948" />
+      <node id="@redbullbatalla" label="@redbullbatalla" />
+      <node id="user6950" label="user6950" />
+      <node id="@tvflorida" label="@tvflorida" />
+      <node id="user2568" label="user2568" />
+      <node id="@JPQueralto" label="@JPQueralto" />
+      <node id="@milla_viera" label="@milla_viera" />
+      <node id="@SabingoCHV" label="@SabingoCHV" />
+      <node id="user6957" label="user6957" />
+      <node id="@C5N" label="@C5N" />
+      <node id="user2577" label="user2577" />
+      <node id="@vherreraCL" label="@vherreraCL" />
+      <node id="user2578" label="user2578" />
+      <node id="@RafaelRomoCNN" label="@RafaelRomoCNN" />
+      <node id="user2600" label="user2600" />
+      <node id="@PublimetroChile" label="@PublimetroChile" />
+      <node id="user6978" label="user6978" />
+      <node id="@TExplosivos" label="@TExplosivos" />
+      <node id="user2647" label="user2647" />
+      <node id="@franco_esca" label="@franco_esca" />
+      <node id="user6999" label="user6999" />
+      <node id="@CarnetDLaPatria" label="@CarnetDLaPatria" />
+      <node id="user7005" label="user7005" />
+      <node id="@German_Vargas" label="@German_Vargas" />
+      <node id="@CeDemocratico" label="@CeDemocratico" />
+      <node id="@IvanDuque" label="@IvanDuque" />
+      <node id="@RevistaSemana" label="@RevistaSemana" />
+      <node id="user2663" label="user2663" />
+      <node id="@pullmanbus" label="@pullmanbus" />
+      <node id="user2674" label="user2674" />
+      <node id="@Scotiabank_CL" label="@Scotiabank_CL" />
+      <node id="user7026" label="user7026" />
+      <node id="@mcubillossigall" label="@mcubillossigall" />
+      <node id="@Bienvenidos13" label="@Bienvenidos13" />
+      <node id="user7033" label="user7033" />
+      <node id="@danieljadue" label="@danieljadue" />
+      <node id="@Meruanista" label="@Meruanista" />
+      <node id="@RenAlmeyda1" label="@RenAlmeyda1" />
+      <node id="user7037" label="user7037" />
+      <node id="@Com_AteneoMad" label="@Com_AteneoMad" />
+      <node id="user46" label="user46" />
+      <node id="user2743" label="user2743" />
+      <node id="@AlessandriFelip" label="@AlessandriFelip" />
+      <node id="user2750" label="user2750" />
+      <node id="@anahi" label="@anahi" />
+      <node id="user2753" label="user2753" />
+      <node id="@Tono_Coloma" label="@Tono_Coloma" />
+      <node id="@modatima_cl" label="@modatima_cl" />
+      <node id="@rmunda" label="@rmunda" />
+      <node id="@PiensaPrensa" label="@PiensaPrensa" />
+      <node id="@Chileokulto" label="@Chileokulto" />
+      <node id="@Rayenaraya" label="@Rayenaraya" />
+      <node id="user49" label="user49" />
+      <node id="@latercera" label="@latercera" />
+      <node id="user2784" label="user2784" />
+      <node id="@OswaldoBarberaG" label="@OswaldoBarberaG" />
+      <node id="@MiEcosocialismo" label="@MiEcosocialismo" />
+      <node id="user7091" label="user7091" />
+      <node id="user7095" label="user7095" />
+      <node id="@Vale_QuirogaC" label="@Vale_QuirogaC" />
+      <node id="user7108" label="user7108" />
+      <node id="@CryptoTabnet" label="@CryptoTabnet" />
+      <node id="@el_ciudadano" label="@el_ciudadano" />
+      <node id="user7109" label="user7109" />
+      <node id="@revolucion3_0" label="@revolucion3_0" />
+      <node id="user2845" label="user2845" />
+      <node id="@DaniloMedina" label="@DaniloMedina" />
+      <node id="@YomairaMedinaS" label="@YomairaMedinaS" />
+      <node id="user7129" label="user7129" />
+      <node id="@cbofillr" label="@cbofillr" />
+      <node id="@sera_suficiente" label="@sera_suficiente" />
+      <node id="user2865" label="user2865" />
+      <node id="@Martilustracio1" label="@Martilustracio1" />
+      <node id="user2868" label="user2868" />
+      <node id="@alferdez" label="@alferdez" />
+      <node id="user2872" label="user2872" />
+      <node id="@RadioPrensa" label="@RadioPrensa" />
+      <node id="@autopista78" label="@autopista78" />
+      <node id="user64" label="user64" />
+      <node id="@Javi67394202" label="@Javi67394202" />
+      <node id="user7144" label="user7144" />
+      <node id="@WOMteAyuda" label="@WOMteAyuda" />
+      <node id="user2902" label="user2902" />
+      <node id="@metrodesantiago" label="@metrodesantiago" />
+      <node id="user2909" label="user2909" />
+      <node id="user2915" label="user2915" />
+      <node id="user2916" label="user2916" />
+      <node id="@MariaAleBello" label="@MariaAleBello" />
+      <node id="user2946" label="user2946" />
+      <node id="user2954" label="user2954" />
+      <node id="@doris_gonzalez_" label="@doris_gonzalez_" />
+      <node id="user7188" label="user7188" />
+      <node id="@JaimeBassaR" label="@JaimeBassaR" />
+      <node id="user2990" label="user2990" />
+      <node id="user3003" label="user3003" />
+      <node id="@cnnee" label="@cnnee" />
+      <node id="user3015" label="user3015" />
+      <node id="@ElAntimatinal" label="@ElAntimatinal" />
+      <node id="user3031" label="user3031" />
+      <node id="@jp_honorato" label="@jp_honorato" />
+      <node id="@fitoeskere" label="@fitoeskere" />
+      <node id="user3041" label="user3041" />
+      <node id="@josecoronado_" label="@josecoronado_" />
+      <node id="user3055" label="user3055" />
+      <node id="@Lin_Manuel" label="@Lin_Manuel" />
+      <node id="user83" label="user83" />
+      <node id="@Felipekings777" label="@Felipekings777" />
+      <node id="@Acida_tartarica" label="@Acida_tartarica" />
+      <node id="user3099" label="user3099" />
+      <node id="user3104" label="user3104" />
+      <node id="@carmen_hertz" label="@carmen_hertz" />
+      <node id="user3112" label="user3112" />
+      <node id="@ElguetaU" label="@ElguetaU" />
+      <node id="@s" label="@s" />
+      <node id="user3116" label="user3116" />
+      <node id="user3137" label="user3137" />
+      <node id="@elmostrador" label="@elmostrador" />
+      <node id="@MarcosOrtiz" label="@MarcosOrtiz" />
+      <node id="user3164" label="user3164" />
+      <node id="@JParadaHoyl" label="@JParadaHoyl" />
+      <node id="@tomibregliano" label="@tomibregliano" />
+      <node id="user3206" label="user3206" />
+      <node id="@intendenciaysen" label="@intendenciaysen" />
+      <node id="user3208" label="user3208" />
+      <node id="@SergioMicco" label="@SergioMicco" />
+      <node id="user7307" label="user7307" />
+      <node id="@Jonatha96845544" label="@Jonatha96845544" />
+      <node id="user3230" label="user3230" />
+      <node id="@UkamauChile" label="@UkamauChile" />
+      <node id="@Pascualailabaca" label="@Pascualailabaca" />
+      <node id="@EdgarValp" label="@EdgarValp" />
+      <node id="@SICNoticia" label="@SICNoticia" />
+      <node id="@rsumen" label="@rsumen" />
+      <node id="@tv_piola" label="@tv_piola" />
+      <node id="@SergioGrezToso" label="@SergioGrezToso" />
+      <node id="@uchileradio" label="@uchileradio" />
+      <node id="user3250" label="user3250" />
+      <node id="@ronnymaldonadol" label="@ronnymaldonadol" />
+      <node id="@soyantofagasta" label="@soyantofagasta" />
+      <node id="@mercurioafta" label="@mercurioafta" />
+      <node id="@soychilecl" label="@soychilecl" />
+      <node id="@soycalamacl" label="@soycalamacl" />
+      <node id="@mercuriocalama" label="@mercuriocalama" />
+      <node id="user7319" label="user7319" />
+      <node id="@GOT7Official" label="@GOT7Official" />
+      <node id="user3262" label="user3262" />
+      <node id="@Jou_Kaiser" label="@Jou_Kaiser" />
+      <node id="user3264" label="user3264" />
+      <node id="user7343" label="user7343" />
+      <node id="@rutadelmaipo" label="@rutadelmaipo" />
+      <node id="user3303" label="user3303" />
+      <node id="user3304" label="user3304" />
+      <node id="@fcatrin" label="@fcatrin" />
+      <node id="user3315" label="user3315" />
+      <node id="user3322" label="user3322" />
+      <node id="@RolandoVillenaV" label="@RolandoVillenaV" />
+      <node id="user3371" label="user3371" />
+      <node id="user3379" label="user3379" />
+      <node id="user3386" label="user3386" />
+      <node id="@anefchile" label="@anefchile" />
+      <node id="@UnidadSocialCh" label="@UnidadSocialCh" />
+      <node id="user3444" label="user3444" />
+      <node id="@ibanpetit" label="@ibanpetit" />
+      <node id="@Toma3Gijon" label="@Toma3Gijon" />
+      <node id="@tobaccodays" label="@tobaccodays" />
+      <node id="@numaxcoop" label="@numaxcoop" />
+      <node id="user3455" label="user3455" />
+      <node id="user3458" label="user3458" />
+      <node id="user3466" label="user3466" />
+      <node id="user122" label="user122" />
+      <node id="@Mauro_Tw2" label="@Mauro_Tw2" />
+      <node id="user3473" label="user3473" />
+      <node id="user3490" label="user3490" />
+      <node id="@BombaMacul" label="@BombaMacul" />
+      <node id="user3519" label="user3519" />
+      <node id="@Trencentral" label="@Trencentral" />
+      <node id="@GrupoEFE" label="@GrupoEFE" />
+      <node id="@Pedro_Errazuriz" label="@Pedro_Errazuriz" />
+      <node id="user3541" label="user3541" />
+      <node id="@ilustradonot" label="@ilustradonot" />
+      <node id="user3557" label="user3557" />
+      <node id="user3569" label="user3569" />
+      <node id="user7421" label="user7421" />
+      <node id="@veronicadela4t" label="@veronicadela4t" />
+      <node id="user3593" label="user3593" />
+      <node id="user3603" label="user3603" />
+      <node id="@JulioBorges" label="@JulioBorges" />
+      <node id="user3607" label="user3607" />
+      <node id="user3624" label="user3624" />
+      <node id="@lafundacionsol" label="@lafundacionsol" />
+      <node id="@kenodechile" label="@kenodechile" />
+      <node id="user3642" label="user3642" />
+      <node id="@rcristibeck" label="@rcristibeck" />
+      <node id="@FMConquistador" label="@FMConquistador" />
+      <node id="@A3Noticias" label="@A3Noticias" />
+      <node id="@GomezIgnacia" label="@GomezIgnacia" />
+      <node id="user7458" label="user7458" />
+      <node id="@petrogustavo" label="@petrogustavo" />
+      <node id="@macarenazoo" label="@macarenazoo" />
+      <node id="@HOLLMANMORRIS" label="@HOLLMANMORRIS" />
+      <node id="@GustavoBolivar" label="@GustavoBolivar" />
+      <node id="@AUGUSTOOCAMPO" label="@AUGUSTOOCAMPO" />
+      <node id="user139" label="user139" />
+      <node id="@ColegioProfes" label="@ColegioProfes" />
+      <node id="user3659" label="user3659" />
+      <node id="user7473" label="user7473" />
+      <node id="@EnOrsai" label="@EnOrsai" />
+      <node id="@guiaparadecorar" label="@guiaparadecorar" />
+      <node id="@lopezinak" label="@lopezinak" />
+      <node id="user3698" label="user3698" />
+      <node id="@linddacarter" label="@linddacarter" />
+      <node id="@MaxiStone93" label="@MaxiStone93" />
+      <node id="@CrotaloCorral" label="@CrotaloCorral" />
+      <node id="@mxperez" label="@mxperez" />
+      <node id="@24HorasTVN" label="@24HorasTVN" />
+      <node id="user3731" label="user3731" />
+      <node id="@carlazunin" label="@carlazunin" />
+      <node id="@HectorAll_black" label="@HectorAll_black" />
+      <node id="@ma_garciap" label="@ma_garciap" />
+      <node id="@nicomarinovic" label="@nicomarinovic" />
+      <node id="@jarans" label="@jarans" />
+      <node id="@javieramas" label="@javieramas" />
+      <node id="user3774" label="user3774" />
+      <node id="@AyudaBancoChile" label="@AyudaBancoChile" />
+      <node id="user3781" label="user3781" />
+      <node id="@DevilDickcl" label="@DevilDickcl" />
+      <node id="user3785" label="user3785" />
+      <node id="@DailymotionUSA" label="@DailymotionUSA" />
+      <node id="user151" label="user151" />
+      <node id="@venepress" label="@venepress" />
+      <node id="@jguaido" label="@jguaido" />
+      <node id="@salaprensaCantv" label="@salaprensaCantv" />
+      <node id="@ContactoCantv" label="@ContactoCantv" />
+      <node id="@contrapuntovzla" label="@contrapuntovzla" />
+      <node id="user3798" label="user3798" />
+      <node id="@Canelo" label="@Canelo" />
+      <node id="user3806" label="user3806" />
+      <node id="@Las2orillas" label="@Las2orillas" />
+      <node id="user3819" label="user3819" />
+      <node id="user3826" label="user3826" />
+      <node id="@uchile" label="@uchile" />
+      <node id="@daniel_nunez_a" label="@daniel_nunez_a" />
+      <node id="user3831" label="user3831" />
+      <node id="@40ChileOficial" label="@40ChileOficial" />
+      <node id="@samsmith" label="@samsmith" />
+      <node id="user3836" label="user3836" />
+      <node id="user3841" label="user3841" />
+      <node id="user3846" label="user3846" />
+      <node id="@canaltv_mas" label="@canaltv_mas" />
+      <node id="@lucialopezchile" label="@lucialopezchile" />
+      <node id="@jordicastell" label="@jordicastell" />
+      <node id="@Lafrangh" label="@Lafrangh" />
+      <node id="@jbellolio" label="@jbellolio" />
+      <node id="user7523" label="user7523" />
+      <node id="user3888" label="user3888" />
+      <node id="@ctxt_es" label="@ctxt_es" />
+      <node id="@BrankoMilan" label="@BrankoMilan" />
+      <node id="user7555" label="user7555" />
+      <node id="@CristobalYessen" label="@CristobalYessen" />
+      <node id="@Insulza" label="@Insulza" />
+      <node id="user158" label="user158" />
+      <node id="@santanderchile" label="@santanderchile" />
+      <node id="user3950" label="user3950" />
+      <node id="user3956" label="user3956" />
+      <node id="user7625" label="user7625" />
+      <node id="user3995" label="user3995" />
+      <node id="@orlandoxmamani" label="@orlandoxmamani" />
+      <node id="user7688" label="user7688" />
+      <node id="user3997" label="user3997" />
+      <node id="@PsiquiatriaCASR" label="@PsiquiatriaCASR" />
+      <node id="@SodimacAyuda" label="@SodimacAyuda" />
+      <node id="user4000" label="user4000" />
+      <node id="@revista_paula" label="@revista_paula" />
+      <node id="user4001" label="user4001" />
+      <node id="@JositaRiesco" label="@JositaRiesco" />
+      <node id="@SinCorbataTVN" label="@SinCorbataTVN" />
+      <node id="@gdelafue" label="@gdelafue" />
+      <node id="@Vidalvocero" label="@Vidalvocero" />
+      <node id="@Min_Hacienda" label="@Min_Hacienda" />
+      <node id="user7693" label="user7693" />
+      <node id="user7701" label="user7701" />
+      <node id="user4023" label="user4023" />
+      <node id="@CorazonLlaneroM" label="@CorazonLlaneroM" />
+      <node id="@rosangelamatosf" label="@rosangelamatosf" />
+      <node id="@Texeiraanthony" label="@Texeiraanthony" />
+      <node id="@VTVcanal8" label="@VTVcanal8" />
+      <node id="@TVesAlDia" label="@TVesAlDia" />
+      <node id="@teleSURtv" label="@teleSURtv" />
+      <node id="@laradiodelsur" label="@laradiodelsur" />
+      <node id="@jorgerpsuv" label="@jorgerpsuv" />
+      <node id="@vwinstonv" label="@vwinstonv" />
+      <node id="user7730" label="user7730" />
+      <node id="@min_interior" label="@min_interior" />
+      <node id="@HctorFernndezJ1" label="@HctorFernndezJ1" />
+      <node id="@DiazCanelB" label="@DiazCanelB" />
+      <node id="@reyleon1962" label="@reyleon1962" />
+      <node id="@talia_ntv" label="@talia_ntv" />
+      <node id="@BrunoRguezP" label="@BrunoRguezP" />
+      <node id="user7732" label="user7732" />
+      <node id="@manuquezada88" label="@manuquezada88" />
+      <node id="user168" label="user168" />
+      <node id="@RMoralesBriones" label="@RMoralesBriones" />
+      <node id="@_Danizambrano" label="@_Danizambrano" />
+      <node id="@pampelma" label="@pampelma" />
+      <node id="user7790" label="user7790" />
+      <node id="@colmed_chile" label="@colmed_chile" />
+      <node id="user4065" label="user4065" />
+      <node id="user7850" label="user7850" />
+      <node id="@muni_chillan" label="@muni_chillan" />
+      <node id="user4099" label="user4099" />
+      <node id="user7874" label="user7874" />
+      <node id="@lopezobrador_" label="@lopezobrador_" />
+      <node id="user7875" label="user7875" />
+      <node id="user7891" label="user7891" />
+      <node id="user4134" label="user4134" />
+      <node id="user7917" label="user7917" />
+      <node id="user4143" label="user4143" />
+      <node id="@agoney" label="@agoney" />
+      <node id="@Agoney" label="@Agoney" />
+      <node id="user178" label="user178" />
+      <node id="@AmnistiaOnline" label="@AmnistiaOnline" />
+      <node id="@RigobertMenchu" label="@RigobertMenchu" />
+      <node id="user7941" label="user7941" />
+      <node id="user4187" label="user4187" />
+      <node id="@drddelreal" label="@drddelreal" />
+      <node id="user4190" label="user4190" />
+      <node id="user4194" label="user4194" />
+      <node id="user7969" label="user7969" />
+      <node id="user7977" label="user7977" />
+      <node id="@presidencia_cl" label="@presidencia_cl" />
+      <node id="user7990" label="user7990" />
+      <node id="@ONU_es" label="@ONU_es" />
+      <node id="@ONU_derechos" label="@ONU_derechos" />
+      <node id="@mbachelet" label="@mbachelet" />
+      <node id="user7995" label="user7995" />
+      <node id="@BomberosdeChile" label="@BomberosdeChile" />
+      <node id="@Bomberos_CL" label="@Bomberos_CL" />
+      <node id="@Radio_bomberos" label="@Radio_bomberos" />
+      <node id="@QuartaCompagnia" label="@QuartaCompagnia" />
+      <node id="user4226" label="user4226" />
+      <node id="@ElViejoBolche" label="@ElViejoBolche" />
+      <node id="@ColoColo" label="@ColoColo" />
+      <node id="user4241" label="user4241" />
+      <node id="user4252" label="user4252" />
+      <node id="@JUANANDRESSUAZ4" label="@JUANANDRESSUAZ4" />
+      <node id="@Muni_Stgo" label="@Muni_Stgo" />
+      <node id="user8032" label="user8032" />
+      <node id="@TubinoCarlos" label="@TubinoCarlos" />
+      <node id="@BankadaFP" label="@BankadaFP" />
+      <node id="user4273" label="user4273" />
+      <node id="@vidalvocero" label="@vidalvocero" />
+      <node id="user186" label="user186" />
+      <node id="user4307" label="user4307" />
+      <node id="@Well086" label="@Well086" />
+      <node id="user8072" label="user8072" />
+      <node id="user4315" label="user4315" />
+      <node id="@Cambiadechannel" label="@Cambiadechannel" />
+      <node id="user4317" label="user4317" />
+      <node id="@entel_ayuda" label="@entel_ayuda" />
+      <node id="@ReclamosSubtel" label="@ReclamosSubtel" />
+      <node id="user4326" label="user4326" />
+      <node id="@BandChile" label="@BandChile" />
+      <node id="user8084" label="user8084" />
+      <node id="@AutopCentral" label="@AutopCentral" />
+      <node id="@Fisca_MTT" label="@Fisca_MTT" />
+      <node id="@mop_chile" label="@mop_chile" />
+      <node id="@mop_rm" label="@mop_rm" />
+      <node id="@Red_Movilidad" label="@Red_Movilidad" />
+      <node id="user4330" label="user4330" />
+      <node id="@Sintrabanagrar1" label="@Sintrabanagrar1" />
+      <node id="@MinAgricultura" label="@MinAgricultura" />
+      <node id="@MintrabajoCol" label="@MintrabajoCol" />
+      <node id="@liliaavellaPDA" label="@liliaavellaPDA" />
+      <node id="user8088" label="user8088" />
+      <node id="@bernardosampa" label="@bernardosampa" />
+      <node id="user6" label="user6" />
+      <node id="@Robert_Hunziker" label="@Robert_Hunziker" />
+      <node id="user4345" label="user4345" />
+      <node id="user4346" label="user4346" />
+      <node id="user4365" label="user4365" />
+      <node id="user4375" label="user4375" />
+      <node id="@paubelloni" label="@paubelloni" />
+      <node id="@cantamutto" label="@cantamutto" />
+      <node id="@AgosCostantino" label="@AgosCostantino" />
+      <node id="@AndresWainer1" label="@AndresWainer1" />
+      <node id="@lucianaghiotto" label="@lucianaghiotto" />
+      <node id="@lcassini" label="@lcassini" />
+      <node id="@GGarciaZanotti" label="@GGarciaZanotti" />
+      <node id="user8126" label="user8126" />
+      <node id="@antukaita" label="@antukaita" />
+      <node id="user4384" label="user4384" />
+      <node id="@AndreaAristegui" label="@AndreaAristegui" />
+      <node id="@tv_mauricio" label="@tv_mauricio" />
+      <node id="@PPDCoquimbo" label="@PPDCoquimbo" />
+      <node id="@_adrianamunoz" label="@_adrianamunoz" />
+      <node id="@PPD_Chile" label="@PPD_Chile" />
+      <node id="@chilevision" label="@chilevision" />
+      <node id="user8138" label="user8138" />
+      <node id="@PatoFdez" label="@PatoFdez" />
+      <node id="user199" label="user199" />
+      <node id="user4410" label="user4410" />
+      <node id="user4411" label="user4411" />
+      <node id="@pablocca__" label="@pablocca__" />
+      <node id="user8184" label="user8184" />
+      <node id="@lacuarta" label="@lacuarta" />
+      <node id="user4442" label="user4442" />
+      <node id="user4444" label="user4444" />
+      <node id="user4449" label="user4449" />
+      <node id="user8235" label="user8235" />
+      <node id="@TheRealGozzo" label="@TheRealGozzo" />
+      <node id="@javoaviles" label="@javoaviles" />
+      <node id="@mutinet" label="@mutinet" />
+      <node id="@streamlootsES" label="@streamlootsES" />
+      <node id="user4471" label="user4471" />
+      <node id="user4478" label="user4478" />
+      <node id="@DonJuanra" label="@DonJuanra" />
+      <node id="@ChiloteComeAjo" label="@ChiloteComeAjo" />
+      <node id="@DaemPuertoMontt" label="@DaemPuertoMontt" />
+      <node id="@GervoyAlcalde" label="@GervoyAlcalde" />
+      <node id="@33_segundos" label="@33_segundos" />
+      <node id="@rrickemiller" label="@rrickemiller" />
+      <node id="@CanalVertice" label="@CanalVertice" />
+      <node id="user8282" label="user8282" />
+      <node id="@nytvideo" label="@nytvideo" />
+      <node id="user8289" label="user8289" />
+      <node id="@BTS_twt" label="@BTS_twt" />
+      <node id="user8303" label="user8303" />
+      <node id="user4496" label="user4496" />
+      <node id="@canalspace" label="@canalspace" />
+      <node id="user207" label="user207" />
+      <node id="@PDC_Chile" label="@PDC_Chile" />
+      <node id="@tv_monica" label="@tv_monica" />
+      <node id="user208" label="user208" />
+      <node id="@JM_AlonsoPuig" label="@JM_AlonsoPuig" />
+      <node id="@beltrangambier" label="@beltrangambier" />
+      <node id="@valeroyanez" label="@valeroyanez" />
+      <node id="@abalosmeco" label="@abalosmeco" />
+      <node id="@fomentogob" label="@fomentogob" />
+      <node id="@PSOE" label="@PSOE" />
+      <node id="@Gobiernoespanol" label="@Gobiernoespanol" />
+      <node id="@sanchezcastejon" label="@sanchezcastejon" />
+      <node id="@JMDretiro" label="@JMDretiro" />
+      <node id="@elpais_espana" label="@elpais_espana" />
+      <node id="@icam_es" label="@icam_es" />
+      <node id="@El_Plural" label="@El_Plural" />
+      <node id="@pablocasado_" label="@pablocasado_" />
+      <node id="@Pablo_Iglesias" label="@Pablo_Iglesias" />
+      <node id="@Albert_Rivera" label="@Albert_Rivera" />
+      <node id="@Santi_ABASCAL" label="@Santi_ABASCAL" />
+      <node id="@AlmeidaPP" label="@AlmeidaPP" />
+      <node id="@IdiazAyuso" label="@IdiazAyuso" />
+      <node id="@elespanolcom" label="@elespanolcom" />
+      <node id="@voz_populi" label="@voz_populi" />
+      <node id="user213" label="user213" />
+      <node id="@Change" label="@Change" />
+      <node id="user4515" label="user4515" />
+      <node id="@ivanmoreirab" label="@ivanmoreirab" />
+      <node id="@udipopular" label="@udipopular" />
+      <node id="user4524" label="user4524" />
+      <node id="@Cenabast" label="@Cenabast" />
+      <node id="user4533" label="user4533" />
+      <node id="@GimnasiosEnergy" label="@GimnasiosEnergy" />
+      <node id="user4547" label="user4547" />
+      <node id="user4548" label="user4548" />
+      <node id="@ValdebenitoNata" label="@ValdebenitoNata" />
+      <node id="@Cutchile" label="@Cutchile" />
+      <node id="@Confech" label="@Confech" />
+      <node id="@isabelpla" label="@isabelpla" />
+      <node id="user8408" label="user8408" />
+      <node id="user8410" label="user8410" />
+      <node id="@RiverPlate" label="@RiverPlate" />
+      <node id="@Nintenderos" label="@Nintenderos" />
+      <node id="@NintendoAmerica" label="@NintendoAmerica" />
+      <node id="user8413" label="user8413" />
+      <node id="@CorpoelecInform" label="@CorpoelecInform" />
+      <node id="user4556" label="user4556" />
+      <node id="@alamos_fernando" label="@alamos_fernando" />
+      <node id="user4559" label="user4559" />
+      <node id="@ischargro" label="@ischargro" />
+      <node id="user8432" label="user8432" />
+      <node id="@MundoCopec" label="@MundoCopec" />
+      <node id="@MuniVitacura" label="@MuniVitacura" />
+      <node id="@denunciavita" label="@denunciavita" />
+      <node id="user4565" label="user4565" />
+      <node id="@jjcc_chile" label="@jjcc_chile" />
+      <node id="user4585" label="user4585" />
+      <node id="@bcodeltesoro" label="@bcodeltesoro" />
+      <node id="user4586" label="user4586" />
+      <node id="@FLagos_Neumann" label="@FLagos_Neumann" />
+      <node id="@PierreLebret" label="@PierreLebret" />
+      <node id="@jmiquelartigues" label="@jmiquelartigues" />
+      <node id="user4602" label="user4602" />
+      <node id="@Brodriguez_16" label="@Brodriguez_16" />
+      <node id="user4605" label="user4605" />
+      <node id="@elmundotoday" label="@elmundotoday" />
+      <node id="user8499" label="user8499" />
+      <node id="@CHUCKY_MUSTAINE" label="@CHUCKY_MUSTAINE" />
+      <node id="@MemorBinder" label="@MemorBinder" />
+      <node id="@PRadicalcl" label="@PRadicalcl" />
+      <node id="@mriesco" label="@mriesco" />
+      <node id="@CNT_NOmasAFP" label="@CNT_NOmasAFP" />
+      <node id="user8507" label="user8507" />
+      <node id="@Harry_Styles" label="@Harry_Styles" />
+      <node id="user4626" label="user4626" />
+      <node id="user4636" label="user4636" />
+      <node id="user8539" label="user8539" />
+      <node id="@AlexisKast_" label="@AlexisKast_" />
+      <node id="user8542" label="user8542" />
+      <node id="@pactabac1" label="@pactabac1" />
+      <node id="user8543" label="user8543" />
+      <node id="user8558" label="user8558" />
+      <node id="@teleiguana" label="@teleiguana" />
+      <node id="user8559" label="user8559" />
+      <node id="user4654" label="user4654" />
+      <node id="@TiareMahani" label="@TiareMahani" />
+      <node id="user8572" label="user8572" />
+      <node id="@KaiJewtzi" label="@KaiJewtzi" />
+      <node id="user230" label="user230" />
+      <node id="user232" label="user232" />
+      <node id="@IquiqueDeTodos" label="@IquiqueDeTodos" />
+      <node id="user8603" label="user8603" />
+      <node id="@FelipeCalderon" label="@FelipeCalderon" />
+      <node id="@Lothkar_" label="@Lothkar_" />
+      <node id="@MiaWitker" label="@MiaWitker" />
+      <node id="@realDonaldTrump" label="@realDonaldTrump" />
+      <node id="user238" label="user238" />
+      <node id="user254" label="user254" />
+      <node id="user4721" label="user4721" />
+      <node id="@DefensoriaUch" label="@DefensoriaUch" />
+      <node id="@derecho" label="@derecho" />
+      <node id="user4736" label="user4736" />
+      <node id="@MTV" label="@MTV" />
+      <node id="user8675" label="user8675" />
+      <node id="user8679" label="user8679" />
+      <node id="user257" label="user257" />
+      <node id="user4758" label="user4758" />
+      <node id="user4765" label="user4765" />
+      <node id="user4778" label="user4778" />
+      <node id="user8693" label="user8693" />
+      <node id="@felicesforrados" label="@felicesforrados" />
+      <node id="user8694" label="user8694" />
+      <node id="user4790" label="user4790" />
+      <node id="user267" label="user267" />
+      <node id="@inidebate" label="@inidebate" />
+      <node id="user4814" label="user4814" />
+      <node id="user4818" label="user4818" />
+      <node id="@quelorivas" label="@quelorivas" />
+      <node id="user4827" label="user4827" />
+      <node id="@drodriguezminci" label="@drodriguezminci" />
+      <node id="user4829" label="user4829" />
+      <node id="@alcaldesoto" label="@alcaldesoto" />
+      <node id="@Rre_Ohiggins" label="@Rre_Ohiggins" />
+      <node id="@operadorcat6" label="@operadorcat6" />
+      <node id="user8771" label="user8771" />
+      <node id="@kebensperger" label="@kebensperger" />
+      <node id="user4844" label="user4844" />
+      <node id="user8789" label="user8789" />
+      <node id="@virario3" label="@virario3" />
+      <node id="user8799" label="user8799" />
+      <node id="@SiomiUlloa" label="@SiomiUlloa" />
+      <node id="user8808" label="user8808" />
+      <node id="user8825" label="user8825" />
+      <node id="@ginis_c" label="@ginis_c" />
+      <node id="@ntabrizy" label="@ntabrizy" />
+      <node id="user8864" label="user8864" />
+      <node id="@ActualidadRT" label="@ActualidadRT" />
+      <node id="@evoespueblo" label="@evoespueblo" />
+      <node id="@ChinaDaily" label="@ChinaDaily" />
+      <node id="@josepinera" label="@josepinera" />
+      <node id="user4891" label="user4891" />
+      <node id="@marinaarauco" label="@marinaarauco" />
+      <node id="user296" label="user296" />
+      <node id="user298" label="user298" />
+      <node id="user8896" label="user8896" />
+      <node id="@mirthalegrand" label="@mirthalegrand" />
+      <node id="@alfleuco" label="@alfleuco" />
+      <node id="@fantinofantino" label="@fantinofantino" />
+      <node id="@edufeiok" label="@edufeiok" />
+      <node id="@majulluis" label="@majulluis" />
+      <node id="@alefinocchiaro" label="@alefinocchiaro" />
+      <node id="@RealpolitikOK" label="@RealpolitikOK" />
+      <node id="@mariuvidal" label="@mariuvidal" />
+      <node id="user8899" label="user8899" />
+      <node id="@CarabOHiggins" label="@CarabOHiggins" />
+      <node id="@CarabTransito" label="@CarabTransito" />
+      <node id="user4905" label="user4905" />
+      <node id="@Uber" label="@Uber" />
+      <node id="user4907" label="user4907" />
+      <node id="@CarlosS65911850" label="@CarlosS65911850" />
+      <node id="@DocCMirandaC" label="@DocCMirandaC" />
+      <node id="user302" label="user302" />
+      <node id="@nacioncl" label="@nacioncl" />
+      <node id="user4914" label="user4914" />
+      <node id="@T13Noticias" label="@T13Noticias" />
+      <node id="user4921" label="user4921" />
+      <node id="@rutilioescandon" label="@rutilioescandon" />
+      <node id="user8932" label="user8932" />
+      <node id="@ElSiteco" label="@ElSiteco" />
+      <node id="user306" label="user306" />
+      <node id="@ep_aragon" label="@ep_aragon" />
+      <node id="@moritastgo" label="@moritastgo" />
+      <node id="@huelvaya" label="@huelvaya" />
+      <node id="user308" label="user308" />
+      <node id="@mariajosetrece" label="@mariajosetrece" />
+      <node id="user310" label="user310" />
+      <node id="@ProntoCopec" label="@ProntoCopec" />
+      <node id="user4933" label="user4933" />
+      <node id="@JorgitoPetel" label="@JorgitoPetel" />
+      <node id="user4934" label="user4934" />
+      <node id="@elpais_economia" label="@elpais_economia" />
+      <node id="@spanishrevorg" label="@spanishrevorg" />
+      <node id="@20m" label="@20m" />
+      <node id="user316" label="user316" />
+      <node id="user317" label="user317" />
+      <node id="@puq" label="@puq" />
+      <node id="user4947" label="user4947" />
+      <node id="user5015" label="user5015" />
+      <node id="user5032" label="user5032" />
+      <node id="@RFI_Es" label="@RFI_Es" />
+      <node id="user8962" label="user8962" />
+      <node id="user5088" label="user5088" />
+      <node id="@Rementeria" label="@Rementeria" />
+      <node id="user5128" label="user5128" />
+      <node id="user5183" label="user5183" />
+      <node id="@teatrodelpuente" label="@teatrodelpuente" />
+      <node id="@defensorianinez" label="@defensorianinez" />
+      <node id="user5197" label="user5197" />
+      <node id="user8994" label="user8994" />
+      <node id="@guillier" label="@guillier" />
+      <node id="user5220" label="user5220" />
+      <node id="@TioYabi31" label="@TioYabi31" />
+      <node id="@caceresmerello" label="@caceresmerello" />
+      <node id="@tupacarnal" label="@tupacarnal" />
+      <node id="@RDP_1925" label="@RDP_1925" />
+      <node id="user9004" label="user9004" />
+      <node id="user5227" label="user5227" />
+      <node id="@TyCSports" label="@TyCSports" />
+      <node id="user5231" label="user5231" />
+      <node id="user5235" label="user5235" />
+      <node id="@tmlascondes" label="@tmlascondes" />
+      <node id="user5238" label="user5238" />
+      <node id="@Igueichapir" label="@Igueichapir" />
+      <node id="@MiguelTorresZ83" label="@MiguelTorresZ83" />
+      <node id="@elmontarraz" label="@elmontarraz" />
+      <node id="user366" label="user366" />
+      <node id="user5261" label="user5261" />
+      <node id="@Cami_FloresO" label="@Cami_FloresO" />
+      <node id="@felipekast" label="@felipekast" />
+      <node id="@mjossando" label="@mjossando" />
+      <node id="user369" label="user369" />
+      <node id="user9018" label="user9018" />
+      <node id="user373" label="user373" />
+      <node id="@vanessa_kareen" label="@vanessa_kareen" />
+      <node id="@amaralcassi" label="@amaralcassi" />
+      <node id="user375" label="user375" />
+      <node id="@_belenaza" label="@_belenaza" />
+      <node id="user5299" label="user5299" />
+      <node id="@Mega" label="@Mega" />
+      <node id="user5307" label="user5307" />
+      <node id="@pomytapiad" label="@pomytapiad" />
+      <node id="@fachistoteles" label="@fachistoteles" />
+      <node id="@maurofacho" label="@maurofacho" />
+      <node id="@jairbolsonaro" label="@jairbolsonaro" />
+      <node id="user388" label="user388" />
+      <node id="@rockandwings" label="@rockandwings" />
+      <node id="user9033" label="user9033" />
+      <node id="@andreschadwickp" label="@andreschadwickp" />
+      <node id="@danielstingo" label="@danielstingo" />
+      <node id="user5316" label="user5316" />
+      <node id="@CerrillosCL" label="@CerrillosCL" />
+      <node id="@MuniCerrillos" label="@MuniCerrillos" />
+      <node id="user5322" label="user5322" />
+      <node id="@iristos" label="@iristos" />
+      <node id="user391" label="user391" />
+      <node id="user395" label="user395" />
+      <node id="@retroparanoia" label="@retroparanoia" />
+      <node id="user9048" label="user9048" />
+      <node id="@iambeckyg" label="@iambeckyg" />
+      <node id="@rosaliavt" label="@rosaliavt" />
+      <node id="user5399" label="user5399" />
+      <node id="@phfchile" label="@phfchile" />
+      <node id="user5437" label="user5437" />
+      <node id="@sergio_fajardo" label="@sergio_fajardo" />
+      <node id="user427" label="user427" />
+      <node id="user5441" label="user5441" />
+      <node id="@JesiRiveroB" label="@JesiRiveroB" />
+      <node id="user437" label="user437" />
+      <node id="@FarideZeran" label="@FarideZeran" />
+      <node id="user9108" label="user9108" />
+      <node id="user5483" label="user5483" />
+      <node id="@CatitaEnFlor" label="@CatitaEnFlor" />
+      <node id="@mendoyaesta" label="@mendoyaesta" />
+      <node id="@ComiteElPolo" label="@ComiteElPolo" />
+      <node id="@tacomachali" label="@tacomachali" />
+      <node id="@AltoLoCastillo" label="@AltoLoCastillo" />
+      <node id="@Harasde_Machali" label="@Harasde_Machali" />
+      <node id="@tamypalma" label="@tamypalma" />
+      <node id="@ManuelToro_" label="@ManuelToro_" />
+      <node id="@Machali_Digital" label="@Machali_Digital" />
+      <node id="@machalitv" label="@machalitv" />
+      <node id="@alecornejob" label="@alecornejob" />
+      <node id="@pamevargasc" label="@pamevargasc" />
+      <node id="@vktfg" label="@vktfg" />
+      <node id="@HacemosR" label="@HacemosR" />
+      <node id="@MACACHANDIA" label="@MACACHANDIA" />
+      <node id="@RadioMachali" label="@RadioMachali" />
+      <node id="@jmefistofeles" label="@jmefistofeles" />
+      <node id="user455" label="user455" />
+      <node id="user5496" label="user5496" />
+      <node id="@Cordobacfsad" label="@Cordobacfsad" />
+      <node id="user462" label="user462" />
+      <node id="user5513" label="user5513" />
+      <node id="@pusilan1me" label="@pusilan1me" />
+      <node id="@blondieclub" label="@blondieclub" />
+      <node id="user9118" label="user9118" />
+      <node id="user5518" label="user5518" />
+      <node id="@GaelDiputada" label="@GaelDiputada" />
+      <node id="user9127" label="user9127" />
+      <node id="@serewhitena1617" label="@serewhitena1617" />
+      <node id="@Yo_soyelbarto" label="@Yo_soyelbarto" />
+      <node id="@jeronimobustos" label="@jeronimobustos" />
+      <node id="@diegogaribaldi" label="@diegogaribaldi" />
+      <node id="@spitta1969" label="@spitta1969" />
+      <node id="user491" label="user491" />
+      <node id="user5550" label="user5550" />
+      <node id="@min_ciencia" label="@min_ciencia" />
+      <node id="@MMAChile" label="@MMAChile" />
+      <node id="@MuniNunoa" label="@MuniNunoa" />
+      <node id="user9153" label="user9153" />
+      <node id="user5618" label="user5618" />
+      <node id="@Ichitta" label="@Ichitta" />
+      <node id="user5623" label="user5623" />
+      <node id="@gracelazcano" label="@gracelazcano" />
+      <node id="user5624" label="user5624" />
+      <node id="@Neomuhae3" label="@Neomuhae3" />
+      <node id="@desde_1965" label="@desde_1965" />
+      <node id="@jacquel29289965" label="@jacquel29289965" />
+      <node id="user517" label="user517" />
+      <node id="user5648" label="user5648" />
+      <node id="@CAB_oficial" label="@CAB_oficial" />
+      <node id="user9223" label="user9223" />
+      <node id="user9237" label="user9237" />
+      <node id="@LuisCol35759096" label="@LuisCol35759096" />
+      <node id="user550" label="user550" />
+      <node id="@pilarsordo" label="@pilarsordo" />
+      <node id="user5720" label="user5720" />
+      <node id="user5741" label="user5741" />
+      <node id="@rogerwaters" label="@rogerwaters" />
+      <node id="user568" label="user568" />
+      <node id="user569" label="user569" />
+      <node id="user5768" label="user5768" />
+      <node id="user601" label="user601" />
+      <node id="@AquilesPadillaP" label="@AquilesPadillaP" />
+      <node id="@Saritaneon" label="@Saritaneon" />
+      <node id="user604" label="user604" />
+      <node id="@RefugioDhermes" label="@RefugioDhermes" />
+      <node id="@AnimalParaiso" label="@AnimalParaiso" />
+      <node id="@BlanquitaMontt" label="@BlanquitaMontt" />
+      <node id="user606" label="user606" />
+      <node id="user608" label="user608" />
+      <node id="@Chilevision_cl" label="@Chilevision_cl" />
+      <node id="user625" label="user625" />
+      <node id="@DANIELALVAREZL6" label="@DANIELALVAREZL6" />
+      <node id="@ManuelCortesA" label="@ManuelCortesA" />
+      <node id="@manuelbaquedano" label="@manuelbaquedano" />
+      <node id="@mhl239" label="@mhl239" />
+      <node id="@rafamarinm" label="@rafamarinm" />
+      <node id="@huelladigital5" label="@huelladigital5" />
+      <node id="@gvalpo" label="@gvalpo" />
+      <node id="@nytimeses" label="@nytimeses" />
+      <node id="@bbcmundo" label="@bbcmundo" />
+      <node id="@RedMiVoz" label="@RedMiVoz" />
+      <node id="@elmartutino" label="@elmartutino" />
+      <node id="@GAMBA_CL" label="@GAMBA_CL" />
+      <node id="@LAONDADIGITAL" label="@LAONDADIGITAL" />
+      <node id="@jorbritoh" label="@jorbritoh" />
+      <node id="@hnvjournal" label="@hnvjournal" />
+      <node id="@jdelapaz1" label="@jdelapaz1" />
+      <node id="user626" label="user626" />
+      <node id="user645" label="user645" />
+      <node id="user5847" label="user5847" />
+      <node id="@Ejercito_Chile" label="@Ejercito_Chile" />
+      <node id="user5878" label="user5878" />
+      <node id="@el_pais" label="@el_pais" />
+      <node id="user5882" label="user5882" />
+      <node id="user665" label="user665" />
+      <node id="@JoyceCrdenasOs1" label="@JoyceCrdenasOs1" />
+      <node id="user12" label="user12" />
+      <node id="@DaniUrrizola" label="@DaniUrrizola" />
+      <node id="@MenthoIatum" label="@MenthoIatum" />
+      <node id="user5924" label="user5924" />
+      <node id="@Minvivienda" label="@Minvivienda" />
+      <node id="user683" label="user683" />
+      <node id="@Revista_Sabado" label="@Revista_Sabado" />
+      <node id="@JavierMAlcalde" label="@JavierMAlcalde" />
+      <node id="@AlfredoSilvaV" label="@AlfredoSilvaV" />
+      <node id="user5937" label="user5937" />
+      <node id="user5944" label="user5944" />
+      <node id="@gteillier" label="@gteillier" />
+      <node id="@Hugo_Gutierrez_" label="@Hugo_Gutierrez_" />
+      <node id="@carmenhertz" label="@carmenhertz" />
+      <node id="@GabrielBir" label="@GabrielBir" />
+      <node id="@Barbara_figue" label="@Barbara_figue" />
+      <node id="@NolbertoDiaz" label="@NolbertoDiaz" />
+      <node id="@OLanderretche" label="@OLanderretche" />
+      <node id="@fernando_atria" label="@fernando_atria" />
+      <node id="@desbordes" label="@desbordes" />
+      <node id="@PJudicialChile" label="@PJudicialChile" />
+      <node id="@GranLogiaChile" label="@GranLogiaChile" />
+      <node id="@fiscalesdechile" label="@fiscalesdechile" />
+      <node id="@GBORIC" label="@GBORIC" />
+      <node id="user5958" label="user5958" />
+      <node id="@CodelcoChile" label="@CodelcoChile" />
+      <node id="user5971" label="user5971" />
+      <node id="user5975" label="user5975" />
+      <node id="@TeatroMori" label="@TeatroMori" />
+      <node id="@TryoTeatroBanda" label="@TryoTeatroBanda" />
+      <node id="@teatromori" label="@teatromori" />
+      <node id="@tryoteatrobanda" label="@tryoteatrobanda" />
+      <node id="user714" label="user714" />
+      <node id="@irvindario" label="@irvindario" />
+      <node id="user5985" label="user5985" />
+      <node id="@asisomosoficial" label="@asisomosoficial" />
+      <node id="user5995" label="user5995" />
+      <node id="@AlcCarrizal" label="@AlcCarrizal" />
+      <node id="@farith15" label="@farith15" />
+      <node id="@ErickLozanoDice" label="@ErickLozanoDice" />
+      <node id="user6008" label="user6008" />
+      <node id="@FitoPaezMusica" label="@FitoPaezMusica" />
+      <node id="@Spotify" label="@Spotify" />
+      <node id="user6020" label="user6020" />
+      <node id="@egonzalezprofe" label="@egonzalezprofe" />
+      <node id="user738" label="user738" />
+      <node id="@jucerodriguezo" label="@jucerodriguezo" />
+      <node id="user6023" label="user6023" />
+      <node id="user6030" label="user6030" />
+      <node id="@elvillegaschile" label="@elvillegaschile" />
+      <node id="user754" label="user754" />
+      <node id="@ShawnMendes" label="@ShawnMendes" />
+      <node id="user774" label="user774" />
+      <node id="@marapizarro" label="@marapizarro" />
+      <node id="user776" label="user776" />
+      <node id="@MunicipioValpo" label="@MunicipioValpo" />
+      <node id="@cotyreginato" label="@cotyreginato" />
+      <node id="@vinadelmar" label="@vinadelmar" />
+      <node id="user782" label="user782" />
+      <node id="@LaMismaPeroNo" label="@LaMismaPeroNo" />
+      <node id="user6071" label="user6071" />
+      <node id="@josepinera_en" label="@josepinera_en" />
+      <node id="@gmobastias" label="@gmobastias" />
+      <node id="user6099" label="user6099" />
+      <node id="user6103" label="user6103" />
+      <node id="@clichesprensa" label="@clichesprensa" />
+      <node id="user6113" label="user6113" />
+      <node id="@TVN" label="@TVN" />
+      <node id="user801" label="user801" />
+      <node id="user817" label="user817" />
+      <node id="user820" label="user820" />
+      <node id="@antofasegura" label="@antofasegura" />
+      <node id="@AlumbradopIMA" label="@AlumbradopIMA" />
+      <node id="user6153" label="user6153" />
+      <node id="user833" label="user833" />
+      <node id="@MoTownPhenom" label="@MoTownPhenom" />
+      <node id="user839" label="user839" />
+      <node id="user844" label="user844" />
+      <node id="@CNNEE" label="@CNNEE" />
+      <node id="user848" label="user848" />
+      <node id="user6178" label="user6178" />
+      <node id="user6200" label="user6200" />
+      <node id="@coropo" label="@coropo" />
+      <node id="@mayearmas" label="@mayearmas" />
+      <node id="user882" label="user882" />
+      <node id="user896" label="user896" />
+      <node id="user903" label="user903" />
+      <node id="@KenaLorenziniL" label="@KenaLorenziniL" />
+      <node id="@subelaradio" label="@subelaradio" />
+      <node id="@busesjm" label="@busesjm" />
+      <node id="user917" label="user917" />
+      <node id="user941" label="user941" />
+      <node id="@edicion_cero" label="@edicion_cero" />
+      <node id="@Periodistasiqq" label="@Periodistasiqq" />
+      <node id="@matias_ramirezp" label="@matias_ramirezp" />
+      <node id="@prensaopal" label="@prensaopal" />
+      <node id="@ChilePeriodista" label="@ChilePeriodista" />
+      <node id="user953" label="user953" />
+      <node id="user958" label="user958" />
+      <node id="user963" label="user963" />
+      <node id="user968" label="user968" />
+      <node id="@onemichile" label="@onemichile" />
+      <node id="@elmorrocotudo" label="@elmorrocotudo" />
+      <node id="user988" label="user988" />
+      <node id="user997" label="user997" />
+      <node id="user1021" label="user1021" />
+      <node id="@TeatroVeleta" label="@TeatroVeleta" />
+      <node id="@teatroveleta" label="@teatroveleta" />
+      <node id="user1026" label="user1026" />
+      <node id="@artecanal" label="@artecanal" />
+      <node id="@mdieguezsm" label="@mdieguezsm" />
+      <node id="user1044" label="user1044" />
+      <node id="user1049" label="user1049" />
+      <node id="user9273" label="user9273" />
+      <node id="user9287" label="user9287" />
+      <node id="@elh_vito_o" label="@elh_vito_o" />
+      <node id="user9306" label="user9306" />
+      <node id="@alejandrosanz" label="@alejandrosanz" />
+      <node id="user6233" label="user6233" />
+      <node id="user9341" label="user9341" />
+      <node id="@HuaWuxians" label="@HuaWuxians" />
+      <node id="user1093" label="user1093" />
+      <node id="user1097" label="user1097" />
+      <node id="@RodrigoWagnerB" label="@RodrigoWagnerB" />
+      <node id="@La_Segunda" label="@La_Segunda" />
+      <node id="user1098" label="user1098" />
+      <node id="user9367" label="user9367" />
+      <node id="@SAEA170690" label="@SAEA170690" />
+      <node id="user6248" label="user6248" />
+      <node id="@Coop_NomadaSur" label="@Coop_NomadaSur" />
+      <node id="user9390" label="user9390" />
+      <node id="@NOmasAFP" label="@NOmasAFP" />
+      <node id="@LuisMesina1" label="@LuisMesina1" />
+      <node id="user1104" label="user1104" />
+      <node id="@JorgeGoldenberg" label="@JorgeGoldenberg" />
+      <node id="user6257" label="user6257" />
+      <node id="@conini_uch" label="@conini_uch" />
+      <node id="user1106" label="user1106" />
+      <node id="user6258" label="user6258" />
+      <node id="user9435" label="user9435" />
+      <node id="user1119" label="user1119" />
+      <node id="@MEGA" label="@MEGA" />
+      <node id="user1122" label="user1122" />
+      <node id="@ceciliamorel" label="@ceciliamorel" />
+      <node id="user15" label="user15" />
+      <node id="@AgusBazterrica" label="@AgusBazterrica" />
+      <node id="@okiagostina" label="@okiagostina" />
+      <node id="user1131" label="user1131" />
+      <node id="@qklutoo" label="@qklutoo" />
+      <node id="@panchulin" label="@panchulin" />
+      <node id="@FrdyVlds" label="@FrdyVlds" />
+      <node id="@JPOrtizMoreno" label="@JPOrtizMoreno" />
+      <node id="user9515" label="user9515" />
+      <node id="user1148" label="user1148" />
+      <node id="@GloriaHutt" label="@GloriaHutt" />
+      <node id="user1149" label="user1149" />
+      <node id="@amaraloficial" label="@amaraloficial" />
+      <node id="user6290" label="user6290" />
+      <node id="user9558" label="user9558" />
+      <node id="@motherofcobayos" label="@motherofcobayos" />
+      <node id="@Solconese" label="@Solconese" />
+      <node id="user6293" label="user6293" />
+      <node id="@catalunya_marea" label="@catalunya_marea" />
+      <node id="@pensionazo_no" label="@pensionazo_no" />
+      <node id="@SanValb" label="@SanValb" />
+      <node id="@DOLORES94437532" label="@DOLORES94437532" />
+      <node id="@VizcainCarmen" label="@VizcainCarmen" />
+      <node id="@AlcaldeMontse" label="@AlcaldeMontse" />
+      <node id="user9602" label="user9602" />
+      <node id="user1173" label="user1173" />
+      <node id="@ojochile" label="@ojochile" />
+      <node id="user9616" label="user9616" />
+      <node id="user1180" label="user1180" />
+      <node id="@Bennettjhony" label="@Bennettjhony" />
+      <node id="@AleDiezRT" label="@AleDiezRT" />
+      <node id="@MACHINET300" label="@MACHINET300" />
+      <node id="@CamiloFreeeman" label="@CamiloFreeeman" />
+      <node id="user9641" label="user9641" />
+      <node id="user1189" label="user1189" />
+      <node id="user1199" label="user1199" />
+      <node id="@luisferpo" label="@luisferpo" />
+      <node id="@Arsenal" label="@Arsenal" />
+      <node id="user9688" label="user9688" />
+      <node id="@vertele" label="@vertele" />
+      <node id="user9690" label="user9690" />
+      <node id="user6324" label="user6324" />
+      <node id="@pulso_tw" label="@pulso_tw" />
+      <node id="user1210" label="user1210" />
+      <node id="@CineplanetChile" label="@CineplanetChile" />
+      <node id="@NuevaMasvida_" label="@NuevaMasvida_" />
+      <node id="user6334" label="user6334" />
+      <node id="user9728" label="user9728" />
+      <node id="@evopoli" label="@evopoli" />
+      <node id="@SERNAC" label="@SERNAC" />
+      <node id="user9735" label="user9735" />
+      <node id="user9736" label="user9736" />
+      <node id="@WradioColombia" label="@WradioColombia" />
+      <node id="user1219" label="user1219" />
+      <node id="@David_Yost" label="@David_Yost" />
+      <node id="user9761" label="user9761" />
+      <node id="user1238" label="user1238" />
+      <node id="user9797" label="user9797" />
+      <node id="user9798" label="user9798" />
+      <node id="@MesaSocialValpo" label="@MesaSocialValpo" />
+      <node id="user9809" label="user9809" />
+      <node id="@airamfernandez" label="@airamfernandez" />
+      <node id="user9842" label="user9842" />
+      <node id="@magpiesandslugs" label="@magpiesandslugs" />
+      <node id="@EnriqueMenaP1" label="@EnriqueMenaP1" />
+      <node id="@ajplus" label="@ajplus" />
+      <node id="user1258" label="user1258" />
+      <node id="@TheRock" label="@TheRock" />
+      <node id="@GamebredFighter" label="@GamebredFighter" />
+      <node id="@NateDiaz209" label="@NateDiaz209" />
+      <node id="@VicenteLuqueMMA" label="@VicenteLuqueMMA" />
+      <node id="user9870" label="user9870" />
+      <node id="@Obs_DDHH_PM" label="@Obs_DDHH_PM" />
+      <node id="@Muletjaime" label="@Muletjaime" />
+      <node id="@EcologicoAgro" label="@EcologicoAgro" />
+      <node id="user9928" label="user9928" />
+      <node id="@Lasvillaoficial" label="@Lasvillaoficial" />
+      <node id="user9940" label="user9940" />
+      <node id="user6394" label="user6394" />
+      <node id="@EvaSoriano90" label="@EvaSoriano90" />
+      <node id="user1296" label="user1296" />
+      <node id="@chilev" label="@chilev" />
+      <node id="user1300" label="user1300" />
+      <node id="user10036" label="user10036" />
+      <node id="@ElTear_" label="@ElTear_" />
+      <node id="@errorjeon404" label="@errorjeon404" />
+      <node id="user6405" label="user6405" />
+      <node id="@carolita_rock" label="@carolita_rock" />
+      <node id="@priasecas" label="@priasecas" />
+      <node id="user10089" label="user10089" />
+      <node id="@ElHedonist" label="@ElHedonist" />
+      <node id="user6407" label="user6407" />
+      <node id="@UFCEspanol" label="@UFCEspanol" />
+      <node id="user6421" label="user6421" />
+      <node id="@flomerlez" label="@flomerlez" />
+      <node id="@chicasdecalipso" label="@chicasdecalipso" />
+      <node id="@emedinachile" label="@emedinachile" />
+      <node id="user1334" label="user1334" />
+      <node id="user10177" label="user10177" />
+      <node id="user10182" label="user10182" />
+      <node id="@somoscaseritas" label="@somoscaseritas" />
+      <node id="user1341" label="user1341" />
+      <node id="user10192" label="user10192" />
+      <node id="@IrantzuVarela" label="@IrantzuVarela" />
+      <node id="user1356" label="user1356" />
+      <node id="user6434" label="user6434" />
+      <node id="@cesifoti" label="@cesifoti" />
+      <node id="user10259" label="user10259" />
+      <node id="@PelaoPati" label="@PelaoPati" />
+      <node id="@patricionavia" label="@patricionavia" />
+      <node id="user1365" label="user1365" />
+      <node id="user10270" label="user10270" />
+      <node id="@BrevisSamuel" label="@BrevisSamuel" />
+      <node id="@Kate69807278" label="@Kate69807278" />
+      <node id="@NuevaConstituc3" label="@NuevaConstituc3" />
+      <node id="@seni_correa" label="@seni_correa" />
+      <node id="@ayken_1" label="@ayken_1" />
+      <node id="user10274" label="user10274" />
+      <node id="@JuntaVOlimpica" label="@JuntaVOlimpica" />
+      <node id="user10306" label="user10306" />
+      <node id="@gsorolla" label="@gsorolla" />
+      <node id="@Josefinajen1986" label="@Josefinajen1986" />
+      <node id="@marita_stappung" label="@marita_stappung" />
+      <node id="user10311" label="user10311" />
+      <node id="user10338" label="user10338" />
+      <node id="@indh" label="@indh" />
+      <node id="user6464" label="user6464" />
+      <node id="@pattycordovely" label="@pattycordovely" />
+      <node id="@barbarabricenok" label="@barbarabricenok" />
+      <node id="@mjossandon" label="@mjossandon" />
+      <node id="@lcruzcoke" label="@lcruzcoke" />
+      <node id="user10378" label="user10378" />
+      <node id="@pablomoyano_ok" label="@pablomoyano_ok" />
+      <node id="@SiempreDelRojo" label="@SiempreDelRojo" />
+      <node id="user10411" label="user10411" />
+      <node id="@catacarabelli" label="@catacarabelli" />
+      <node id="@NektaGG" label="@NektaGG" />
+      <node id="@BlizzLatAm" label="@BlizzLatAm" />
+      <node id="user10443" label="user10443" />
+      <node id="user10446" label="user10446" />
+      <node id="@_abrilflores" label="@_abrilflores" />
+      <node id="@SudorMarika" label="@SudorMarika" />
+      <node id="user1423" label="user1423" />
+      <node id="@LaPrensAustral" label="@LaPrensAustral" />
+      <node id="user1434" label="user1434" />
+      <node id="user1436" label="user1436" />
+      <node id="user6481" label="user6481" />
+      <node id="@AXELKAISER" label="@AXELKAISER" />
+      <node id="@GerardoLagosM" label="@GerardoLagosM" />
+      <node id="user10483" label="user10483" />
+      <node id="@armada_ecuador" label="@armada_ecuador" />
+      <node id="user10514" label="user10514" />
+      <node id="@MetroValpo" label="@MetroValpo" />
+      <node id="user1466" label="user1466" />
+      <node id="user10560" label="user10560" />
+      <node id="user10579" label="user10579" />
+      <node id="@Vengoaopinaryo" label="@Vengoaopinaryo" />
+      <node id="@alejandrosanmo" label="@alejandrosanmo" />
+      <node id="user6509" label="user6509" />
+      <node id="@ceciperez1" label="@ceciperez1" />
+      <node id="user10607" label="user10607" />
+      <node id="user6513" label="user6513" />
+      <node id="@Willy03435979" label="@Willy03435979" />
+      <node id="user10645" label="user10645" />
+      <node id="user10657" label="user10657" />
+      <node id="user6524" label="user6524" />
+      <node id="@lessly98l" label="@lessly98l" />
+      <node id="user10668" label="user10668" />
+      <node id="user6527" label="user6527" />
+      <node id="user10702" label="user10702" />
+      <node id="@cmonckeberg" label="@cmonckeberg" />
+      <node id="user1511" label="user1511" />
+      <node id="@Capitan_Swing" label="@Capitan_Swing" />
+      <node id="@APIA_es" label="@APIA_es" />
+      <node id="@psoe" label="@psoe" />
+      <node id="@populares" label="@populares" />
+      <node id="@CiudadanosCs" label="@CiudadanosCs" />
+      <node id="@ahorapodemos" label="@ahorapodemos" />
+      <node id="user1517" label="user1517" />
+      <node id="user1530" label="user1530" />
+      <node id="user10789" label="user10789" />
+      <node id="@tvn" label="@tvn" />
+      <node id="user10809" label="user10809" />
+      <node id="@vinadenuncia" label="@vinadenuncia" />
+      <node id="user1544" label="user1544" />
+      <node id="user6562" label="user6562" />
+      <node id="user6566" label="user6566" />
+      <node id="user1559" label="user1559" />
+      <node id="@eslajaisowhat" label="@eslajaisowhat" />
+      <node id="user6570" label="user6570" />
+      <node id="user6571" label="user6571" />
+      <node id="@A_Labrac" label="@A_Labrac" />
+      <node id="user10912" label="user10912" />
+      <node id="@CoffeIsGay" label="@CoffeIsGay" />
+      <node id="@Tora_Danii" label="@Tora_Danii" />
+      <node id="user10914" label="user10914" />
+      <node id="@MegafonoPopular" label="@MegafonoPopular" />
+      <node id="user10922" label="user10922" />
+      <node id="@gestionperfecta" label="@gestionperfecta" />
+      <node id="@MirnaT_Vies" label="@MirnaT_Vies" />
+      <node id="@gaslara_oficial" label="@gaslara_oficial" />
+      <node id="user1574" label="user1574" />
+      <node id="user1578" label="user1578" />
+      <node id="user1581" label="user1581" />
+      <node id="@SergioADippW" label="@SergioADippW" />
+      <node id="user6587" label="user6587" />
+      <node id="user1584" label="user1584" />
+      <node id="@Huevodu41926827" label="@Huevodu41926827" />
+      <node id="@molina_offman" label="@molina_offman" />
+      <node id="@antonioppl" label="@antonioppl" />
+      <node id="@Patodiaza" label="@Patodiaza" />
+      <node id="user11008" label="user11008" />
+      <node id="@EvLGamingOK" label="@EvLGamingOK" />
+      <node id="@ABLeagueCOD" label="@ABLeagueCOD" />
+      <node id="user11020" label="user11020" />
+      <node id="user11030" label="user11030" />
+      <node id="user1602" label="user1602" />
+      <node id="@ProfeCRojas" label="@ProfeCRojas" />
+      <node id="@FcoXSalinasb_TV" label="@FcoXSalinasb_TV" />
+      <node id="user1615" label="user1615" />
+      <node id="@LibardoBuitrago" label="@LibardoBuitrago" />
+      <node id="@LaRedTV" label="@LaRedTV" />
+      <node id="user11053" label="user11053" />
+      <node id="@SputnikMundo" label="@SputnikMundo" />
+      <node id="user11060" label="user11060" />
+      <node id="@Juan_RF27" label="@Juan_RF27" />
+      <node id="@claunavarro0606" label="@claunavarro0606" />
+      <node id="user1621" label="user1621" />
+      <node id="@SamsungChile" label="@SamsungChile" />
+      <node id="user1626" label="user1626" />
+      <node id="@BojackBeakman" label="@BojackBeakman" />
+      <node id="user11096" label="user11096" />
+      <node id="@Marian_Carbajal" label="@Marian_Carbajal" />
+      <node id="user11099" label="user11099" />
+      <node id="@Diego_Cultrera" label="@Diego_Cultrera" />
+      <node id="user11134" label="user11134" />
+      <node id="@chahuan" label="@chahuan" />
+      <node id="user1636" label="user1636" />
+      <node id="@SomosMacul" label="@SomosMacul" />
+      <node id="user11165" label="user11165" />
+      <node id="@la_Fech" label="@la_Fech" />
+      <node id="@ConfusamChile" label="@ConfusamChile" />
+      <node id="user11203" label="user11203" />
+      <node id="@IrvingPineda" label="@IrvingPineda" />
+      <node id="user1661" label="user1661" />
+      <node id="@smvb_18" label="@smvb_18" />
+      <node id="@ConyParejas" label="@ConyParejas" />
+    </nodes>
+    <edges>
+      <edge source="user1708" target="@LaRuciaLoca" id="0" />
+      <edge source="user1717" target="@Carabdechile" id="1" />
+      <edge source="user1717" target="@PDI_CHILE" id="2" />
+      <edge source="user1723" target="@KarlaEnAccion" id="3" />
+      <edge source="user1723" target="@inddhh" id="4" />
+      <edge source="user1727" target="@ChangeorgLatino" id="5" />
+      <edge source="user1727" target="@PamJiles" id="6" />
+      <edge source="user1727" target="@FELIX_GonzalezG" id="7" />
+      <edge source="user1727" target="@ifloresdiputado" id="8" />
+      <edge source="user1735" target="@PitxuSanmartin" id="9" />
+      <edge source="user1735" target="@UNHumanRights" id="10" />
+      <edge source="user1735" target="@hrw" id="11" />
+      <edge source="user1735" target="@hrw_espanol" id="12" />
+      <edge source="user1735" target="@amnistiaespana" id="13" />
+      <edge source="user1735" target="@amnistia" id="14" />
+      <edge source="user1735" target="@CIDH" id="15" />
+      <edge source="user11439" target="@santicatn" id="16" />
+      <edge source="user1742" target="@saesa" id="17" />
+      <edge source="user11447" target="@clercanifru" id="18" />
+      <edge source="user11447" target="@barloreto" id="19" />
+      <edge source="user11450" target="@ChangeorgLatino" id="20" />
+      <edge source="user11483" target="@lautarocarmona" id="21" />
+      <edge source="user6668" target="@GobiernodeChile" id="22" />
+      <edge source="user6668" target="@frentefotografico" id="23" />
+      <edge source="user28" target="@ClauditaBR" id="24" />
+      <edge source="user28" target="@Milito2_0" id="25" />
+      <edge source="user28" target="@MerinoFranco" id="26" />
+      <edge source="user6675" target="@carlustweet" id="27" />
+      <edge source="user1770" target="@PANCHOSAAVEDRA" id="28" />
+      <edge source="user1770" target="@canal13" id="29" />
+      <edge source="user1770" target="@aluksicc" id="30" />
+      <edge source="user1787" target="@eldia_cl" id="31" />
+      <edge source="user1787" target="@inddhh" id="32" />
+      <edge source="user1787" target="@T13" id="33" />
+      <edge source="user1787" target="@carolaurrejola" id="34" />
+      <edge source="user1787" target="@IvanValenzuelaU" id="35" />
+      <edge source="user6683" target="@sol__despeinada" id="36" />
+      <edge source="user1794" target="@CHVNoticias" id="37" />
+      <edge source="user1805" target="@estadonacional" id="38" />
+      <edge source="user1805" target="@labeasanchez" id="39" />
+      <edge source="user1808" target="@Pauloque2" id="40" />
+      <edge source="user1808" target="@h_barxel" id="41" />
+      <edge source="user1808" target="@senadornavarro" id="42" />
+      <edge source="user1808" target="@Senado_Chile" id="43" />
+      <edge source="user1808" target="@biobio" id="44" />
+      <edge source="user1808" target="@inddhh" id="45" />
+      <edge source="user1808" target="@el_dinamo" id="46" />
+      <edge source="user1808" target="@eldesconcierto" id="47" />
+      <edge source="user1808" target="@Emol" id="48" />
+      <edge source="user1808" target="@ElMercurio_cl" id="49" />
+      <edge source="user1808" target="@laestrellavalpo" id="50" />
+      <edge source="user1808" target="@thecliniccl" id="51" />
+      <edge source="user1808" target="@thetimesCL" id="52" />
+      <edge source="user1808" target="@KarlaEnAccion" id="53" />
+      <edge source="user11597" target="@marcelobarti" id="54" />
+      <edge source="user11597" target="@CSDColoColo" id="55" />
+      <edge source="user11597" target="@GARRABLANCAofi" id="56" />
+      <edge source="user11597" target="@colocolodetodos" id="57" />
+      <edge source="user1809" target="@Cooperativa" id="58" />
+      <edge source="user11604" target="@beatrizmancuso" id="59" />
+      <edge source="user11609" target="@sebastianpinera" id="60" />
+      <edge source="user1832" target="@FalabellaAyuda" id="61" />
+      <edge source="user11677" target="@diamaov" id="62" />
+      <edge source="user11677" target="@DCoronell" id="63" />
+      <edge source="user11677" target="@CGurisattiNTN24" id="64" />
+      <edge source="user11677" target="@HassNassar" id="65" />
+      <edge source="user11677" target="@DanielSamperO" id="66" />
+      <edge source="user11677" target="@VickyDavilaH" id="67" />
+      <edge source="user11677" target="@yohirakerman" id="68" />
+      <edge source="user11677" target="@PirryOficial" id="69" />
+      <edge source="user11680" target="@adictiveswoong" id="70" />
+      <edge source="user1845" target="@emol" id="71" />
+      <edge source="user1855" target="@luislarrainlyd" id="72" />
+      <edge source="user1869" target="@JumboChile" id="73" />
+      <edge source="user1877" target="@JS_Chile" id="74" />
+      <edge source="user1877" target="@carlosmontestwt" id="75" />
+      <edge source="user1884" target="@CervezaQuimera" id="76" />
+      <edge source="user6710" target="@ignatiuswilde" id="77" />
+      <edge source="user11767" target="@JoseEmilio1052" id="78" />
+      <edge source="user11767" target="@MTTValparaiso" id="79" />
+      <edge source="user11767" target="@MTTChile" id="80" />
+      <edge source="user11767" target="@Subtrans" id="81" />
+      <edge source="user1903" target="@QueerEye" id="82" />
+      <edge source="user11807" target="@AndresCubillosV" id="83" />
+      <edge source="user11807" target="@elfrente_amplio" id="84" />
+      <edge source="user11807" target="@PCdeChile" id="85" />
+      <edge source="user11807" target="@PSChile" id="86" />
+      <edge source="user11811" target="@nayibbukele" id="87" />
+      <edge source="user11811" target="@NicolasMaduro" id="88" />
+      <edge source="user11811" target="@DrodriguezVen" id="89" />
+      <edge source="user11811" target="@jaarreaza" id="90" />
+      <edge source="user11811" target="@WalterDossier" id="91" />
+      <edge source="user11811" target="@dcabellor" id="92" />
+      <edge source="user11811" target="@CarlosFT_FSLN" id="93" />
+      <edge source="user11811" target="@taniasandinista" id="94" />
+      <edge source="user6721" target="@Pagina12" id="95" />
+      <edge source="user6721" target="@YouTube" id="96" />
+      <edge source="user6721" target="@eldesconcierto" id="97" />
+      <edge source="user6728" target="@ChangeorgLatino" id="98" />
+      <edge source="user6728" target="@PamJiles" id="99" />
+      <edge source="user6728" target="@FELIX_GonzalezG" id="100" />
+      <edge source="user6728" target="@ifloresdiputado" id="101" />
+      <edge source="user1944" target="@pela0yakuzza" id="102" />
+      <edge source="user11938" target="@adictiveswoong" id="103" />
+      <edge source="user11938" target="@twisglow" id="104" />
+      <edge source="user11938" target="@___h4ngyel" id="105" />
+      <edge source="user11939" target="@miaufraan" id="106" />
+      <edge source="user11939" target="@tere_marinovic" id="107" />
+      <edge source="user11939" target="@pinupgabikat" id="108" />
+      <edge source="user11939" target="@YouTube" id="109" />
+      <edge source="user12006" target="@CorteSupremaJ" id="110" />
+      <edge source="user12006" target="@AlvaroUribeVel" id="111" />
+      <edge source="user12006" target="@IntlCrimCourt" id="112" />
+      <edge source="user12006" target="@Pontifex_es" id="113" />
+      <edge source="user12053" target="@pensador20201" id="114" />
+      <edge source="user12053" target="@SadiMelo" id="115" />
+      <edge source="user12053" target="@munielbosque" id="116" />
+      <edge source="user12053" target="@RadioElBosque" id="117" />
+      <edge source="user12053" target="@todogranavenida" id="118" />
+      <edge source="user12053" target="@ElBosqueEduca" id="119" />
+      <edge source="user12053" target="@DowneyLorena" id="120" />
+      <edge source="user12053" target="@LuisMoralesConc" id="121" />
+      <edge source="user12053" target="@iborcoski" id="122" />
+      <edge source="user12053" target="@fernando161968" id="123" />
+      <edge source="user12053" target="@PSChile" id="124" />
+      <edge source="user12053" target="@prensaps" id="125" />
+      <edge source="user1976" target="@Carabdechile" id="126" />
+      <edge source="user1985" target="@Jaime_Bassa" id="127" />
+      <edge source="user6755" target="@DUALIPA" id="128" />
+      <edge source="user12135" target="@appleve_" id="129" />
+      <edge source="user12206" target="@lamazon_oficial" id="130" />
+      <edge source="user12247" target="@drptht" id="131" />
+      <edge source="user12257" target="@PorterOficial" id="132" />
+      <edge source="user12282" target="@thecliniccl" id="133" />
+      <edge source="user2037" target="@InterferenciaCL" id="134" />
+      <edge source="user2044" target="@monlaferte" id="135" />
+      <edge source="user12340" target="@LavinJoaquin" id="136" />
+      <edge source="user2050" target="@gabrielboric" id="137" />
+      <edge source="user2050" target="@JorgeSharp" id="138" />
+      <edge source="user2050" target="@karen_rojov" id="139" />
+      <edge source="user2050" target="@muniantof" id="140" />
+      <edge source="user2050" target="@paulinanu" id="141" />
+      <edge source="user2050" target="@melnicksergio" id="142" />
+      <edge source="user2050" target="@AranasNegras" id="143" />
+      <edge source="user12384" target="@Cooperativa" id="144" />
+      <edge source="user12415" target="@biobio" id="145" />
+      <edge source="user12478" target="@ErnaUlloaRiquel" id="146" />
+      <edge source="user12478" target="@Maryelibe" id="147" />
+      <edge source="user12478" target="@nanoxve" id="148" />
+      <edge source="user12512" target="@OfficialMonstaX" id="149" />
+      <edge source="user2081" target="@SEBIN_OFICIAL" id="150" />
+      <edge source="user6793" target="@Jorge_BarriL" id="151" />
+      <edge source="user6793" target="@CalcioDePalma" id="152" />
+      <edge source="user12570" target="@BayamoSomos" id="153" />
+      <edge source="user12570" target="@memdizabal" id="154" />
+      <edge source="user12570" target="@gkanozo" id="155" />
+      <edge source="user12570" target="@JTolcachier" id="156" />
+      <edge source="user12570" target="@triana_alexis" id="157" />
+      <edge source="user12570" target="@taniasandinista" id="158" />
+      <edge source="user12570" target="@barricadatv" id="159" />
+      <edge source="user12570" target="@VocesUrgentes" id="160" />
+      <edge source="user12570" target="@clio1968OtraVez" id="161" />
+      <edge source="user12570" target="@UJCuba" id="162" />
+      <edge source="user12588" target="@AldeanoAOE" id="163" />
+      <edge source="user12588" target="@Stefahernandezf" id="164" />
+      <edge source="user12588" target="@adnradiochile" id="165" />
+      <edge source="user12624" target="@AlvaroDurn6" id="166" />
+      <edge source="user12624" target="@lmirandaai" id="167" />
+      <edge source="user12624" target="@gussanelli" id="168" />
+      <edge source="user12624" target="@ChromeNyusan" id="169" />
+      <edge source="user12624" target="@MauricioLarena4" id="170" />
+      <edge source="user12624" target="@sebastianpinera" id="171" />
+      <edge source="user12688" target="@lovshts" id="172" />
+      <edge source="user12688" target="@mililipari" id="173" />
+      <edge source="user12688" target="@Valval1304" id="174" />
+      <edge source="user12688" target="@softyuwin" id="175" />
+      <edge source="user12731" target="@Wolf48509619" id="176" />
+      <edge source="user12731" target="@joseantoniokast" id="177" />
+      <edge source="user2112" target="@nayibbukele" id="178" />
+      <edge source="user6807" target="@IsabeldelaCarr1" id="179" />
+      <edge source="user12789" target="@NicolasMaduro" id="180" />
+      <edge source="user12834" target="@Geosorno01" id="181" />
+      <edge source="user2123" target="@PCFactoryCL" id="182" />
+      <edge source="user12865" target="@DGCIMDENUNCIAS" id="183" />
+      <edge source="user12865" target="@NicolasMaduro" id="184" />
+      <edge source="user12880" target="@JorgeSharp" id="185" />
+      <edge source="user6820" target="@mechitasdeclavo" id="186" />
+      <edge source="user6820" target="@alvaroramis" id="187" />
+      <edge source="user6820" target="@mirnaschindler" id="188" />
+      <edge source="user6820" target="@kennysubiabre" id="189" />
+      <edge source="user6820" target="@FelipeParadaM" id="190" />
+      <edge source="user6820" target="@marcelomena" id="191" />
+      <edge source="user6820" target="@AnaMariaGazmuri" id="192" />
+      <edge source="user2137" target="@YouTube" id="193" />
+      <edge source="user12935" target="@NicolasMaduro" id="194" />
+      <edge source="user12935" target="@hidrocaribe" id="195" />
+      <edge source="user12935" target="@MPPAAguas" id="196" />
+      <edge source="user12935" target="@EvelynB_Vasquez" id="197" />
+      <edge source="user12935" target="@luisjmarcano" id="198" />
+      <edge source="user12935" target="@dcabellor" id="199" />
+      <edge source="user12935" target="@ConElMazoDando" id="200" />
+      <edge source="user12935" target="@LaZurdaDeChavez" id="201" />
+      <edge source="user12935" target="@LaHojillaenTV" id="202" />
+      <edge source="user12935" target="@TarekWiliamSaab" id="203" />
+      <edge source="user12945" target="@YouTube" id="204" />
+      <edge source="user12969" target="@monschlotthauer" id="205" />
+      <edge source="user12969" target="@MechiDemen" id="206" />
+      <edge source="user12969" target="@izqsocialista" id="207" />
+      <edge source="user13001" target="@SunflowerCuba" id="208" />
+      <edge source="user2145" target="@PamPavez" id="209" />
+      <edge source="user13021" target="@somosredjs" id="210" />
+      <edge source="user2152" target="@Appoloniaparati" id="211" />
+      <edge source="user13068" target="@AttackedByRats6" id="212" />
+      <edge source="user6827" target="@patsegura" id="213" />
+      <edge source="user6827" target="@CMicrodatos" id="214" />
+      <edge source="user6827" target="@FelipeGuevaraSt" id="215" />
+      <edge source="user6827" target="@Jaime_Bassa" id="216" />
+      <edge source="user6827" target="@ciper" id="217" />
+      <edge source="user6827" target="@sebastianpinera" id="218" />
+      <edge source="user6827" target="@HBO" id="219" />
+      <edge source="user6827" target="@HBOLAT" id="220" />
+      <edge source="user6827" target="@DMatamala" id="221" />
+      <edge source="user2163" target="@Krizer1" id="222" />
+      <edge source="user2163" target="@chileconvoca" id="223" />
+      <edge source="user2163" target="@sebastianpinera" id="224" />
+      <edge source="user2163" target="@LeoSotoChile" id="225" />
+      <edge source="user13085" target="@nayibbukele" id="226" />
+      <edge source="user2168" target="@PANCHOSAAVEDRA" id="227" />
+      <edge source="user2168" target="@PamJiles" id="228" />
+      <edge source="user13117" target="@anibaito" id="229" />
+      <edge source="user13132" target="@labeasanchez" id="230" />
+      <edge source="user13132" target="@elfrente_amplio" id="231" />
+      <edge source="user2192" target="@T13" id="232" />
+      <edge source="user13163" target="@sebastianpinera" id="233" />
+      <edge source="user13163" target="@GiorgioJackson" id="234" />
+      <edge source="user13163" target="@gabrielboric" id="235" />
+      <edge source="user13163" target="@carreragonzalo" id="236" />
+      <edge source="user13166" target="@Lenin" id="237" />
+      <edge source="user13166" target="@pedropalaciosu" id="238" />
+      <edge source="user2211" target="@ifloresdiputado" id="239" />
+      <edge source="user2211" target="@senadorquintana" id="240" />
+      <edge source="user2211" target="@CamaraDiputados" id="241" />
+      <edge source="user2211" target="@ChangeorgLatino" id="242" />
+      <edge source="user2212" target="@chillanactivo" id="243" />
+      <edge source="user2212" target="@NUBLEONLINE_" id="244" />
+      <edge source="user2212" target="@RadioNuble" id="245" />
+      <edge source="user2212" target="@Chillan140" id="246" />
+      <edge source="user2212" target="@ChillanOnline" id="247" />
+      <edge source="user2212" target="@chillan_info" id="248" />
+      <edge source="user13178" target="@parquemetminvu" id="249" />
+      <edge source="user13250" target="@DMatamala" id="250" />
+      <edge source="user2219" target="@rodolfocarter" id="251" />
+      <edge source="user13299" target="@DfromDisaster" id="252" />
+      <edge source="user2223" target="@LaProfeJovi" id="253" />
+      <edge source="user2223" target="@MielyMerken" id="254" />
+      <edge source="user2223" target="@Huasita_AzUl" id="255" />
+      <edge source="user13434" target="@SantaIsabelCL" id="256" />
+      <edge source="user13459" target="@PamJiles" id="257" />
+      <edge source="user13459" target="@FELIX_GonzalezG" id="258" />
+      <edge source="user13459" target="@ifloresdiputado" id="259" />
+      <edge source="user13459" target="@ChangeorgLatino" id="260" />
+      <edge source="user13613" target="@HernanLarrain" id="261" />
+      <edge source="user13613" target="@rodolfocarter" id="262" />
+      <edge source="user13613" target="@JorgeSharp" id="263" />
+      <edge source="user13616" target="@PensanteL" id="264" />
+      <edge source="user13616" target="@pame_gatica" id="265" />
+      <edge source="user13616" target="@thecliniccl" id="266" />
+      <edge source="user2247" target="@RNchile" id="267" />
+      <edge source="user2247" target="@SenadoresRN" id="268" />
+      <edge source="user2247" target="@DiputadosRN" id="269" />
+      <edge source="user2247" target="@AraucaniaRn" id="270" />
+      <edge source="user2251" target="@SadracH" id="271" />
+      <edge source="user13647" target="@Rosario93610971" id="272" />
+      <edge source="user13652" target="@ChangeorgLatino" id="273" />
+      <edge source="user2268" target="@daned_fisan" id="274" />
+      <edge source="user2268" target="@ElDiabloRoboc" id="275" />
+      <edge source="user13669" target="@HeraldoMunoz" id="276" />
+      <edge source="user13669" target="@olvid" id="277" />
+      <edge source="user13676" target="@CNNChile" id="278" />
+      <edge source="user2277" target="@FelipeGuevaraSt" id="279" />
+      <edge source="user2277" target="@sebastianpinera" id="280" />
+      <edge source="user2277" target="@yapocl" id="281" />
+      <edge source="user13709" target="@PamJiles" id="282" />
+      <edge source="user13709" target="@baradit" id="283" />
+      <edge source="user13709" target="@BeaSanchezYTu" id="284" />
+      <edge source="user2287" target="@joseantoniokast" id="285" />
+      <edge source="user2287" target="@camila_vallejo" id="286" />
+      <edge source="user2287" target="@sebastianpinera" id="287" />
+      <edge source="user2287" target="@KarolCariola" id="288" />
+      <edge source="user2310" target="@TharsisReynaldo" id="289" />
+      <edge source="user2310" target="@sebastianpinera" id="290" />
+      <edge source="user2314" target="@RadioActivaFm" id="291" />
+      <edge source="user2314" target="@CACEROLEITOR" id="292" />
+      <edge source="user2314" target="@bessygprado" id="293" />
+      <edge source="user2314" target="@ExFigura" id="294" />
+      <edge source="user2364" target="@LilitaAbello" id="295" />
+      <edge source="user2365" target="@benke_cl" id="296" />
+      <edge source="user2416" target="@marinadelsol_" id="297" />
+      <edge source="user2430" target="@txalompd" id="298" />
+      <edge source="user2430" target="@45sna_" id="299" />
+      <edge source="user6880" target="@Juano1986_" id="300" />
+      <edge source="user2441" target="@YouTube" id="301" />
+      <edge source="user2464" target="@mfc_oficial" id="302" />
+      <edge source="user2464" target="@ciclorecreovia" id="303" />
+      <edge source="user2472" target="@neilaskatinas" id="304" />
+      <edge source="user6935" target="@gblumel" id="305" />
+      <edge source="user6935" target="@GobiernodeChile" id="306" />
+      <edge source="user6935" target="@sebastianpinera" id="307" />
+      <edge source="user6935" target="@allamand" id="308" />
+      <edge source="user6935" target="@gonzalomuller" id="309" />
+      <edge source="user2540" target="@eugeniofigueroa" id="310" />
+      <edge source="user6948" target="@redbullbatalla" id="311" />
+      <edge source="user6950" target="@tvflorida" id="312" />
+      <edge source="user2568" target="@JPQueralto" id="313" />
+      <edge source="user2568" target="@milla_viera" id="314" />
+      <edge source="user2568" target="@SabingoCHV" id="315" />
+      <edge source="user6957" target="@C5N" id="316" />
+      <edge source="user2577" target="@vherreraCL" id="317" />
+      <edge source="user2578" target="@RafaelRomoCNN" id="318" />
+      <edge source="user2600" target="@PublimetroChile" id="319" />
+      <edge source="user6978" target="@TExplosivos" id="320" />
+      <edge source="user2647" target="@franco_esca" id="321" />
+      <edge source="user6999" target="@CarnetDLaPatria" id="322" />
+      <edge source="user7005" target="@German_Vargas" id="323" />
+      <edge source="user7005" target="@CeDemocratico" id="324" />
+      <edge source="user7005" target="@IvanDuque" id="325" />
+      <edge source="user7005" target="@RevistaSemana" id="326" />
+      <edge source="user7005" target="@AlvaroUribeVel" id="327" />
+      <edge source="user2663" target="@pullmanbus" id="328" />
+      <edge source="user2674" target="@Scotiabank_CL" id="329" />
+      <edge source="user7026" target="@mcubillossigall" id="330" />
+      <edge source="user7026" target="@Bienvenidos13" id="331" />
+      <edge source="user7033" target="@danieljadue" id="332" />
+      <edge source="user7033" target="@Meruanista" id="333" />
+      <edge source="user7033" target="@melnicksergio" id="334" />
+      <edge source="user7033" target="@RenAlmeyda1" id="335" />
+      <edge source="user7037" target="@Com_AteneoMad" id="336" />
+      <edge source="user46" target="@KarlaEnAccion" id="337" />
+      <edge source="user46" target="@gonzalomuller" id="338" />
+      <edge source="user2743" target="@AlessandriFelip" id="339" />
+      <edge source="user2750" target="@anahi" id="340" />
+      <edge source="user2753" target="@Tono_Coloma" id="341" />
+      <edge source="user2753" target="@modatima_cl" id="342" />
+      <edge source="user2753" target="@rmunda" id="343" />
+      <edge source="user2753" target="@PiensaPrensa" id="344" />
+      <edge source="user2753" target="@DMatamala" id="345" />
+      <edge source="user2753" target="@Chileokulto" id="346" />
+      <edge source="user2753" target="@Rayenaraya" id="347" />
+      <edge source="user49" target="@latercera" id="348" />
+      <edge source="user49" target="@nayibbukele" id="349" />
+      <edge source="user2784" target="@OswaldoBarberaG" id="350" />
+      <edge source="user2784" target="@MiEcosocialismo" id="351" />
+      <edge source="user2784" target="@dcabellor" id="352" />
+      <edge source="user7091" target="@nayibbukele" id="353" />
+      <edge source="user7091" target="@sebastianpinera" id="354" />
+      <edge source="user7095" target="@Vale_QuirogaC" id="355" />
+      <edge source="user7108" target="@CryptoTabnet" id="356" />
+      <edge source="user7108" target="@el_ciudadano" id="357" />
+      <edge source="user7109" target="@revolucion3_0" id="358" />
+      <edge source="user2845" target="@nayibbukele" id="359" />
+      <edge source="user2845" target="@DaniloMedina" id="360" />
+      <edge source="user2845" target="@YomairaMedinaS" id="361" />
+      <edge source="user7129" target="@cbofillr" id="362" />
+      <edge source="user7129" target="@sera_suficiente" id="363" />
+      <edge source="user2865" target="@Martilustracio1" id="364" />
+      <edge source="user2868" target="@alferdez" id="365" />
+      <edge source="user2872" target="@RadioPrensa" id="366" />
+      <edge source="user2872" target="@autopista78" id="367" />
+      <edge source="user64" target="@Javi67394202" id="368" />
+      <edge source="user7144" target="@WOMteAyuda" id="369" />
+      <edge source="user2902" target="@metrodesantiago" id="370" />
+      <edge source="user2909" target="@YouTube" id="371" />
+      <edge source="user2915" target="@sebastianpinera" id="372" />
+      <edge source="user2916" target="@MariaAleBello" id="373" />
+      <edge source="user2946" target="@ChangeorgLatino" id="374" />
+      <edge source="user2954" target="@doris_gonzalez_" id="375" />
+      <edge source="user2954" target="@CNNChile" id="376" />
+      <edge source="user2954" target="@CHVNoticias" id="377" />
+      <edge source="user7188" target="@JaimeBassaR" id="378" />
+      <edge source="user2990" target="@anibaito" id="379" />
+      <edge source="user3003" target="@cnnee" id="380" />
+      <edge source="user3015" target="@ElAntimatinal" id="381" />
+      <edge source="user3031" target="@jp_honorato" id="382" />
+      <edge source="user3031" target="@fitoeskere" id="383" />
+      <edge source="user3041" target="@josecoronado_" id="384" />
+      <edge source="user3055" target="@Lin_Manuel" id="385" />
+      <edge source="user83" target="@Felipekings777" id="386" />
+      <edge source="user83" target="@Acida_tartarica" id="387" />
+      <edge source="user3099" target="@cbofillr" id="388" />
+      <edge source="user3104" target="@carmen_hertz" id="389" />
+      <edge source="user3112" target="@ElguetaU" id="390" />
+      <edge source="user3112" target="@s" id="391" />
+      <edge source="user3116" target="@baradit" id="392" />
+      <edge source="user3137" target="@elmostrador" id="393" />
+      <edge source="user3137" target="@MarcosOrtiz" id="394" />
+      <edge source="user3164" target="@JParadaHoyl" id="395" />
+      <edge source="user3164" target="@tomibregliano" id="396" />
+      <edge source="user3206" target="@intendenciaysen" id="397" />
+      <edge source="user3208" target="@SergioMicco" id="398" />
+      <edge source="user7307" target="@Jonatha96845544" id="399" />
+      <edge source="user7307" target="@tere_marinovic" id="400" />
+      <edge source="user3230" target="@doris_gonzalez_" id="401" />
+      <edge source="user3230" target="@UkamauChile" id="402" />
+      <edge source="user3230" target="@Pascualailabaca" id="403" />
+      <edge source="user3230" target="@EdgarValp" id="404" />
+      <edge source="user3230" target="@SICNoticia" id="405" />
+      <edge source="user3230" target="@PiensaPrensa" id="406" />
+      <edge source="user3230" target="@rsumen" id="407" />
+      <edge source="user3230" target="@tv_piola" id="408" />
+      <edge source="user3230" target="@Chileokulto" id="409" />
+      <edge source="user3230" target="@SergioGrezToso" id="410" />
+      <edge source="user3230" target="@uchileradio" id="411" />
+      <edge source="user3250" target="@ronnymaldonadol" id="412" />
+      <edge source="user3250" target="@soyantofagasta" id="413" />
+      <edge source="user3250" target="@mercurioafta" id="414" />
+      <edge source="user3250" target="@soychilecl" id="415" />
+      <edge source="user3250" target="@soycalamacl" id="416" />
+      <edge source="user3250" target="@mercuriocalama" id="417" />
+      <edge source="user7319" target="@GOT7Official" id="418" />
+      <edge source="user3262" target="@Jou_Kaiser" id="419" />
+      <edge source="user3264" target="@PamJiles" id="420" />
+      <edge source="user3264" target="@FELIX_GonzalezG" id="421" />
+      <edge source="user3264" target="@ifloresdiputado" id="422" />
+      <edge source="user3264" target="@ChangeorgLatino" id="423" />
+      <edge source="user7343" target="@rutadelmaipo" id="424" />
+      <edge source="user3303" target="@AttackedByRats6" id="425" />
+      <edge source="user3303" target="@canal13" id="426" />
+      <edge source="user3304" target="@fcatrin" id="427" />
+      <edge source="user3315" target="@PDI_CHILE" id="428" />
+      <edge source="user3315" target="@metrodesantiago" id="429" />
+      <edge source="user3322" target="@RolandoVillenaV" id="430" />
+      <edge source="user3371" target="@estadonacional" id="431" />
+      <edge source="user3379" target="@sebastianpinera" id="432" />
+      <edge source="user3386" target="@anefchile" id="433" />
+      <edge source="user3386" target="@UnidadSocialCh" id="434" />
+      <edge source="user3444" target="@ibanpetit" id="435" />
+      <edge source="user3444" target="@Toma3Gijon" id="436" />
+      <edge source="user3444" target="@tobaccodays" id="437" />
+      <edge source="user3444" target="@numaxcoop" id="438" />
+      <edge source="user3455" target="@s" id="439" />
+      <edge source="user3455" target="@ErnaUlloaRiquel" id="440" />
+      <edge source="user3455" target="@PublimetroChile" id="441" />
+      <edge source="user3458" target="@Wolf48509619" id="442" />
+      <edge source="user3458" target="@joseantoniokast" id="443" />
+      <edge source="user3466" target="@ifloresdiputado" id="444" />
+      <edge source="user3466" target="@gabrielboric" id="445" />
+      <edge source="user3466" target="@GiorgioJackson" id="446" />
+      <edge source="user3466" target="@PamJiles" id="447" />
+      <edge source="user3466" target="@ChangeorgLatino" id="448" />
+      <edge source="user122" target="@Mauro_Tw2" id="449" />
+      <edge source="user3473" target="@PANCHOSAAVEDRA" id="450" />
+      <edge source="user3473" target="@T13" id="451" />
+      <edge source="user3490" target="@BombaMacul" id="452" />
+      <edge source="user3519" target="@Trencentral" id="453" />
+      <edge source="user3519" target="@GrupoEFE" id="454" />
+      <edge source="user3519" target="@Pedro_Errazuriz" id="455" />
+      <edge source="user3541" target="@ilustradonot" id="456" />
+      <edge source="user3557" target="@PamJiles" id="457" />
+      <edge source="user3557" target="@FELIX_GonzalezG" id="458" />
+      <edge source="user3557" target="@ifloresdiputado" id="459" />
+      <edge source="user3557" target="@ChangeorgLatino" id="460" />
+      <edge source="user3569" target="@inddhh" id="461" />
+      <edge source="user7421" target="@veronicadela4t" id="462" />
+      <edge source="user3593" target="@PamJiles" id="463" />
+      <edge source="user3593" target="@FELIX_GonzalezG" id="464" />
+      <edge source="user3593" target="@ifloresdiputado" id="465" />
+      <edge source="user3593" target="@ChangeorgLatino" id="466" />
+      <edge source="user3603" target="@nayibbukele" id="467" />
+      <edge source="user3603" target="@sebastianpinera" id="468" />
+      <edge source="user3603" target="@JulioBorges" id="469" />
+      <edge source="user3607" target="@Carabdechile" id="470" />
+      <edge source="user3624" target="@ChangeorgLatino" id="471" />
+      <edge source="user3624" target="@Jonatha96845544" id="472" />
+      <edge source="user3624" target="@lafundacionsol" id="473" />
+      <edge source="user3624" target="@kenodechile" id="474" />
+      <edge source="user3642" target="@rcristibeck" id="475" />
+      <edge source="user3642" target="@alvaroramis" id="476" />
+      <edge source="user3642" target="@FMConquistador" id="477" />
+      <edge source="user3642" target="@A3Noticias" id="478" />
+      <edge source="user3642" target="@Bienvenidos13" id="479" />
+      <edge source="user3642" target="@GomezIgnacia" id="480" />
+      <edge source="user7458" target="@petrogustavo" id="481" />
+      <edge source="user7458" target="@macarenazoo" id="482" />
+      <edge source="user7458" target="@HOLLMANMORRIS" id="483" />
+      <edge source="user7458" target="@GustavoBolivar" id="484" />
+      <edge source="user7458" target="@AUGUSTOOCAMPO" id="485" />
+      <edge source="user139" target="@Emol" id="486" />
+      <edge source="user139" target="@anefchile" id="487" />
+      <edge source="user139" target="@ColegioProfes" id="488" />
+      <edge source="user139" target="@biobio" id="489" />
+      <edge source="user3659" target="@Cooperativa" id="490" />
+      <edge source="user7473" target="@EnOrsai" id="491" />
+      <edge source="user7473" target="@guiaparadecorar" id="492" />
+      <edge source="user7473" target="@lopezinak" id="493" />
+      <edge source="user3698" target="@linddacarter" id="494" />
+      <edge source="user3698" target="@MaxiStone93" id="495" />
+      <edge source="user3698" target="@CrotaloCorral" id="496" />
+      <edge source="user3698" target="@mxperez" id="497" />
+      <edge source="user3698" target="@24HorasTVN" id="498" />
+      <edge source="user3698" target="@Cooperativa" id="499" />
+      <edge source="user3698" target="@biobio" id="500" />
+      <edge source="user3698" target="@T13" id="501" />
+      <edge source="user3731" target="@tere_marinovic" id="502" />
+      <edge source="user3731" target="@carlazunin" id="503" />
+      <edge source="user3731" target="@HectorAll_black" id="504" />
+      <edge source="user3731" target="@ma_garciap" id="505" />
+      <edge source="user3731" target="@RenAlmeyda1" id="506" />
+      <edge source="user3731" target="@nicomarinovic" id="507" />
+      <edge source="user3731" target="@jarans" id="508" />
+      <edge source="user3731" target="@javieramas" id="509" />
+      <edge source="user3731" target="@carreragonzalo" id="510" />
+      <edge source="user3774" target="@AyudaBancoChile" id="511" />
+      <edge source="user3781" target="@DevilDickcl" id="512" />
+      <edge source="user3785" target="@DailymotionUSA" id="513" />
+      <edge source="user151" target="@venepress" id="514" />
+      <edge source="user151" target="@jguaido" id="515" />
+      <edge source="user151" target="@salaprensaCantv" id="516" />
+      <edge source="user151" target="@ContactoCantv" id="517" />
+      <edge source="user151" target="@contrapuntovzla" id="518" />
+      <edge source="user3798" target="@veronicadela4t" id="519" />
+      <edge source="user3798" target="@Canelo" id="520" />
+      <edge source="user3806" target="@Las2orillas" id="521" />
+      <edge source="user3819" target="@thecliniccl" id="522" />
+      <edge source="user3826" target="@uchile" id="523" />
+      <edge source="user3826" target="@daniel_nunez_a" id="524" />
+      <edge source="user3831" target="@40ChileOficial" id="525" />
+      <edge source="user3831" target="@samsmith" id="526" />
+      <edge source="user3836" target="@PamJiles" id="527" />
+      <edge source="user3836" target="@FELIX_GonzalezG" id="528" />
+      <edge source="user3836" target="@ifloresdiputado" id="529" />
+      <edge source="user3836" target="@ChangeorgLatino" id="530" />
+      <edge source="user3841" target="@uchileradio" id="531" />
+      <edge source="user3846" target="@canaltv_mas" id="532" />
+      <edge source="user3846" target="@lucialopezchile" id="533" />
+      <edge source="user3846" target="@jordicastell" id="534" />
+      <edge source="user3846" target="@Lafrangh" id="535" />
+      <edge source="user3846" target="@jbellolio" id="536" />
+      <edge source="user7523" target="@AlessandriFelip" id="537" />
+      <edge source="user3888" target="@cnnee" id="538" />
+      <edge source="user3888" target="@ctxt_es" id="539" />
+      <edge source="user3888" target="@BrankoMilan" id="540" />
+      <edge source="user7555" target="@allamand" id="541" />
+      <edge source="user7555" target="@CristobalYessen" id="542" />
+      <edge source="user7555" target="@Insulza" id="543" />
+      <edge source="user158" target="@santanderchile" id="544" />
+      <edge source="user3950" target="@labeasanchez" id="545" />
+      <edge source="user3956" target="@ChangeorgLatino" id="546" />
+      <edge source="user7625" target="@Cooperativa" id="547" />
+      <edge source="user7625" target="@thecliniccl" id="548" />
+      <edge source="user3995" target="@orlandoxmamani" id="549" />
+      <edge source="user7688" target="@SergioMicco" id="550" />
+      <edge source="user3997" target="@PsiquiatriaCASR" id="551" />
+      <edge source="user3997" target="@SodimacAyuda" id="552" />
+      <edge source="user4000" target="@revista_paula" id="553" />
+      <edge source="user4001" target="@Wolf48509619" id="554" />
+      <edge source="user4001" target="@JositaRiesco" id="555" />
+      <edge source="user4001" target="@joseantoniokast" id="556" />
+      <edge source="user4001" target="@SinCorbataTVN" id="557" />
+      <edge source="user4001" target="@gdelafue" id="558" />
+      <edge source="user4001" target="@Vidalvocero" id="559" />
+      <edge source="user4001" target="@Min_Hacienda" id="560" />
+      <edge source="user4001" target="@SergioMicco" id="561" />
+      <edge source="user7693" target="@sebastianpinera" id="562" />
+      <edge source="user7701" target="@PamJiles" id="563" />
+      <edge source="user7701" target="@FELIX_GonzalezG" id="564" />
+      <edge source="user7701" target="@ifloresdiputado" id="565" />
+      <edge source="user7701" target="@ChangeorgLatino" id="566" />
+      <edge source="user4023" target="@CorazonLlaneroM" id="567" />
+      <edge source="user4023" target="@rosangelamatosf" id="568" />
+      <edge source="user4023" target="@Texeiraanthony" id="569" />
+      <edge source="user4023" target="@VTVcanal8" id="570" />
+      <edge source="user4023" target="@TVesAlDia" id="571" />
+      <edge source="user4023" target="@teleSURtv" id="572" />
+      <edge source="user4023" target="@laradiodelsur" id="573" />
+      <edge source="user4023" target="@jorgerpsuv" id="574" />
+      <edge source="user4023" target="@vwinstonv" id="575" />
+      <edge source="user7730" target="@min_interior" id="576" />
+      <edge source="user7730" target="@Carabdechile" id="577" />
+      <edge source="user7730" target="@GobiernodeChile" id="578" />
+      <edge source="user7730" target="@HctorFernndezJ1" id="579" />
+      <edge source="user7730" target="@DiazCanelB" id="580" />
+      <edge source="user7730" target="@reyleon1962" id="581" />
+      <edge source="user7730" target="@talia_ntv" id="582" />
+      <edge source="user7730" target="@BrunoRguezP" id="583" />
+      <edge source="user7732" target="@manuquezada88" id="584" />
+      <edge source="user168" target="@RMoralesBriones" id="585" />
+      <edge source="user168" target="@_Danizambrano" id="586" />
+      <edge source="user168" target="@pampelma" id="587" />
+      <edge source="user7790" target="@colmed_chile" id="588" />
+      <edge source="user4065" target="@PensanteL" id="589" />
+      <edge source="user7850" target="@muni_chillan" id="590" />
+      <edge source="user4099" target="@metrodesantiago" id="591" />
+      <edge source="user7874" target="@lopezobrador_" id="592" />
+      <edge source="user7875" target="@eldesconcierto" id="593" />
+      <edge source="user7891" target="@ignatiuswilde" id="594" />
+      <edge source="user4134" target="@Cooperativa" id="595" />
+      <edge source="user7917" target="@YouTube" id="596" />
+      <edge source="user4143" target="@agoney" id="597" />
+      <edge source="user4143" target="@Agoney" id="598" />
+      <edge source="user178" target="@AmnistiaOnline" id="599" />
+      <edge source="user178" target="@RigobertMenchu" id="600" />
+      <edge source="user178" target="@inddhh" id="601" />
+      <edge source="user7941" target="@PDI_CHILE" id="602" />
+      <edge source="user7941" target="@GobiernodeChile" id="603" />
+      <edge source="user7941" target="@inddhh" id="604" />
+      <edge source="user7941" target="@Carabdechile" id="605" />
+      <edge source="user4187" target="@s" id="606" />
+      <edge source="user4187" target="@drddelreal" id="607" />
+      <edge source="user4187" target="@KarlaEnAccion" id="608" />
+      <edge source="user4190" target="@PensanteL" id="609" />
+      <edge source="user4194" target="@PamJiles" id="610" />
+      <edge source="user4194" target="@FELIX_GonzalezG" id="611" />
+      <edge source="user4194" target="@ifloresdiputado" id="612" />
+      <edge source="user4194" target="@ChangeorgLatino" id="613" />
+      <edge source="user7969" target="@nayibbukele" id="614" />
+      <edge source="user7977" target="@T13" id="615" />
+      <edge source="user7977" target="@IvanValenzuelaU" id="616" />
+      <edge source="user7977" target="@carolaurrejola" id="617" />
+      <edge source="user7977" target="@presidencia_cl" id="618" />
+      <edge source="user7977" target="@sebastianpinera" id="619" />
+      <edge source="user7977" target="@ignatiuswilde" id="620" />
+      <edge source="user7990" target="@Carabdechile" id="621" />
+      <edge source="user7990" target="@ONU_es" id="622" />
+      <edge source="user7990" target="@ONU_derechos" id="623" />
+      <edge source="user7990" target="@mbachelet" id="624" />
+      <edge source="user7995" target="@BomberosdeChile" id="625" />
+      <edge source="user7995" target="@Bomberos_CL" id="626" />
+      <edge source="user7995" target="@Radio_bomberos" id="627" />
+      <edge source="user7995" target="@QuartaCompagnia" id="628" />
+      <edge source="user4226" target="@ElViejoBolche" id="629" />
+      <edge source="user4226" target="@ColoColo" id="630" />
+      <edge source="user4241" target="@KarlaEnAccion" id="631" />
+      <edge source="user4252" target="@JUANANDRESSUAZ4" id="632" />
+      <edge source="user4252" target="@Carabdechile" id="633" />
+      <edge source="user4252" target="@Muni_Stgo" id="634" />
+      <edge source="user8032" target="@TubinoCarlos" id="635" />
+      <edge source="user8032" target="@BankadaFP" id="636" />
+      <edge source="user4273" target="@PamJiles" id="637" />
+      <edge source="user4273" target="@KarolCariola" id="638" />
+      <edge source="user4273" target="@gabrielboric" id="639" />
+      <edge source="user4273" target="@GiorgioJackson" id="640" />
+      <edge source="user4273" target="@nayibbukele" id="641" />
+      <edge source="user4273" target="@sebastianpinera" id="642" />
+      <edge source="user4273" target="@senadornavarro" id="643" />
+      <edge source="user4273" target="@vidalvocero" id="644" />
+      <edge source="user186" target="@sebastianpinera" id="645" />
+      <edge source="user4307" target="@Well086" id="646" />
+      <edge source="user8072" target="@PANCHOSAAVEDRA" id="647" />
+      <edge source="user4315" target="@Cambiadechannel" id="648" />
+      <edge source="user4317" target="@entel_ayuda" id="649" />
+      <edge source="user4317" target="@ReclamosSubtel" id="650" />
+      <edge source="user4326" target="@BandChile" id="651" />
+      <edge source="user8084" target="@rutadelmaipo" id="652" />
+      <edge source="user8084" target="@AutopCentral" id="653" />
+      <edge source="user8084" target="@MTTChile" id="654" />
+      <edge source="user8084" target="@Fisca_MTT" id="655" />
+      <edge source="user8084" target="@mop_chile" id="656" />
+      <edge source="user8084" target="@mop_rm" id="657" />
+      <edge source="user8084" target="@Red_Movilidad" id="658" />
+      <edge source="user4330" target="@IvanDuque" id="659" />
+      <edge source="user4330" target="@Sintrabanagrar1" id="660" />
+      <edge source="user4330" target="@MinAgricultura" id="661" />
+      <edge source="user4330" target="@MintrabajoCol" id="662" />
+      <edge source="user4330" target="@liliaavellaPDA" id="663" />
+      <edge source="user8088" target="@ctxt_es" id="664" />
+      <edge source="user8088" target="@bernardosampa" id="665" />
+      <edge source="user6" target="@biobio" id="666" />
+      <edge source="user6" target="@Robert_Hunziker" id="667" />
+      <edge source="user4345" target="@DMatamala" id="668" />
+      <edge source="user4345" target="@CNNChile" id="669" />
+      <edge source="user4345" target="@carmen_hertz" id="670" />
+      <edge source="user4346" target="@KarolCariola" id="671" />
+      <edge source="user4365" target="@thecliniccl" id="672" />
+      <edge source="user4375" target="@paubelloni" id="673" />
+      <edge source="user4375" target="@cantamutto" id="674" />
+      <edge source="user4375" target="@AgosCostantino" id="675" />
+      <edge source="user4375" target="@AndresWainer1" id="676" />
+      <edge source="user4375" target="@lucianaghiotto" id="677" />
+      <edge source="user4375" target="@lcassini" id="678" />
+      <edge source="user4375" target="@GGarciaZanotti" id="679" />
+      <edge source="user8126" target="@antukaita" id="680" />
+      <edge source="user4384" target="@AndreaAristegui" id="681" />
+      <edge source="user4384" target="@tv_mauricio" id="682" />
+      <edge source="user4384" target="@PPDCoquimbo" id="683" />
+      <edge source="user4384" target="@_adrianamunoz" id="684" />
+      <edge source="user4384" target="@PPD_Chile" id="685" />
+      <edge source="user4384" target="@chilevision" id="686" />
+      <edge source="user8138" target="@PatoFdez" id="687" />
+      <edge source="user8138" target="@T13" id="688" />
+      <edge source="user199" target="@PublimetroChile" id="689" />
+      <edge source="user4410" target="@adnradiochile" id="690" />
+      <edge source="user4411" target="@pablocca__" id="691" />
+      <edge source="user8184" target="@lacuarta" id="692" />
+      <edge source="user8184" target="@eldesconcierto" id="693" />
+      <edge source="user8184" target="@el_ciudadano" id="694" />
+      <edge source="user8184" target="@thecliniccl" id="695" />
+      <edge source="user4442" target="@PANCHOSAAVEDRA" id="696" />
+      <edge source="user4444" target="@PamJiles" id="697" />
+      <edge source="user4444" target="@FELIX_GonzalezG" id="698" />
+      <edge source="user4444" target="@ifloresdiputado" id="699" />
+      <edge source="user4444" target="@ChangeorgLatino" id="700" />
+      <edge source="user4449" target="@CorazonLlaneroM" id="701" />
+      <edge source="user8235" target="@TheRealGozzo" id="702" />
+      <edge source="user8235" target="@javoaviles" id="703" />
+      <edge source="user8235" target="@mutinet" id="704" />
+      <edge source="user8235" target="@streamlootsES" id="705" />
+      <edge source="user4471" target="@adnradiochile" id="706" />
+      <edge source="user4471" target="@biobio" id="707" />
+      <edge source="user4478" target="@DonJuanra" id="708" />
+      <edge source="user4478" target="@ChiloteComeAjo" id="709" />
+      <edge source="user4478" target="@DaemPuertoMontt" id="710" />
+      <edge source="user4478" target="@GervoyAlcalde" id="711" />
+      <edge source="user4478" target="@33_segundos" id="712" />
+      <edge source="user4478" target="@rrickemiller" id="713" />
+      <edge source="user4478" target="@CanalVertice" id="714" />
+      <edge source="user8282" target="@nytvideo" id="715" />
+      <edge source="user8289" target="@BTS_twt" id="716" />
+      <edge source="user8303" target="@inddhh" id="717" />
+      <edge source="user8303" target="@CHVNoticias" id="718" />
+      <edge source="user4496" target="@canalspace" id="719" />
+      <edge source="user207" target="@PDC_Chile" id="720" />
+      <edge source="user207" target="@PPD_Chile" id="721" />
+      <edge source="user207" target="@PSChile" id="722" />
+      <edge source="user207" target="@tv_monica" id="723" />
+      <edge source="user207" target="@gonzalomuller" id="724" />
+      <edge source="user207" target="@estadonacional" id="725" />
+      <edge source="user208" target="@JM_AlonsoPuig" id="726" />
+      <edge source="user208" target="@beltrangambier" id="727" />
+      <edge source="user208" target="@valeroyanez" id="728" />
+      <edge source="user208" target="@abalosmeco" id="729" />
+      <edge source="user208" target="@fomentogob" id="730" />
+      <edge source="user208" target="@PSOE" id="731" />
+      <edge source="user208" target="@Gobiernoespanol" id="732" />
+      <edge source="user208" target="@sanchezcastejon" id="733" />
+      <edge source="user208" target="@JMDretiro" id="734" />
+      <edge source="user208" target="@elpais_espana" id="735" />
+      <edge source="user208" target="@icam_es" id="736" />
+      <edge source="user208" target="@El_Plural" id="737" />
+      <edge source="user208" target="@pablocasado_" id="738" />
+      <edge source="user208" target="@Pablo_Iglesias" id="739" />
+      <edge source="user208" target="@Albert_Rivera" id="740" />
+      <edge source="user208" target="@Santi_ABASCAL" id="741" />
+      <edge source="user208" target="@AlmeidaPP" id="742" />
+      <edge source="user208" target="@IdiazAyuso" id="743" />
+      <edge source="user208" target="@elespanolcom" id="744" />
+      <edge source="user208" target="@voz_populi" id="745" />
+      <edge source="user213" target="@PamJiles" id="746" />
+      <edge source="user213" target="@FELIX_GonzalezG" id="747" />
+      <edge source="user213" target="@ifloresdiputado" id="748" />
+      <edge source="user213" target="@Change" id="749" />
+      <edge source="user4515" target="@ivanmoreirab" id="750" />
+      <edge source="user4515" target="@udipopular" id="751" />
+      <edge source="user4515" target="@RNchile" id="752" />
+      <edge source="user4515" target="@PPD_Chile" id="753" />
+      <edge source="user4515" target="@PDC_Chile" id="754" />
+      <edge source="user4524" target="@Cenabast" id="755" />
+      <edge source="user4524" target="@mcubillossigall" id="756" />
+      <edge source="user4533" target="@GimnasiosEnergy" id="757" />
+      <edge source="user4547" target="@RenAlmeyda1" id="758" />
+      <edge source="user4548" target="@sebastianpinera" id="759" />
+      <edge source="user4548" target="@vidalvocero" id="760" />
+      <edge source="user4548" target="@ValdebenitoNata" id="761" />
+      <edge source="user4548" target="@baradit" id="762" />
+      <edge source="user4548" target="@gonzalomuller" id="763" />
+      <edge source="user4548" target="@CamaraDiputados" id="764" />
+      <edge source="user4548" target="@GobiernodeChile" id="765" />
+      <edge source="user4548" target="@RigobertMenchu" id="766" />
+      <edge source="user4548" target="@gblumel" id="767" />
+      <edge source="user4548" target="@anefchile" id="768" />
+      <edge source="user4548" target="@Cutchile" id="769" />
+      <edge source="user4548" target="@ColegioProfes" id="770" />
+      <edge source="user4548" target="@Confech" id="771" />
+      <edge source="user4548" target="@joseantoniokast" id="772" />
+      <edge source="user4548" target="@isabelpla" id="773" />
+      <edge source="user8408" target="@sebastianpinera" id="774" />
+      <edge source="user8410" target="@RiverPlate" id="775" />
+      <edge source="user8410" target="@Nintenderos" id="776" />
+      <edge source="user8410" target="@NintendoAmerica" id="777" />
+      <edge source="user8413" target="@CorpoelecInform" id="778" />
+      <edge source="user4556" target="@alamos_fernando" id="779" />
+      <edge source="user4556" target="@Cooperativa" id="780" />
+      <edge source="user4559" target="@ischargro" id="781" />
+      <edge source="user8432" target="@MundoCopec" id="782" />
+      <edge source="user8432" target="@MuniVitacura" id="783" />
+      <edge source="user8432" target="@denunciavita" id="784" />
+      <edge source="user4565" target="@jjcc_chile" id="785" />
+      <edge source="user4565" target="@PCdeChile" id="786" />
+      <edge source="user4585" target="@bcodeltesoro" id="787" />
+      <edge source="user4586" target="@KarlaEnAccion" id="788" />
+      <edge source="user4586" target="@FLagos_Neumann" id="789" />
+      <edge source="user4586" target="@PierreLebret" id="790" />
+      <edge source="user4586" target="@jmiquelartigues" id="791" />
+      <edge source="user4602" target="@Brodriguez_16" id="792" />
+      <edge source="user4605" target="@elmundotoday" id="793" />
+      <edge source="user8499" target="@ONU_derechos" id="794" />
+      <edge source="user8499" target="@CHUCKY_MUSTAINE" id="795" />
+      <edge source="user8499" target="@KarlaEnAccion" id="796" />
+      <edge source="user8499" target="@Tono_Coloma" id="797" />
+      <edge source="user8499" target="@MemorBinder" id="798" />
+      <edge source="user8499" target="@PRadicalcl" id="799" />
+      <edge source="user8499" target="@PPD_Chile" id="800" />
+      <edge source="user8499" target="@PSChile" id="801" />
+      <edge source="user8499" target="@mriesco" id="802" />
+      <edge source="user8499" target="@CNT_NOmasAFP" id="803" />
+      <edge source="user8507" target="@Harry_Styles" id="804" />
+      <edge source="user4626" target="@KarlaEnAccion" id="805" />
+      <edge source="user4636" target="@cnnee" id="806" />
+      <edge source="user8539" target="@AlexisKast_" id="807" />
+      <edge source="user8542" target="@pactabac1" id="808" />
+      <edge source="user8543" target="@jguaido" id="809" />
+      <edge source="user8558" target="@teleiguana" id="810" />
+      <edge source="user8559" target="@YouTube" id="811" />
+      <edge source="user4654" target="@TiareMahani" id="812" />
+      <edge source="user8572" target="@KaiJewtzi" id="813" />
+      <edge source="user230" target="@nayibbukele" id="814" />
+      <edge source="user232" target="@biobio" id="815" />
+      <edge source="user232" target="@IquiqueDeTodos" id="816" />
+      <edge source="user8603" target="@FelipeCalderon" id="817" />
+      <edge source="user8603" target="@Lothkar_" id="818" />
+      <edge source="user8603" target="@MiaWitker" id="819" />
+      <edge source="user8603" target="@alferdez" id="820" />
+      <edge source="user8603" target="@realDonaldTrump" id="821" />
+      <edge source="user238" target="@mfc_oficial" id="822" />
+      <edge source="user254" target="@DMatamala" id="823" />
+      <edge source="user254" target="@ChangeorgLatino" id="824" />
+      <edge source="user4721" target="@DefensoriaUch" id="825" />
+      <edge source="user4721" target="@derecho" id="826" />
+      <edge source="user4736" target="@MTV" id="827" />
+      <edge source="user8675" target="@sebastianpinera" id="828" />
+      <edge source="user8675" target="@GobiernodeChile" id="829" />
+      <edge source="user8679" target="@Tono_Coloma" id="830" />
+      <edge source="user257" target="@metrodesantiago" id="831" />
+      <edge source="user4758" target="@SadracH" id="832" />
+      <edge source="user4765" target="@RenAlmeyda1" id="833" />
+      <edge source="user4778" target="@marcelobarti" id="834" />
+      <edge source="user8693" target="@felicesforrados" id="835" />
+      <edge source="user8694" target="@s" id="836" />
+      <edge source="user4790" target="@Cooperativa" id="837" />
+      <edge source="user267" target="@inidebate" id="838" />
+      <edge source="user4814" target="@vidalvocero" id="839" />
+      <edge source="user4818" target="@quelorivas" id="840" />
+      <edge source="user4827" target="@NicolasMaduro" id="841" />
+      <edge source="user4827" target="@dcabellor" id="842" />
+      <edge source="user4827" target="@drodriguezminci" id="843" />
+      <edge source="user4827" target="@YouTube" id="844" />
+      <edge source="user4829" target="@alcaldesoto" id="845" />
+      <edge source="user4829" target="@Rre_Ohiggins" id="846" />
+      <edge source="user4829" target="@operadorcat6" id="847" />
+      <edge source="user8771" target="@kebensperger" id="848" />
+      <edge source="user4844" target="@sebastianpinera" id="849" />
+      <edge source="user4844" target="@SinCorbataTVN" id="850" />
+      <edge source="user8789" target="@Wolf48509619" id="851" />
+      <edge source="user8789" target="@virario3" id="852" />
+      <edge source="user8789" target="@joseantoniokast" id="853" />
+      <edge source="user8799" target="@SiomiUlloa" id="854" />
+      <edge source="user8808" target="@inddhh" id="855" />
+      <edge source="user8808" target="@gabrielboric" id="856" />
+      <edge source="user8808" target="@T13" id="857" />
+      <edge source="user8825" target="@ginis_c" id="858" />
+      <edge source="user8825" target="@ntabrizy" id="859" />
+      <edge source="user8864" target="@aluksicc" id="860" />
+      <edge source="user8864" target="@ActualidadRT" id="861" />
+      <edge source="user8864" target="@evoespueblo" id="862" />
+      <edge source="user8864" target="@ChinaDaily" id="863" />
+      <edge source="user8864" target="@josepinera" id="864" />
+      <edge source="user4891" target="@marinaarauco" id="865" />
+      <edge source="user296" target="@YouTube" id="866" />
+      <edge source="user298" target="@Carabdechile" id="867" />
+      <edge source="user298" target="@sebastianpinera" id="868" />
+      <edge source="user8896" target="@mirthalegrand" id="869" />
+      <edge source="user8896" target="@alfleuco" id="870" />
+      <edge source="user8896" target="@fantinofantino" id="871" />
+      <edge source="user8896" target="@edufeiok" id="872" />
+      <edge source="user8896" target="@majulluis" id="873" />
+      <edge source="user8896" target="@alefinocchiaro" id="874" />
+      <edge source="user8896" target="@RealpolitikOK" id="875" />
+      <edge source="user8896" target="@mariuvidal" id="876" />
+      <edge source="user8899" target="@CarabOHiggins" id="877" />
+      <edge source="user8899" target="@CarabTransito" id="878" />
+      <edge source="user4905" target="@Uber" id="879" />
+      <edge source="user4907" target="@alamos_fernando" id="880" />
+      <edge source="user4907" target="@CarlosS65911850" id="881" />
+      <edge source="user4907" target="@DocCMirandaC" id="882" />
+      <edge source="user4907" target="@Cooperativa" id="883" />
+      <edge source="user302" target="@nacioncl" id="884" />
+      <edge source="user4914" target="@isabelpla" id="885" />
+      <edge source="user4914" target="@T13Noticias" id="886" />
+      <edge source="user4914" target="@KarlaEnAccion" id="887" />
+      <edge source="user4921" target="@rutilioescandon" id="888" />
+      <edge source="user4921" target="@lopezobrador_" id="889" />
+      <edge source="user8932" target="@ElSiteco" id="890" />
+      <edge source="user8932" target="@allamand" id="891" />
+      <edge source="user306" target="@ep_aragon" id="892" />
+      <edge source="user306" target="@moritastgo" id="893" />
+      <edge source="user306" target="@huelvaya" id="894" />
+      <edge source="user308" target="@carmen_hertz" id="895" />
+      <edge source="user308" target="@mariajosetrece" id="896" />
+      <edge source="user310" target="@ProntoCopec" id="897" />
+      <edge source="user4933" target="@JorgitoPetel" id="898" />
+      <edge source="user4934" target="@elpais_economia" id="899" />
+      <edge source="user4934" target="@spanishrevorg" id="900" />
+      <edge source="user4934" target="@20m" id="901" />
+      <edge source="user316" target="@ChangeorgLatino" id="902" />
+      <edge source="user317" target="@thecliniccl" id="903" />
+      <edge source="user317" target="@MielyMerken" id="904" />
+      <edge source="user317" target="@puq" id="905" />
+      <edge source="user4947" target="@ChangeorgLatino" id="906" />
+      <edge source="user5015" target="@latercera" id="907" />
+      <edge source="user5015" target="@carmen_hertz" id="908" />
+      <edge source="user5015" target="@CHVNoticias" id="909" />
+      <edge source="user5032" target="@RFI_Es" id="910" />
+      <edge source="user8962" target="@ChangeorgLatino" id="911" />
+      <edge source="user5088" target="@Rementeria" id="912" />
+      <edge source="user5128" target="@YouTube" id="913" />
+      <edge source="user5183" target="@teatrodelpuente" id="914" />
+      <edge source="user5183" target="@Carabdechile" id="915" />
+      <edge source="user5183" target="@defensorianinez" id="916" />
+      <edge source="user5197" target="@PSChile" id="917" />
+      <edge source="user5197" target="@PPD_Chile" id="918" />
+      <edge source="user5197" target="@emol" id="919" />
+      <edge source="user8994" target="@baradit" id="920" />
+      <edge source="user8994" target="@danieljadue" id="921" />
+      <edge source="user8994" target="@KarolCariola" id="922" />
+      <edge source="user8994" target="@labeasanchez" id="923" />
+      <edge source="user8994" target="@guillier" id="924" />
+      <edge source="user5220" target="@inddhh" id="925" />
+      <edge source="user5220" target="@TioYabi31" id="926" />
+      <edge source="user5220" target="@caceresmerello" id="927" />
+      <edge source="user5220" target="@tupacarnal" id="928" />
+      <edge source="user5220" target="@RDP_1925" id="929" />
+      <edge source="user9004" target="@PamJiles" id="930" />
+      <edge source="user9004" target="@FELIX_GonzalezG" id="931" />
+      <edge source="user9004" target="@ifloresdiputado" id="932" />
+      <edge source="user9004" target="@ChangeorgLatino" id="933" />
+      <edge source="user5227" target="@TyCSports" id="934" />
+      <edge source="user5231" target="@metrodesantiago" id="935" />
+      <edge source="user5235" target="@YouTube" id="936" />
+      <edge source="user5235" target="@tmlascondes" id="937" />
+      <edge source="user5238" target="@Igueichapir" id="938" />
+      <edge source="user5238" target="@MiguelTorresZ83" id="939" />
+      <edge source="user5238" target="@elmontarraz" id="940" />
+      <edge source="user5238" target="@danieljadue" id="941" />
+      <edge source="user366" target="@chilevision" id="942" />
+      <edge source="user5261" target="@Cami_FloresO" id="943" />
+      <edge source="user5261" target="@paulinanu" id="944" />
+      <edge source="user5261" target="@felipekast" id="945" />
+      <edge source="user5261" target="@allamand" id="946" />
+      <edge source="user5261" target="@mjossando" id="947" />
+      <edge source="user369" target="@InterferenciaCL" id="948" />
+      <edge source="user9018" target="@estadonacional" id="949" />
+      <edge source="user9018" target="@vidalvocero" id="950" />
+      <edge source="user9018" target="@gonzalomuller" id="951" />
+      <edge source="user9018" target="@HernanLarrain" id="952" />
+      <edge source="user9018" target="@Carabdechile" id="953" />
+      <edge source="user9018" target="@ignatiuswilde" id="954" />
+      <edge source="user373" target="@vanessa_kareen" id="955" />
+      <edge source="user373" target="@amaralcassi" id="956" />
+      <edge source="user375" target="@_belenaza" id="957" />
+      <edge source="user5299" target="@Mega" id="958" />
+      <edge source="user5307" target="@pomytapiad" id="959" />
+      <edge source="user5307" target="@fachistoteles" id="960" />
+      <edge source="user5307" target="@maurofacho" id="961" />
+      <edge source="user5307" target="@inddhh" id="962" />
+      <edge source="user5307" target="@jairbolsonaro" id="963" />
+      <edge source="user5307" target="@sebastianpinera" id="964" />
+      <edge source="user388" target="@alamos_fernando" id="965" />
+      <edge source="user388" target="@CarlosS65911850" id="966" />
+      <edge source="user388" target="@rockandwings" id="967" />
+      <edge source="user9033" target="@KarlaEnAccion" id="968" />
+      <edge source="user9033" target="@Carabdechile" id="969" />
+      <edge source="user9033" target="@andreschadwickp" id="970" />
+      <edge source="user9033" target="@danielstingo" id="971" />
+      <edge source="user5316" target="@CerrillosCL" id="972" />
+      <edge source="user5316" target="@MuniCerrillos" id="973" />
+      <edge source="user5322" target="@iristos" id="974" />
+      <edge source="user391" target="@Vale_QuirogaC" id="975" />
+      <edge source="user395" target="@retroparanoia" id="976" />
+      <edge source="user9048" target="@iambeckyg" id="977" />
+      <edge source="user9048" target="@rosaliavt" id="978" />
+      <edge source="user9048" target="@DUALIPA" id="979" />
+      <edge source="user5399" target="@phfchile" id="980" />
+      <edge source="user5437" target="@sergio_fajardo" id="981" />
+      <edge source="user5437" target="@petrogustavo" id="982" />
+      <edge source="user427" target="@s" id="983" />
+      <edge source="user5441" target="@JesiRiveroB" id="984" />
+      <edge source="user437" target="@FarideZeran" id="985" />
+      <edge source="user437" target="@uchile" id="986" />
+      <edge source="user9108" target="@BTS_twt" id="987" />
+      <edge source="user5483" target="@canalspace" id="988" />
+      <edge source="user5483" target="@CatitaEnFlor" id="989" />
+      <edge source="user5483" target="@mendoyaesta" id="990" />
+      <edge source="user5483" target="@ComiteElPolo" id="991" />
+      <edge source="user5483" target="@tacomachali" id="992" />
+      <edge source="user5483" target="@AltoLoCastillo" id="993" />
+      <edge source="user5483" target="@Harasde_Machali" id="994" />
+      <edge source="user5483" target="@tamypalma" id="995" />
+      <edge source="user5483" target="@ManuelToro_" id="996" />
+      <edge source="user5483" target="@Machali_Digital" id="997" />
+      <edge source="user5483" target="@machalitv" id="998" />
+      <edge source="user5483" target="@alecornejob" id="999" />
+      <edge source="user5483" target="@pamevargasc" id="1000" />
+      <edge source="user5483" target="@vktfg" id="1001" />
+      <edge source="user5483" target="@GiorgioJackson" id="1002" />
+      <edge source="user5483" target="@HacemosR" id="1003" />
+      <edge source="user5483" target="@MACACHANDIA" id="1004" />
+      <edge source="user5483" target="@RadioMachali" id="1005" />
+      <edge source="user5483" target="@jmefistofeles" id="1006" />
+      <edge source="user455" target="@Cooperativa" id="1007" />
+      <edge source="user455" target="@CNNChile" id="1008" />
+      <edge source="user455" target="@Jaime_Bassa" id="1009" />
+      <edge source="user455" target="@inddhh" id="1010" />
+      <edge source="user455" target="@mbachelet" id="1011" />
+      <edge source="user5496" target="@Cordobacfsad" id="1012" />
+      <edge source="user462" target="@GobiernodeChile" id="1013" />
+      <edge source="user5513" target="@pusilan1me" id="1014" />
+      <edge source="user5513" target="@sebastianpinera" id="1015" />
+      <edge source="user5513" target="@blondieclub" id="1016" />
+      <edge source="user9118" target="@YouTube" id="1017" />
+      <edge source="user5518" target="@GaelDiputada" id="1018" />
+      <edge source="user9127" target="@serewhitena1617" id="1019" />
+      <edge source="user9127" target="@Yo_soyelbarto" id="1020" />
+      <edge source="user9127" target="@jeronimobustos" id="1021" />
+      <edge source="user9127" target="@diegogaribaldi" id="1022" />
+      <edge source="user9127" target="@spitta1969" id="1023" />
+      <edge source="user491" target="@ignatiuswilde" id="1024" />
+      <edge source="user491" target="@T13" id="1025" />
+      <edge source="user5550" target="@min_ciencia" id="1026" />
+      <edge source="user5550" target="@MMAChile" id="1027" />
+      <edge source="user5550" target="@MuniNunoa" id="1028" />
+      <edge source="user9153" target="@estadonacional" id="1029" />
+      <edge source="user5618" target="@Ichitta" id="1030" />
+      <edge source="user5618" target="@canal13" id="1031" />
+      <edge source="user5623" target="@gracelazcano" id="1032" />
+      <edge source="user5624" target="@Neomuhae3" id="1033" />
+      <edge source="user5624" target="@desde_1965" id="1034" />
+      <edge source="user5624" target="@jacquel29289965" id="1035" />
+      <edge source="user517" target="@PamJiles" id="1036" />
+      <edge source="user517" target="@FELIX_GonzalezG" id="1037" />
+      <edge source="user517" target="@ifloresdiputado" id="1038" />
+      <edge source="user517" target="@ChangeorgLatino" id="1039" />
+      <edge source="user5648" target="@CAB_oficial" id="1040" />
+      <edge source="user9223" target="@CHVNoticias" id="1041" />
+      <edge source="user9237" target="@LuisCol35759096" id="1042" />
+      <edge source="user550" target="@pilarsordo" id="1043" />
+      <edge source="user5720" target="@PamJiles" id="1044" />
+      <edge source="user5720" target="@FELIX_GonzalezG" id="1045" />
+      <edge source="user5720" target="@ifloresdiputado" id="1046" />
+      <edge source="user5720" target="@ChangeorgLatino" id="1047" />
+      <edge source="user5741" target="@rogerwaters" id="1048" />
+      <edge source="user568" target="@s" id="1049" />
+      <edge source="user569" target="@sebastianpinera" id="1050" />
+      <edge source="user5768" target="@PDC_Chile" id="1051" />
+      <edge source="user601" target="@AquilesPadillaP" id="1052" />
+      <edge source="user601" target="@Saritaneon" id="1053" />
+      <edge source="user601" target="@joseantoniokast" id="1054" />
+      <edge source="user604" target="@RefugioDhermes" id="1055" />
+      <edge source="user604" target="@AnimalParaiso" id="1056" />
+      <edge source="user604" target="@BlanquitaMontt" id="1057" />
+      <edge source="user606" target="@allamand" id="1058" />
+      <edge source="user608" target="@Insulza" id="1059" />
+      <edge source="user608" target="@chilevision" id="1060" />
+      <edge source="user608" target="@Chilevision_cl" id="1061" />
+      <edge source="user625" target="@danieljadue" id="1062" />
+      <edge source="user625" target="@DANIELALVAREZL6" id="1063" />
+      <edge source="user625" target="@ManuelCortesA" id="1064" />
+      <edge source="user625" target="@manuelbaquedano" id="1065" />
+      <edge source="user625" target="@rmunda" id="1066" />
+      <edge source="user625" target="@mhl239" id="1067" />
+      <edge source="user625" target="@rafamarinm" id="1068" />
+      <edge source="user625" target="@huelladigital5" id="1069" />
+      <edge source="user625" target="@gvalpo" id="1070" />
+      <edge source="user625" target="@elmostrador" id="1071" />
+      <edge source="user625" target="@thecliniccl" id="1072" />
+      <edge source="user625" target="@nytimeses" id="1073" />
+      <edge source="user625" target="@bbcmundo" id="1074" />
+      <edge source="user625" target="@RedMiVoz" id="1075" />
+      <edge source="user625" target="@elmartutino" id="1076" />
+      <edge source="user625" target="@GAMBA_CL" id="1077" />
+      <edge source="user625" target="@LAONDADIGITAL" id="1078" />
+      <edge source="user625" target="@baradit" id="1079" />
+      <edge source="user625" target="@PamJiles" id="1080" />
+      <edge source="user625" target="@jorbritoh" id="1081" />
+      <edge source="user625" target="@JorgeSharp" id="1082" />
+      <edge source="user625" target="@hnvjournal" id="1083" />
+      <edge source="user625" target="@jdelapaz1" id="1084" />
+      <edge source="user626" target="@CNNChile" id="1085" />
+      <edge source="user645" target="@Red_Movilidad" id="1086" />
+      <edge source="user645" target="@metrodesantiago" id="1087" />
+      <edge source="user5847" target="@Ejercito_Chile" id="1088" />
+      <edge source="user5878" target="@el_pais" id="1089" />
+      <edge source="user5882" target="@YouTube" id="1090" />
+      <edge source="user5882" target="@sebastianpinera" id="1091" />
+      <edge source="user665" target="@JoyceCrdenasOs1" id="1092" />
+      <edge source="user12" target="@DaniUrrizola" id="1093" />
+      <edge source="user12" target="@MenthoIatum" id="1094" />
+      <edge source="user5924" target="@GobiernodeChile" id="1095" />
+      <edge source="user5924" target="@Minvivienda" id="1096" />
+      <edge source="user683" target="@Revista_Sabado" id="1097" />
+      <edge source="user683" target="@JavierMAlcalde" id="1098" />
+      <edge source="user683" target="@AlfredoSilvaV" id="1099" />
+      <edge source="user5937" target="@DMatamala" id="1100" />
+      <edge source="user5944" target="@PCdeChile" id="1101" />
+      <edge source="user5944" target="@gteillier" id="1102" />
+      <edge source="user5944" target="@Hugo_Gutierrez_" id="1103" />
+      <edge source="user5944" target="@carmenhertz" id="1104" />
+      <edge source="user5944" target="@elfrente_amplio" id="1105" />
+      <edge source="user5944" target="@GabrielBir" id="1106" />
+      <edge source="user5944" target="@GiorgioJackson" id="1107" />
+      <edge source="user5944" target="@JorgeSharp" id="1108" />
+      <edge source="user5944" target="@labeasanchez" id="1109" />
+      <edge source="user5944" target="@Barbara_figue" id="1110" />
+      <edge source="user5944" target="@NolbertoDiaz" id="1111" />
+      <edge source="user5944" target="@anefchile" id="1112" />
+      <edge source="user5944" target="@Cutchile" id="1113" />
+      <edge source="user5944" target="@OLanderretche" id="1114" />
+      <edge source="user5944" target="@fernando_atria" id="1115" />
+      <edge source="user5944" target="@Senado_Chile" id="1116" />
+      <edge source="user5944" target="@CamaraDiputados" id="1117" />
+      <edge source="user5944" target="@senadornavarro" id="1118" />
+      <edge source="user5944" target="@desbordes" id="1119" />
+      <edge source="user5944" target="@RNchile" id="1120" />
+      <edge source="user5944" target="@sebastianpinera" id="1121" />
+      <edge source="user5944" target="@gblumel" id="1122" />
+      <edge source="user5944" target="@PJudicialChile" id="1123" />
+      <edge source="user5944" target="@GranLogiaChile" id="1124" />
+      <edge source="user5944" target="@fiscalesdechile" id="1125" />
+      <edge source="user5944" target="@Carabdechile" id="1126" />
+      <edge source="user5944" target="@GBORIC" id="1127" />
+      <edge source="user5958" target="@CodelcoChile" id="1128" />
+      <edge source="user5958" target="@sebastianpinera" id="1129" />
+      <edge source="user5971" target="@eugeniofigueroa" id="1130" />
+      <edge source="user5975" target="@TeatroMori" id="1131" />
+      <edge source="user5975" target="@TryoTeatroBanda" id="1132" />
+      <edge source="user5975" target="@teatromori" id="1133" />
+      <edge source="user5975" target="@tryoteatrobanda" id="1134" />
+      <edge source="user714" target="@irvindario" id="1135" />
+      <edge source="user5985" target="@aluksicc" id="1136" />
+      <edge source="user5985" target="@latercera" id="1137" />
+      <edge source="user5985" target="@Mega" id="1138" />
+      <edge source="user5985" target="@24HorasTVN" id="1139" />
+      <edge source="user5985" target="@T13Noticias" id="1140" />
+      <edge source="user5985" target="@asisomosoficial" id="1141" />
+      <edge source="user5995" target="@AlcCarrizal" id="1142" />
+      <edge source="user5995" target="@farith15" id="1143" />
+      <edge source="user5995" target="@ErickLozanoDice" id="1144" />
+      <edge source="user6008" target="@FitoPaezMusica" id="1145" />
+      <edge source="user6008" target="@Spotify" id="1146" />
+      <edge source="user6020" target="@egonzalezprofe" id="1147" />
+      <edge source="user738" target="@jucerodriguezo" id="1148" />
+      <edge source="user6023" target="@adictiveswoong" id="1149" />
+      <edge source="user6030" target="@joseantoniokast" id="1150" />
+      <edge source="user6030" target="@tere_marinovic" id="1151" />
+      <edge source="user6030" target="@elvillegaschile" id="1152" />
+      <edge source="user754" target="@ShawnMendes" id="1153" />
+      <edge source="user754" target="@rosaliavt" id="1154" />
+      <edge source="user774" target="@marapizarro" id="1155" />
+      <edge source="user776" target="@udipopular" id="1156" />
+      <edge source="user776" target="@MunicipioValpo" id="1157" />
+      <edge source="user776" target="@cotyreginato" id="1158" />
+      <edge source="user776" target="@vinadelmar" id="1159" />
+      <edge source="user782" target="@LaMismaPeroNo" id="1160" />
+      <edge source="user6071" target="@josepinera_en" id="1161" />
+      <edge source="user6071" target="@sebastianpinera" id="1162" />
+      <edge source="user6071" target="@gmobastias" id="1163" />
+      <edge source="user6099" target="@Senado_Chile" id="1164" />
+      <edge source="user6103" target="@clichesprensa" id="1165" />
+      <edge source="user6103" target="@blondieclub" id="1166" />
+      <edge source="user6113" target="@TVN" id="1167" />
+      <edge source="user801" target="@JorgeSharp" id="1168" />
+      <edge source="user801" target="@PamJiles" id="1169" />
+      <edge source="user801" target="@baradit" id="1170" />
+      <edge source="user801" target="@ValdebenitoNata" id="1171" />
+      <edge source="user817" target="@sebastianpinera" id="1172" />
+      <edge source="user820" target="@antofasegura" id="1173" />
+      <edge source="user820" target="@AlumbradopIMA" id="1174" />
+      <edge source="user6153" target="@BTS_twt" id="1175" />
+      <edge source="user833" target="@MoTownPhenom" id="1176" />
+      <edge source="user839" target="@cbofillr" id="1177" />
+      <edge source="user839" target="@canal13" id="1178" />
+      <edge source="user839" target="@aluksicc" id="1179" />
+      <edge source="user839" target="@eugeniofigueroa" id="1180" />
+      <edge source="user844" target="@CNNEE" id="1181" />
+      <edge source="user848" target="@cnnee" id="1182" />
+      <edge source="user6178" target="@Cooperativa" id="1183" />
+      <edge source="user6200" target="@coropo" id="1184" />
+      <edge source="user6200" target="@mayearmas" id="1185" />
+      <edge source="user882" target="@ChangeorgLatino" id="1186" />
+      <edge source="user896" target="@YouTube" id="1187" />
+      <edge source="user903" target="@labeasanchez" id="1188" />
+      <edge source="user903" target="@ValdebenitoNata" id="1189" />
+      <edge source="user903" target="@KenaLorenziniL" id="1190" />
+      <edge source="user903" target="@subelaradio" id="1191" />
+      <edge source="user903" target="@busesjm" id="1192" />
+      <edge source="user917" target="@allamand" id="1193" />
+      <edge source="user941" target="@edicion_cero" id="1194" />
+      <edge source="user941" target="@inddhh" id="1195" />
+      <edge source="user941" target="@Periodistasiqq" id="1196" />
+      <edge source="user941" target="@matias_ramirezp" id="1197" />
+      <edge source="user941" target="@PiensaPrensa" id="1198" />
+      <edge source="user941" target="@prensaopal" id="1199" />
+      <edge source="user941" target="@IquiqueDeTodos" id="1200" />
+      <edge source="user941" target="@ChilePeriodista" id="1201" />
+      <edge source="user953" target="@eldesconcierto" id="1202" />
+      <edge source="user958" target="@anibaito" id="1203" />
+      <edge source="user958" target="@josepinera" id="1204" />
+      <edge source="user963" target="@carmen_hertz" id="1205" />
+      <edge source="user968" target="@onemichile" id="1206" />
+      <edge source="user968" target="@Carabdechile" id="1207" />
+      <edge source="user968" target="@presidencia_cl" id="1208" />
+      <edge source="user968" target="@elmorrocotudo" id="1209" />
+      <edge source="user988" target="@aluksicc" id="1210" />
+      <edge source="user997" target="@PamJiles" id="1211" />
+      <edge source="user997" target="@subelaradio" id="1212" />
+      <edge source="user1021" target="@teatromori" id="1213" />
+      <edge source="user1021" target="@tryoteatrobanda" id="1214" />
+      <edge source="user1021" target="@TeatroVeleta" id="1215" />
+      <edge source="user1021" target="@teatroveleta" id="1216" />
+      <edge source="user1026" target="@Jaime_Bassa" id="1217" />
+      <edge source="user1026" target="@artecanal" id="1218" />
+      <edge source="user1026" target="@mdieguezsm" id="1219" />
+      <edge source="user1044" target="@inddhh" id="1220" />
+      <edge source="user1049" target="@IvanDuque" id="1221" />
+      <edge source="user1049" target="@jguaido" id="1222" />
+      <edge source="user1049" target="@nayibbukele" id="1223" />
+      <edge source="user1049" target="@petrogustavo" id="1224" />
+      <edge source="user9273" target="@andreschadwickp" id="1225" />
+      <edge source="user9273" target="@elfrente_amplio" id="1226" />
+      <edge source="user9273" target="@PCdeChile" id="1227" />
+      <edge source="user9273" target="@TVN" id="1228" />
+      <edge source="user9287" target="@elh_vito_o" id="1229" />
+      <edge source="user9306" target="@alejandrosanz" id="1230" />
+      <edge source="user6233" target="@tere_marinovic" id="1231" />
+      <edge source="user9341" target="@HuaWuxians" id="1232" />
+      <edge source="user1093" target="@YouTube" id="1233" />
+      <edge source="user1097" target="@RodrigoWagnerB" id="1234" />
+      <edge source="user1097" target="@La_Segunda" id="1235" />
+      <edge source="user1098" target="@ChangeorgLatino" id="1236" />
+      <edge source="user9367" target="@SAEA170690" id="1237" />
+      <edge source="user6248" target="@Coop_NomadaSur" id="1238" />
+      <edge source="user9390" target="@NOmasAFP" id="1239" />
+      <edge source="user9390" target="@LuisMesina1" id="1240" />
+      <edge source="user9390" target="@CNT_NOmasAFP" id="1241" />
+      <edge source="user1104" target="@labeasanchez" id="1242" />
+      <edge source="user1104" target="@JorgeGoldenberg" id="1243" />
+      <edge source="user6257" target="@conini_uch" id="1244" />
+      <edge source="user1106" target="@gabrielboric" id="1245" />
+      <edge source="user1106" target="@GiorgioJackson" id="1246" />
+      <edge source="user6258" target="@LaHojillaenTV" id="1247" />
+      <edge source="user9435" target="@YouTube" id="1248" />
+      <edge source="user1119" target="@MEGA" id="1249" />
+      <edge source="user1119" target="@aluksicc" id="1250" />
+      <edge source="user1119" target="@canal13" id="1251" />
+      <edge source="user1122" target="@ceciliamorel" id="1252" />
+      <edge source="user15" target="@AgusBazterrica" id="1253" />
+      <edge source="user15" target="@okiagostina" id="1254" />
+      <edge source="user1131" target="@qklutoo" id="1255" />
+      <edge source="user1131" target="@panchulin" id="1256" />
+      <edge source="user1131" target="@FrdyVlds" id="1257" />
+      <edge source="user1131" target="@JPOrtizMoreno" id="1258" />
+      <edge source="user1131" target="@carmen_hertz" id="1259" />
+      <edge source="user9515" target="@FelipeGuevaraSt" id="1260" />
+      <edge source="user9515" target="@kebensperger" id="1261" />
+      <edge source="user1148" target="@GloriaHutt" id="1262" />
+      <edge source="user1149" target="@amaraloficial" id="1263" />
+      <edge source="user1149" target="@monlaferte" id="1264" />
+      <edge source="user6290" target="@sebastianpinera" id="1265" />
+      <edge source="user9558" target="@motherofcobayos" id="1266" />
+      <edge source="user9558" target="@Solconese" id="1267" />
+      <edge source="user6293" target="@catalunya_marea" id="1268" />
+      <edge source="user6293" target="@pensionazo_no" id="1269" />
+      <edge source="user6293" target="@SanValb" id="1270" />
+      <edge source="user6293" target="@DOLORES94437532" id="1271" />
+      <edge source="user6293" target="@VizcainCarmen" id="1272" />
+      <edge source="user6293" target="@AlcaldeMontse" id="1273" />
+      <edge source="user9602" target="@YouTube" id="1274" />
+      <edge source="user1173" target="@ojochile" id="1275" />
+      <edge source="user1173" target="@latercera" id="1276" />
+      <edge source="user1173" target="@eldesconcierto" id="1277" />
+      <edge source="user9616" target="@TVN" id="1278" />
+      <edge source="user1180" target="@Bennettjhony" id="1279" />
+      <edge source="user1180" target="@AleDiezRT" id="1280" />
+      <edge source="user1180" target="@MACHINET300" id="1281" />
+      <edge source="user1180" target="@chilevision" id="1282" />
+      <edge source="user1180" target="@Chilevision_cl" id="1283" />
+      <edge source="user1180" target="@tv_monica" id="1284" />
+      <edge source="user1180" target="@DMatamala" id="1285" />
+      <edge source="user1180" target="@Wolf48509619" id="1286" />
+      <edge source="user1180" target="@CamiloFreeeman" id="1287" />
+      <edge source="user1180" target="@labeasanchez" id="1288" />
+      <edge source="user9641" target="@BTS_twt" id="1289" />
+      <edge source="user1189" target="@T13" id="1290" />
+      <edge source="user1199" target="@luisferpo" id="1291" />
+      <edge source="user1199" target="@Arsenal" id="1292" />
+      <edge source="user9688" target="@vertele" id="1293" />
+      <edge source="user9690" target="@GOT7Official" id="1294" />
+      <edge source="user6324" target="@pulso_tw" id="1295" />
+      <edge source="user1210" target="@CineplanetChile" id="1296" />
+      <edge source="user1210" target="@NuevaMasvida_" id="1297" />
+      <edge source="user1210" target="@chilevision" id="1298" />
+      <edge source="user6334" target="@CNNChile" id="1299" />
+      <edge source="user9728" target="@evopoli" id="1300" />
+      <edge source="user9728" target="@SERNAC" id="1301" />
+      <edge source="user9735" target="@ChangeorgLatino" id="1302" />
+      <edge source="user9736" target="@WradioColombia" id="1303" />
+      <edge source="user1219" target="@David_Yost" id="1304" />
+      <edge source="user9761" target="@YouTube" id="1305" />
+      <edge source="user1238" target="@DMatamala" id="1306" />
+      <edge source="user1238" target="@uchile" id="1307" />
+      <edge source="user1238" target="@inddhh" id="1308" />
+      <edge source="user1238" target="@SergioMicco" id="1309" />
+      <edge source="user1238" target="@KarolCariola" id="1310" />
+      <edge source="user1238" target="@canal13" id="1311" />
+      <edge source="user9797" target="@YouTube" id="1312" />
+      <edge source="user9798" target="@MesaSocialValpo" id="1313" />
+      <edge source="user9809" target="@airamfernandez" id="1314" />
+      <edge source="user9842" target="@magpiesandslugs" id="1315" />
+      <edge source="user9842" target="@EnriqueMenaP1" id="1316" />
+      <edge source="user9842" target="@ajplus" id="1317" />
+      <edge source="user1258" target="@TheRock" id="1318" />
+      <edge source="user1258" target="@GamebredFighter" id="1319" />
+      <edge source="user1258" target="@NateDiaz209" id="1320" />
+      <edge source="user1258" target="@VicenteLuqueMMA" id="1321" />
+      <edge source="user9870" target="@Obs_DDHH_PM" id="1322" />
+      <edge source="user9870" target="@Muletjaime" id="1323" />
+      <edge source="user9870" target="@UnidadSocialCh" id="1324" />
+      <edge source="user9870" target="@EcologicoAgro" id="1325" />
+      <edge source="user9870" target="@CNT_NOmasAFP" id="1326" />
+      <edge source="user9870" target="@sebastianpinera" id="1327" />
+      <edge source="user9870" target="@andreschadwickp" id="1328" />
+      <edge source="user9928" target="@Lasvillaoficial" id="1329" />
+      <edge source="user9940" target="@eldesconcierto" id="1330" />
+      <edge source="user9940" target="@adnradiochile" id="1331" />
+      <edge source="user9940" target="@TVN" id="1332" />
+      <edge source="user9940" target="@canal13" id="1333" />
+      <edge source="user9940" target="@CNNChile" id="1334" />
+      <edge source="user9940" target="@CNNEE" id="1335" />
+      <edge source="user9940" target="@ActualidadRT" id="1336" />
+      <edge source="user6394" target="@EvaSoriano90" id="1337" />
+      <edge source="user1296" target="@doris_gonzalez_" id="1338" />
+      <edge source="user1296" target="@UkamauChile" id="1339" />
+      <edge source="user1296" target="@chilev" id="1340" />
+      <edge source="user1296" target="@chilevision" id="1341" />
+      <edge source="user1300" target="@PamJiles" id="1342" />
+      <edge source="user1300" target="@KarolCariola" id="1343" />
+      <edge source="user1300" target="@camila_vallejo" id="1344" />
+      <edge source="user10036" target="@ElTear_" id="1345" />
+      <edge source="user10036" target="@errorjeon404" id="1346" />
+      <edge source="user6405" target="@carolita_rock" id="1347" />
+      <edge source="user6405" target="@priasecas" id="1348" />
+      <edge source="user10089" target="@ElHedonist" id="1349" />
+      <edge source="user6407" target="@UFCEspanol" id="1350" />
+      <edge source="user6421" target="@flomerlez" id="1351" />
+      <edge source="user6421" target="@chicasdecalipso" id="1352" />
+      <edge source="user6421" target="@emedinachile" id="1353" />
+      <edge source="user1334" target="@Carabdechile" id="1354" />
+      <edge source="user1334" target="@KarlaEnAccion" id="1355" />
+      <edge source="user10177" target="@ChangeorgLatino" id="1356" />
+      <edge source="user10182" target="@somoscaseritas" id="1357" />
+      <edge source="user1341" target="@Jaime_Bassa" id="1358" />
+      <edge source="user10192" target="@IrantzuVarela" id="1359" />
+      <edge source="user1356" target="@metrodesantiago" id="1360" />
+      <edge source="user6434" target="@cesifoti" id="1361" />
+      <edge source="user10259" target="@PelaoPati" id="1362" />
+      <edge source="user10259" target="@patricionavia" id="1363" />
+      <edge source="user10259" target="@latercera" id="1364" />
+      <edge source="user1365" target="@tv_monica" id="1365" />
+      <edge source="user10270" target="@BrevisSamuel" id="1366" />
+      <edge source="user10270" target="@Kate69807278" id="1367" />
+      <edge source="user10270" target="@NuevaConstituc3" id="1368" />
+      <edge source="user10270" target="@seni_correa" id="1369" />
+      <edge source="user10270" target="@ayken_1" id="1370" />
+      <edge source="user10270" target="@allamand" id="1371" />
+      <edge source="user10270" target="@carmen_hertz" id="1372" />
+      <edge source="user10270" target="@CNNChile" id="1373" />
+      <edge source="user10270" target="@chilevision" id="1374" />
+      <edge source="user10274" target="@udipopular" id="1375" />
+      <edge source="user10274" target="@RNchile" id="1376" />
+      <edge source="user10274" target="@PCdeChile" id="1377" />
+      <edge source="user10274" target="@monlaferte" id="1378" />
+      <edge source="user10274" target="@JuntaVOlimpica" id="1379" />
+      <edge source="user10306" target="@gsorolla" id="1380" />
+      <edge source="user10306" target="@Josefinajen1986" id="1381" />
+      <edge source="user10306" target="@CHVNoticias" id="1382" />
+      <edge source="user10306" target="@marita_stappung" id="1383" />
+      <edge source="user10311" target="@ChangeorgLatino" id="1384" />
+      <edge source="user10338" target="@carmen_hertz" id="1385" />
+      <edge source="user10338" target="@indh" id="1386" />
+      <edge source="user6464" target="@pensador20201" id="1387" />
+      <edge source="user6464" target="@pattycordovely" id="1388" />
+      <edge source="user6464" target="@camila_vallejo" id="1389" />
+      <edge source="user6464" target="@barbarabricenok" id="1390" />
+      <edge source="user6464" target="@DMatamala" id="1391" />
+      <edge source="user6464" target="@joseantoniokast" id="1392" />
+      <edge source="user6464" target="@mjossandon" id="1393" />
+      <edge source="user6464" target="@lcruzcoke" id="1394" />
+      <edge source="user6464" target="@tv_monica" id="1395" />
+      <edge source="user10378" target="@pablomoyano_ok" id="1396" />
+      <edge source="user10378" target="@SiempreDelRojo" id="1397" />
+      <edge source="user10411" target="@catacarabelli" id="1398" />
+      <edge source="user10411" target="@NektaGG" id="1399" />
+      <edge source="user10411" target="@BlizzLatAm" id="1400" />
+      <edge source="user10443" target="@BTS_twt" id="1401" />
+      <edge source="user10446" target="@_abrilflores" id="1402" />
+      <edge source="user10446" target="@SudorMarika" id="1403" />
+      <edge source="user1423" target="@GobiernodeChile" id="1404" />
+      <edge source="user1423" target="@sebastianpinera" id="1405" />
+      <edge source="user1423" target="@CNNChile" id="1406" />
+      <edge source="user1423" target="@CNNEE" id="1407" />
+      <edge source="user1423" target="@LaPrensAustral" id="1408" />
+      <edge source="user1423" target="@PublimetroChile" id="1409" />
+      <edge source="user1423" target="@Carabdechile" id="1410" />
+      <edge source="user1423" target="@InterferenciaCL" id="1411" />
+      <edge source="user1434" target="@thecliniccl" id="1412" />
+      <edge source="user1436" target="@canal13" id="1413" />
+      <edge source="user6481" target="@TVN" id="1414" />
+      <edge source="user6481" target="@vidalvocero" id="1415" />
+      <edge source="user6481" target="@AXELKAISER" id="1416" />
+      <edge source="user6481" target="@sebastianpinera" id="1417" />
+      <edge source="user6481" target="@camila_vallejo" id="1418" />
+      <edge source="user6481" target="@KarolCariola" id="1419" />
+      <edge source="user6481" target="@GerardoLagosM" id="1420" />
+      <edge source="user10483" target="@armada_ecuador" id="1421" />
+      <edge source="user10514" target="@eldesconcierto" id="1422" />
+      <edge source="user10514" target="@Cooperativa" id="1423" />
+      <edge source="user10514" target="@MetroValpo" id="1424" />
+      <edge source="user10514" target="@Carabdechile" id="1425" />
+      <edge source="user10514" target="@s" id="1426" />
+      <edge source="user1466" target="@metrodesantiago" id="1427" />
+      <edge source="user10560" target="@PensanteL" id="1428" />
+      <edge source="user10579" target="@Vengoaopinaryo" id="1429" />
+      <edge source="user10579" target="@alejandrosanmo" id="1430" />
+      <edge source="user6509" target="@ceciperez1" id="1431" />
+      <edge source="user10607" target="@FelipeGuevaraSt" id="1432" />
+      <edge source="user6513" target="@SAEA170690" id="1433" />
+      <edge source="user6513" target="@Willy03435979" id="1434" />
+      <edge source="user10645" target="@KarlaEnAccion" id="1435" />
+      <edge source="user10657" target="@BTS_twt" id="1436" />
+      <edge source="user6524" target="@lessly98l" id="1437" />
+      <edge source="user10668" target="@YouTube" id="1438" />
+      <edge source="user6527" target="@YouTube" id="1439" />
+      <edge source="user10702" target="@cesifoti" id="1440" />
+      <edge source="user10702" target="@cmonckeberg" id="1441" />
+      <edge source="user1511" target="@Capitan_Swing" id="1442" />
+      <edge source="user1511" target="@APIA_es" id="1443" />
+      <edge source="user1511" target="@psoe" id="1444" />
+      <edge source="user1511" target="@populares" id="1445" />
+      <edge source="user1511" target="@CiudadanosCs" id="1446" />
+      <edge source="user1511" target="@ahorapodemos" id="1447" />
+      <edge source="user1517" target="@YouTube" id="1448" />
+      <edge source="user1530" target="@josepinera" id="1449" />
+      <edge source="user10789" target="@sebastianpinera" id="1450" />
+      <edge source="user10789" target="@danieljadue" id="1451" />
+      <edge source="user10789" target="@gblumel" id="1452" />
+      <edge source="user10789" target="@canal13" id="1453" />
+      <edge source="user10789" target="@tvn" id="1454" />
+      <edge source="user10789" target="@chilevision" id="1455" />
+      <edge source="user10809" target="@pomytapiad" id="1456" />
+      <edge source="user10809" target="@vinadenuncia" id="1457" />
+      <edge source="user1544" target="@KarlaEnAccion" id="1458" />
+      <edge source="user1544" target="@sebastianpinera" id="1459" />
+      <edge source="user6562" target="@ChangeorgLatino" id="1460" />
+      <edge source="user6566" target="@PamJiles" id="1461" />
+      <edge source="user6566" target="@FELIX_GonzalezG" id="1462" />
+      <edge source="user6566" target="@ifloresdiputado" id="1463" />
+      <edge source="user6566" target="@ChangeorgLatino" id="1464" />
+      <edge source="user6566" target="@ivanmoreirab" id="1465" />
+      <edge source="user1559" target="@eslajaisowhat" id="1466" />
+      <edge source="user6570" target="@cnnee" id="1467" />
+      <edge source="user6571" target="@A_Labrac" id="1468" />
+      <edge source="user10912" target="@CoffeIsGay" id="1469" />
+      <edge source="user10912" target="@Tora_Danii" id="1470" />
+      <edge source="user10914" target="@sebastianpinera" id="1471" />
+      <edge source="user10914" target="@MegafonoPopular" id="1472" />
+      <edge source="user10922" target="@gestionperfecta" id="1473" />
+      <edge source="user10922" target="@MirnaT_Vies" id="1474" />
+      <edge source="user10922" target="@gaslara_oficial" id="1475" />
+      <edge source="user1574" target="@NateDiaz209" id="1476" />
+      <edge source="user1578" target="@24HorasTVN" id="1477" />
+      <edge source="user1581" target="@SergioADippW" id="1478" />
+      <edge source="user6587" target="@sebastianpinera" id="1479" />
+      <edge source="user6587" target="@jguaido" id="1480" />
+      <edge source="user1584" target="@InterferenciaCL" id="1481" />
+      <edge source="user1584" target="@Huevodu41926827" id="1482" />
+      <edge source="user1584" target="@molina_offman" id="1483" />
+      <edge source="user1584" target="@antonioppl" id="1484" />
+      <edge source="user1584" target="@Patodiaza" id="1485" />
+      <edge source="user11008" target="@EvLGamingOK" id="1486" />
+      <edge source="user11008" target="@ABLeagueCOD" id="1487" />
+      <edge source="user11020" target="@carmen_hertz" id="1488" />
+      <edge source="user11030" target="@joseantoniokast" id="1489" />
+      <edge source="user1602" target="@ProfeCRojas" id="1490" />
+      <edge source="user1602" target="@FcoXSalinasb_TV" id="1491" />
+      <edge source="user1602" target="@bessygprado" id="1492" />
+      <edge source="user1615" target="@LibardoBuitrago" id="1493" />
+      <edge source="user1615" target="@LaRedTV" id="1494" />
+      <edge source="user11053" target="@SputnikMundo" id="1495" />
+      <edge source="user11060" target="@Juan_RF27" id="1496" />
+      <edge source="user11060" target="@claunavarro0606" id="1497" />
+      <edge source="user11060" target="@SAEA170690" id="1498" />
+      <edge source="user1621" target="@SamsungChile" id="1499" />
+      <edge source="user1626" target="@BojackBeakman" id="1500" />
+      <edge source="user11096" target="@Marian_Carbajal" id="1501" />
+      <edge source="user11096" target="@alferdez" id="1502" />
+      <edge source="user11099" target="@Diego_Cultrera" id="1503" />
+      <edge source="user11134" target="@chahuan" id="1504" />
+      <edge source="user1636" target="@SomosMacul" id="1505" />
+      <edge source="user11165" target="@Carabdechile" id="1506" />
+      <edge source="user11165" target="@Cutchile" id="1507" />
+      <edge source="user11165" target="@ColegioProfes" id="1508" />
+      <edge source="user11165" target="@NOmasAFP" id="1509" />
+      <edge source="user11165" target="@la_Fech" id="1510" />
+      <edge source="user11165" target="@ConfusamChile" id="1511" />
+      <edge source="user11203" target="@IrvingPineda" id="1512" />
+      <edge source="user1661" target="@smvb_18" id="1513" />
+      <edge source="user1661" target="@ConyParejas" id="1514" />
+      <edge source="user1661" target="@rutadelmaipo" id="1515" />
+    </edges>
+  </graph>
+</gexf>
