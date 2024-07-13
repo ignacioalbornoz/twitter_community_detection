@@ -1,0 +1,3332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-12">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="community" type="long" />
+      <attribute id="1" title="color" type="long" />
+    </attributes>
+    <nodes>
+      <node id="user3836" label="user3836">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@PSChile" label="@PSChile">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@cnnee" label="@cnnee">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="user8303" label="user8303">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user12588" label="user12588">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@aluksicc" label="@aluksicc">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@CamaraDiputados" label="@CamaraDiputados">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user1173" label="user1173">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="@T13" label="@T13">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user12865" label="user12865">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user7995" label="user7995">
+        <attvalues>
+          <attvalue for="0" value="32" />
+          <attvalue for="1" value="32" />
+        </attvalues>
+      </node>
+      <node id="user1296" label="user1296">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user9127" label="user9127">
+        <attvalues>
+          <attvalue for="0" value="33" />
+          <attvalue for="1" value="33" />
+        </attvalues>
+      </node>
+      <node id="user3593" label="user3593">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user4023" label="user4023">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </node>
+      <node id="user5550" label="user5550">
+        <attvalues>
+          <attvalue for="0" value="34" />
+          <attvalue for="1" value="34" />
+        </attvalues>
+      </node>
+      <node id="user7026" label="user7026">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="@thecliniccl" label="@thecliniccl">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user10579" label="user10579">
+        <attvalues>
+          <attvalue for="0" value="35" />
+          <attvalue for="1" value="35" />
+        </attvalues>
+      </node>
+      <node id="@dcabellor" label="@dcabellor">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user6421" label="user6421">
+        <attvalues>
+          <attvalue for="0" value="36" />
+          <attvalue for="1" value="36" />
+        </attvalues>
+      </node>
+      <node id="@eugeniofigueroa" label="@eugeniofigueroa">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@PDC_Chile" label="@PDC_Chile">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@senadornavarro" label="@senadornavarro">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user6820" label="user6820">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="user5924" label="user5924">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user2277" label="user2277">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user4252" label="user4252">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user3315" label="user3315">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="user308" label="user308">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user49" label="user49">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user8432" label="user8432">
+        <attvalues>
+          <attvalue for="0" value="37" />
+          <attvalue for="1" value="37" />
+        </attvalues>
+      </node>
+      <node id="user5882" label="user5882">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@JorgeSharp" label="@JorgeSharp">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@TVN" label="@TVN">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user3798" label="user3798">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="25" />
+        </attvalues>
+      </node>
+      <node id="@tere_marinovic" label="@tere_marinovic">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user6481" label="user6481">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@gblumel" label="@gblumel">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="@elfrente_amplio" label="@elfrente_amplio">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@pomytapiad" label="@pomytapiad">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user4721" label="user4721">
+        <attvalues>
+          <attvalue for="0" value="38" />
+          <attvalue for="1" value="38" />
+        </attvalues>
+      </node>
+      <node id="user2268" label="user2268">
+        <attvalues>
+          <attvalue for="0" value="39" />
+          <attvalue for="1" value="39" />
+        </attvalues>
+      </node>
+      <node id="@SinCorbataTVN" label="@SinCorbataTVN">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user5235" label="user5235">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@carolaurrejola" label="@carolaurrejola">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user3642" label="user3642">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="user3466" label="user3466">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user139" label="user139">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user7730" label="user7730">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user7555" label="user7555">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="user608" label="user608">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="user1770" label="user1770">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user5513" label="user5513">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="user10270" label="user10270">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="@Cutchile" label="@Cutchile">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user12053" label="user12053">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@IquiqueDeTodos" label="@IquiqueDeTodos">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="@chilevision" label="@chilevision">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="@rosaliavt" label="@rosaliavt">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="@udipopular" label="@udipopular">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user3888" label="user3888">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="user254" label="user254">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user232" label="user232">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user10922" label="user10922">
+        <attvalues>
+          <attvalue for="0" value="40" />
+          <attvalue for="1" value="40" />
+        </attvalues>
+      </node>
+      <node id="user1106" label="user1106">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user11060" label="user11060">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="user2872" label="user2872">
+        <attvalues>
+          <attvalue for="0" value="41" />
+          <attvalue for="1" value="41" />
+        </attvalues>
+      </node>
+      <node id="@bessygprado" label="@bessygprado">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="@tryoteatrobanda" label="@tryoteatrobanda">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="user4444" label="user4444">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@InterferenciaCL" label="@InterferenciaCL">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@labeasanchez" label="@labeasanchez">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@Red_Movilidad" label="@Red_Movilidad">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="@CarlosS65911850" label="@CarlosS65911850">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user6728" label="user6728">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user9842" label="user9842">
+        <attvalues>
+          <attvalue for="0" value="42" />
+          <attvalue for="1" value="42" />
+        </attvalues>
+      </node>
+      <node id="user12624" label="user12624">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user8994" label="user8994">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user9515" label="user9515">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@jguaido" label="@jguaido">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user8235" label="user8235">
+        <attvalues>
+          <attvalue for="0" value="43" />
+          <attvalue for="1" value="43" />
+        </attvalues>
+      </node>
+      <node id="user8864" label="user8864">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user1258" label="user1258">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="26" />
+        </attvalues>
+      </node>
+      <node id="user10274" label="user10274">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@adnradiochile" label="@adnradiochile">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user6008" label="user6008">
+        <attvalues>
+          <attvalue for="0" value="44" />
+          <attvalue for="1" value="44" />
+        </attvalues>
+      </node>
+      <node id="@doris_gonzalez_" label="@doris_gonzalez_">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user13163" label="user13163">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user11008" label="user11008">
+        <attvalues>
+          <attvalue for="0" value="45" />
+          <attvalue for="1" value="45" />
+        </attvalues>
+      </node>
+      <node id="user4921" label="user4921">
+        <attvalues>
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="27" />
+        </attvalues>
+      </node>
+      <node id="@ValdebenitoNata" label="@ValdebenitoNata">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@Cooperativa" label="@Cooperativa">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user373" label="user373">
+        <attvalues>
+          <attvalue for="0" value="46" />
+          <attvalue for="1" value="46" />
+        </attvalues>
+      </node>
+      <node id="user5985" label="user5985">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user3303" label="user3303">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@NateDiaz209" label="@NateDiaz209">
+        <attvalues>
+          <attvalue for="0" value="26" />
+          <attvalue for="1" value="26" />
+        </attvalues>
+      </node>
+      <node id="@Insulza" label="@Insulza">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="user1805" label="user1805">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@CNT_NOmasAFP" label="@CNT_NOmasAFP">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user4515" label="user4515">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@UkamauChile" label="@UkamauChile">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="@gonzalomuller" label="@gonzalomuller">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user3031" label="user3031">
+        <attvalues>
+          <attvalue for="0" value="47" />
+          <attvalue for="1" value="47" />
+        </attvalues>
+      </node>
+      <node id="user6668" label="user6668">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user3250" label="user3250">
+        <attvalues>
+          <attvalue for="0" value="48" />
+          <attvalue for="1" value="48" />
+        </attvalues>
+      </node>
+      <node id="@LaHojillaenTV" label="@LaHojillaenTV">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user46" label="user46">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user4914" label="user4914">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user13669" label="user13669">
+        <attvalues>
+          <attvalue for="0" value="49" />
+          <attvalue for="1" value="49" />
+        </attvalues>
+      </node>
+      <node id="user4330" label="user4330">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="@gabrielboric" label="@gabrielboric">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@Wolf48509619" label="@Wolf48509619">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user8138" label="user8138">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user4548" label="user4548">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user1300" label="user1300">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user4273" label="user4273">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@Jonatha96845544" label="@Jonatha96845544">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@MielyMerken" label="@MielyMerken">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user12935" label="user12935">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@KarolCariola" label="@KarolCariola">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user317" label="user317">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user388" label="user388">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user997" label="user997">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user8084" label="user8084">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="user5238" label="user5238">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@rodolfocarter" label="@rodolfocarter">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@SergioMicco" label="@SergioMicco">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@AttackedByRats6" label="@AttackedByRats6">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user6464" label="user6464">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user8932" label="user8932">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="user3731" label="user3731">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@andreschadwickp" label="@andreschadwickp">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user2211" label="user2211">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@HernanLarrain" label="@HernanLarrain">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user3831" label="user3831">
+        <attvalues>
+          <attvalue for="0" value="50" />
+          <attvalue for="1" value="50" />
+        </attvalues>
+      </node>
+      <node id="@danieljadue" label="@danieljadue">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user9870" label="user9870">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user8410" label="user8410">
+        <attvalues>
+          <attvalue for="0" value="51" />
+          <attvalue for="1" value="51" />
+        </attvalues>
+      </node>
+      <node id="user4187" label="user4187">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@estadonacional" label="@estadonacional">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user2310" label="user2310">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user13459" label="user13459">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user4317" label="user4317">
+        <attvalues>
+          <attvalue for="0" value="52" />
+          <attvalue for="1" value="52" />
+        </attvalues>
+      </node>
+      <node id="user2050" label="user2050">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user5220" label="user5220">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user6030" label="user6030">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@inddhh" label="@inddhh">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@PensanteL" label="@PensanteL">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user5197" label="user5197">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user4345" label="user4345">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user958" label="user958">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user10259" label="user10259">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user2212" label="user2212">
+        <attvalues>
+          <attvalue for="0" value="53" />
+          <attvalue for="1" value="53" />
+        </attvalues>
+      </node>
+      <node id="@mfc_oficial" label="@mfc_oficial">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="@mcubillossigall" label="@mcubillossigall">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="@Senado_Chile" label="@Senado_Chile">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user2954" label="user2954">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user1511" label="user1511">
+        <attvalues>
+          <attvalue for="0" value="54" />
+          <attvalue for="1" value="54" />
+        </attvalues>
+      </node>
+      <node id="user5261" label="user5261">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@eldesconcierto" label="@eldesconcierto">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@CNNChile" label="@CNNChile">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user3473" label="user3473">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@T13Noticias" label="@T13Noticias">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user645" label="user645">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="user820" label="user820">
+        <attvalues>
+          <attvalue for="0" value="55" />
+          <attvalue for="1" value="55" />
+        </attvalues>
+      </node>
+      <node id="@kebensperger" label="@kebensperger">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user12969" label="user12969">
+        <attvalues>
+          <attvalue for="0" value="56" />
+          <attvalue for="1" value="56" />
+        </attvalues>
+      </node>
+      <node id="user8675" label="user8675">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user11811" label="user11811">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user8499" label="user8499">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@UnidadSocialCh" label="@UnidadSocialCh">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user3698" label="user3698">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@baradit" label="@baradit">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user10789" label="user10789">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="@el_ciudadano" label="@el_ciudadano">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user8088" label="user8088">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="user7005" label="user7005">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="user5183" label="user5183">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@s" label="@s">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@veronicadela4t" label="@veronicadela4t">
+        <attvalues>
+          <attvalue for="0" value="25" />
+          <attvalue for="1" value="25" />
+        </attvalues>
+      </node>
+      <node id="@Chileokulto" label="@Chileokulto">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user7458" label="user7458">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </node>
+      <node id="@latercera" label="@latercera">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user1727" label="user1727">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user9558" label="user9558">
+        <attvalues>
+          <attvalue for="0" value="57" />
+          <attvalue for="1" value="57" />
+        </attvalues>
+      </node>
+      <node id="user1334" label="user1334">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user4565" label="user4565">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user7941" label="user7941">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@alvaroramis" label="@alvaroramis">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="user6200" label="user6200">
+        <attvalues>
+          <attvalue for="0" value="58" />
+          <attvalue for="1" value="58" />
+        </attvalues>
+      </node>
+      <node id="@ignatiuswilde" label="@ignatiuswilde">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user4844" label="user4844">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@NicolasMaduro" label="@NicolasMaduro">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@24HorasTVN" label="@24HorasTVN">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user601" label="user601">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user5307" label="user5307">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@AlvaroUribeVel" label="@AlvaroUribeVel">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="user10809" label="user10809">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@DUALIPA" label="@DUALIPA">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="@Chilevision_cl" label="@Chilevision_cl">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="@emol" label="@emol">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@MTTChile" label="@MTTChile">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="user2287" label="user2287">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user5624" label="user5624">
+        <attvalues>
+          <attvalue for="0" value="59" />
+          <attvalue for="1" value="59" />
+        </attvalues>
+      </node>
+      <node id="user1423" label="user1423">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@GOT7Official" label="@GOT7Official">
+        <attvalues>
+          <attvalue for="0" value="60" />
+          <attvalue for="1" value="60" />
+        </attvalues>
+      </node>
+      <node id="@petrogustavo" label="@petrogustavo">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </node>
+      <node id="user207" label="user207">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@lopezobrador_" label="@lopezobrador_">
+        <attvalues>
+          <attvalue for="0" value="27" />
+          <attvalue for="1" value="27" />
+        </attvalues>
+      </node>
+      <node id="@Carabdechile" label="@Carabdechile">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@teatromori" label="@teatromori">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="@carreragonzalo" label="@carreragonzalo">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user5995" label="user5995">
+        <attvalues>
+          <attvalue for="0" value="61" />
+          <attvalue for="1" value="61" />
+        </attvalues>
+      </node>
+      <node id="user1097" label="user1097">
+        <attvalues>
+          <attvalue for="0" value="62" />
+          <attvalue for="1" value="62" />
+        </attvalues>
+      </node>
+      <node id="@rmunda" label="@rmunda">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user2168" label="user2168">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@alferdez" label="@alferdez">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="21" />
+        </attvalues>
+      </node>
+      <node id="@josepinera" label="@josepinera">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user8896" label="user8896">
+        <attvalues>
+          <attvalue for="0" value="63" />
+          <attvalue for="1" value="63" />
+        </attvalues>
+      </node>
+      <node id="user604" label="user604">
+        <attvalues>
+          <attvalue for="0" value="64" />
+          <attvalue for="1" value="64" />
+        </attvalues>
+      </node>
+      <node id="user8808" label="user8808">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user4934" label="user4934">
+        <attvalues>
+          <attvalue for="0" value="65" />
+          <attvalue for="1" value="65" />
+        </attvalues>
+      </node>
+      <node id="user6293" label="user6293">
+        <attvalues>
+          <attvalue for="0" value="66" />
+          <attvalue for="1" value="66" />
+        </attvalues>
+      </node>
+      <node id="@uchile" label="@uchile">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user12688" label="user12688">
+        <attvalues>
+          <attvalue for="0" value="67" />
+          <attvalue for="1" value="67" />
+        </attvalues>
+      </node>
+      <node id="user3164" label="user3164">
+        <attvalues>
+          <attvalue for="0" value="68" />
+          <attvalue for="1" value="68" />
+        </attvalues>
+      </node>
+      <node id="@FELIX_GonzalezG" label="@FELIX_GonzalezG">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@Jaime_Bassa" label="@Jaime_Bassa">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@subelaradio" label="@subelaradio">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user11165" label="user11165">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user12" label="user12">
+        <attvalues>
+          <attvalue for="0" value="69" />
+          <attvalue for="1" value="69" />
+        </attvalues>
+      </node>
+      <node id="user3444" label="user3444">
+        <attvalues>
+          <attvalue for="0" value="70" />
+          <attvalue for="1" value="70" />
+        </attvalues>
+      </node>
+      <node id="@canal13" label="@canal13">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user683" label="user683">
+        <attvalues>
+          <attvalue for="0" value="71" />
+          <attvalue for="1" value="71" />
+        </attvalues>
+      </node>
+      <node id="@RigobertMenchu" label="@RigobertMenchu">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@RenAlmeyda1" label="@RenAlmeyda1">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user178" label="user178">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user11597" label="user11597">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="28" />
+        </attvalues>
+      </node>
+      <node id="user10446" label="user10446">
+        <attvalues>
+          <attvalue for="0" value="72" />
+          <attvalue for="1" value="72" />
+        </attvalues>
+      </node>
+      <node id="@canalspace" label="@canalspace">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user13166" label="user13166">
+        <attvalues>
+          <attvalue for="0" value="73" />
+          <attvalue for="1" value="73" />
+        </attvalues>
+      </node>
+      <node id="user903" label="user903">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@ivanmoreirab" label="@ivanmoreirab">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user5618" label="user5618">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user13613" label="user13613">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user1104" label="user1104">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@alamos_fernando" label="@alamos_fernando">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user11939" label="user11939">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user6513" label="user6513">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="user7625" label="user7625">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user5975" label="user5975">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="user1021" label="user1021">
+        <attvalues>
+          <attvalue for="0" value="17" />
+          <attvalue for="1" value="17" />
+        </attvalues>
+      </node>
+      <node id="user4524" label="user4524">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="user455" label="user455">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user10514" label="user10514">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@Emol" label="@Emol">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user2753" label="user2753">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user13132" label="user13132">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user3519" label="user3519">
+        <attvalues>
+          <attvalue for="0" value="74" />
+          <attvalue for="1" value="74" />
+        </attvalues>
+      </node>
+      <node id="user5316" label="user5316">
+        <attvalues>
+          <attvalue for="0" value="75" />
+          <attvalue for="1" value="75" />
+        </attvalues>
+      </node>
+      <node id="user3846" label="user3846">
+        <attvalues>
+          <attvalue for="0" value="76" />
+          <attvalue for="1" value="76" />
+        </attvalues>
+      </node>
+      <node id="user4556" label="user4556">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@ifloresdiputado" label="@ifloresdiputado">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user11767" label="user11767">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="@RNchile" label="@RNchile">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user298" label="user298">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@IvanValenzuelaU" label="@IvanValenzuelaU">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user2845" label="user2845">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user3557" label="user3557">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user625" label="user625">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@KarlaEnAccion" label="@KarlaEnAccion">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user839" label="user839">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user4907" label="user4907">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@CHVNoticias" label="@CHVNoticias">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user4471" label="user4471">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user13709" label="user13709">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user8603" label="user8603">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="21" />
+        </attvalues>
+      </node>
+      <node id="user4375" label="user4375">
+        <attvalues>
+          <attvalue for="0" value="77" />
+          <attvalue for="1" value="77" />
+        </attvalues>
+      </node>
+      <node id="@PamJiles" label="@PamJiles">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@melnicksergio" label="@melnicksergio">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user1199" label="user1199">
+        <attvalues>
+          <attvalue for="0" value="78" />
+          <attvalue for="1" value="78" />
+        </attvalues>
+      </node>
+      <node id="user4829" label="user4829">
+        <attvalues>
+          <attvalue for="0" value="79" />
+          <attvalue for="1" value="79" />
+        </attvalues>
+      </node>
+      <node id="user10702" label="user10702">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="29" />
+        </attvalues>
+      </node>
+      <node id="user3603" label="user3603">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@DMatamala" label="@DMatamala">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user11677" label="user11677">
+        <attvalues>
+          <attvalue for="0" value="80" />
+          <attvalue for="1" value="80" />
+        </attvalues>
+      </node>
+      <node id="user517" label="user517">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@Tono_Coloma" label="@Tono_Coloma">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user2430" label="user2430">
+        <attvalues>
+          <attvalue for="0" value="81" />
+          <attvalue for="1" value="81" />
+        </attvalues>
+      </node>
+      <node id="user2163" label="user2163">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user2314" label="user2314">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="@biobio" label="@biobio">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user13616" label="user13616">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user3112" label="user3112">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user6827" label="user6827">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user1131" label="user1131">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user4194" label="user4194">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user208" label="user208">
+        <attvalues>
+          <attvalue for="0" value="82" />
+          <attvalue for="1" value="82" />
+        </attvalues>
+      </node>
+      <node id="user1119" label="user1119">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user7473" label="user7473">
+        <attvalues>
+          <attvalue for="0" value="83" />
+          <attvalue for="1" value="83" />
+        </attvalues>
+      </node>
+      <node id="@nayibbukele" label="@nayibbukele">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user9048" label="user9048">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="user4827" label="user4827">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user10912" label="user10912">
+        <attvalues>
+          <attvalue for="0" value="84" />
+          <attvalue for="1" value="84" />
+        </attvalues>
+      </node>
+      <node id="@CNNEE" label="@CNNEE">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@GiorgioJackson" label="@GiorgioJackson">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user10378" label="user10378">
+        <attvalues>
+          <attvalue for="0" value="85" />
+          <attvalue for="1" value="85" />
+        </attvalues>
+      </node>
+      <node id="user491" label="user491">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user2568" label="user2568">
+        <attvalues>
+          <attvalue for="0" value="86" />
+          <attvalue for="1" value="86" />
+        </attvalues>
+      </node>
+      <node id="@uchileradio" label="@uchileradio">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="@ctxt_es" label="@ctxt_es">
+        <attvalues>
+          <attvalue for="0" value="16" />
+          <attvalue for="1" value="16" />
+        </attvalues>
+      </node>
+      <node id="@presidencia_cl" label="@presidencia_cl">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user2247" label="user2247">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@ColegioProfes" label="@ColegioProfes">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user1735" label="user1735">
+        <attvalues>
+          <attvalue for="0" value="87" />
+          <attvalue for="1" value="87" />
+        </attvalues>
+      </node>
+      <node id="@mbachelet" label="@mbachelet">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@SAEA170690" label="@SAEA170690">
+        <attvalues>
+          <attvalue for="0" value="20" />
+          <attvalue for="1" value="20" />
+        </attvalues>
+      </node>
+      <node id="user10036" label="user10036">
+        <attvalues>
+          <attvalue for="0" value="88" />
+          <attvalue for="1" value="88" />
+        </attvalues>
+      </node>
+      <node id="user3458" label="user3458">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@carmen_hertz" label="@carmen_hertz">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user6" label="user6">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user83" label="user83">
+        <attvalues>
+          <attvalue for="0" value="89" />
+          <attvalue for="1" value="89" />
+        </attvalues>
+      </node>
+      <node id="user1808" label="user1808">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user9728" label="user9728">
+        <attvalues>
+          <attvalue for="0" value="90" />
+          <attvalue for="1" value="90" />
+        </attvalues>
+      </node>
+      <node id="user8899" label="user8899">
+        <attvalues>
+          <attvalue for="0" value="91" />
+          <attvalue for="1" value="91" />
+        </attvalues>
+      </node>
+      <node id="user9004" label="user9004">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user8184" label="user8184">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user5483" label="user5483">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user7091" label="user7091">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@anefchile" label="@anefchile">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user7990" label="user7990">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user6405" label="user6405">
+        <attvalues>
+          <attvalue for="0" value="92" />
+          <attvalue for="1" value="92" />
+        </attvalues>
+      </node>
+      <node id="@sebastianpinera" label="@sebastianpinera">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user941" label="user941">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user9018" label="user9018">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user6071" label="user6071">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@cesifoti" label="@cesifoti">
+        <attvalues>
+          <attvalue for="0" value="29" />
+          <attvalue for="1" value="29" />
+        </attvalues>
+      </node>
+      <node id="user2464" label="user2464">
+        <attvalues>
+          <attvalue for="0" value="30" />
+          <attvalue for="1" value="30" />
+        </attvalues>
+      </node>
+      <node id="@Bienvenidos13" label="@Bienvenidos13">
+        <attvalues>
+          <attvalue for="0" value="14" />
+          <attvalue for="1" value="14" />
+        </attvalues>
+      </node>
+      <node id="@taniasandinista" label="@taniasandinista">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user1602" label="user1602">
+        <attvalues>
+          <attvalue for="0" value="22" />
+          <attvalue for="1" value="22" />
+        </attvalues>
+      </node>
+      <node id="@ONU_derechos" label="@ONU_derechos">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user1584" label="user1584">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user11807" label="user11807">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user5944" label="user5944">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@GobiernodeChile" label="@GobiernodeChile">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user776" label="user776">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user11938" label="user11938">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="31" />
+        </attvalues>
+      </node>
+      <node id="user801" label="user801">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user1049" label="user1049">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@camila_vallejo" label="@camila_vallejo">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@joseantoniokast" label="@joseantoniokast">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user4586" label="user4586">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@pensador20201" label="@pensador20201">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user6721" label="user6721">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user7108" label="user7108">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user3264" label="user3264">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user4478" label="user4478">
+        <attvalues>
+          <attvalue for="0" value="93" />
+          <attvalue for="1" value="93" />
+        </attvalues>
+      </node>
+      <node id="user1787" label="user1787">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="user10306" label="user10306">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user437" label="user437">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@paulinanu" label="@paulinanu">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user4001" label="user4001">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user968" label="user968">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@allamand" label="@allamand">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="user4226" label="user4226">
+        <attvalues>
+          <attvalue for="0" value="94" />
+          <attvalue for="1" value="94" />
+        </attvalues>
+      </node>
+      <node id="@marcelobarti" label="@marcelobarti">
+        <attvalues>
+          <attvalue for="0" value="28" />
+          <attvalue for="1" value="28" />
+        </attvalues>
+      </node>
+      <node id="@vidalvocero" label="@vidalvocero">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user3230" label="user3230">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user213" label="user213">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user9033" label="user9033">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user6103" label="user6103">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="user1026" label="user1026">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="@blondieclub" label="@blondieclub">
+        <attvalues>
+          <attvalue for="0" value="23" />
+          <attvalue for="1" value="23" />
+        </attvalues>
+      </node>
+      <node id="user3386" label="user3386">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user3624" label="user3624">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="@ErnaUlloaRiquel" label="@ErnaUlloaRiquel">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user306" label="user306">
+        <attvalues>
+          <attvalue for="0" value="95" />
+          <attvalue for="1" value="95" />
+        </attvalues>
+      </node>
+      <node id="@adictiveswoong" label="@adictiveswoong">
+        <attvalues>
+          <attvalue for="0" value="31" />
+          <attvalue for="1" value="31" />
+        </attvalues>
+      </node>
+      <node id="@anibaito" label="@anibaito">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@NOmasAFP" label="@NOmasAFP">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@cbofillr" label="@cbofillr">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user10338" label="user10338">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="@elmostrador" label="@elmostrador">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="@Vale_QuirogaC" label="@Vale_QuirogaC">
+        <attvalues>
+          <attvalue for="0" value="96" />
+          <attvalue for="1" value="96" />
+        </attvalues>
+      </node>
+      <node id="user10411" label="user10411">
+        <attvalues>
+          <attvalue for="0" value="97" />
+          <attvalue for="1" value="97" />
+        </attvalues>
+      </node>
+      <node id="user6793" label="user6793">
+        <attvalues>
+          <attvalue for="0" value="98" />
+          <attvalue for="1" value="98" />
+        </attvalues>
+      </node>
+      <node id="user8825" label="user8825">
+        <attvalues>
+          <attvalue for="0" value="99" />
+          <attvalue for="1" value="99" />
+        </attvalues>
+      </node>
+      <node id="user1210" label="user1210">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="@SadracH" label="@SadracH">
+        <attvalues>
+          <attvalue for="0" value="100" />
+          <attvalue for="1" value="100" />
+        </attvalues>
+      </node>
+      <node id="user151" label="user151">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@PCdeChile" label="@PCdeChile">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user12570" label="user12570">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user3997" label="user3997">
+        <attvalues>
+          <attvalue for="0" value="101" />
+          <attvalue for="1" value="101" />
+        </attvalues>
+      </node>
+      <node id="user1877" label="user1877">
+        <attvalues>
+          <attvalue for="0" value="102" />
+          <attvalue for="1" value="102" />
+        </attvalues>
+      </node>
+      <node id="user2223" label="user2223">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user7701" label="user7701">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@metrodesantiago" label="@metrodesantiago">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="user1717" label="user1717">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user754" label="user754">
+        <attvalues>
+          <attvalue for="0" value="18" />
+          <attvalue for="1" value="18" />
+        </attvalues>
+      </node>
+      <node id="user1149" label="user1149">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user9273" label="user9273">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user10914" label="user10914">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@BTS_twt" label="@BTS_twt">
+        <attvalues>
+          <attvalue for="0" value="103" />
+          <attvalue for="1" value="103" />
+        </attvalues>
+      </node>
+      <node id="user28" label="user28">
+        <attvalues>
+          <attvalue for="0" value="104" />
+          <attvalue for="1" value="104" />
+        </attvalues>
+      </node>
+      <node id="user12731" label="user12731">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user3455" label="user3455">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user11096" label="user11096">
+        <attvalues>
+          <attvalue for="0" value="21" />
+          <attvalue for="1" value="21" />
+        </attvalues>
+      </node>
+      <node id="user1180" label="user1180">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user1238" label="user1238">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user1544" label="user1544">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="@Mega" label="@Mega">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user168" label="user168">
+        <attvalues>
+          <attvalue for="0" value="105" />
+          <attvalue for="1" value="105" />
+        </attvalues>
+      </node>
+      <node id="user3137" label="user3137">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user5958" label="user5958">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="user6587" label="user6587">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@monlaferte" label="@monlaferte">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user9390" label="user9390">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user6935" label="user6935">
+        <attvalues>
+          <attvalue for="0" value="12" />
+          <attvalue for="1" value="12" />
+        </attvalues>
+      </node>
+      <node id="@PublimetroChile" label="@PublimetroChile">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user3826" label="user3826">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user11447" label="user11447">
+        <attvalues>
+          <attvalue for="0" value="106" />
+          <attvalue for="1" value="106" />
+        </attvalues>
+      </node>
+      <node id="user4384" label="user4384">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@rutadelmaipo" label="@rutadelmaipo">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="user5720" label="user5720">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@PiensaPrensa" label="@PiensaPrensa">
+        <attvalues>
+          <attvalue for="0" value="11" />
+          <attvalue for="1" value="11" />
+        </attvalues>
+      </node>
+      <node id="user8789" label="user8789">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="user5015" label="user5015">
+        <attvalues>
+          <attvalue for="0" value="10" />
+          <attvalue for="1" value="10" />
+        </attvalues>
+      </node>
+      <node id="user1661" label="user1661">
+        <attvalues>
+          <attvalue for="0" value="13" />
+          <attvalue for="1" value="13" />
+        </attvalues>
+      </node>
+      <node id="user4143" label="user4143">
+        <attvalues>
+          <attvalue for="0" value="107" />
+          <attvalue for="1" value="107" />
+        </attvalues>
+      </node>
+      <node id="user6566" label="user6566">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="@ActualidadRT" label="@ActualidadRT">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@PDI_CHILE" label="@PDI_CHILE">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user1723" label="user1723">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user7307" label="user7307">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user12006" label="user12006">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="@tv_monica" label="@tv_monica">
+        <attvalues>
+          <attvalue for="0" value="8" />
+          <attvalue for="1" value="8" />
+        </attvalues>
+      </node>
+      <node id="@FelipeGuevaraSt" label="@FelipeGuevaraSt">
+        <attvalues>
+          <attvalue for="0" value="5" />
+          <attvalue for="1" value="5" />
+        </attvalues>
+      </node>
+      <node id="user12478" label="user12478">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="@IvanDuque" label="@IvanDuque">
+        <attvalues>
+          <attvalue for="0" value="15" />
+          <attvalue for="1" value="15" />
+        </attvalues>
+      </node>
+      <node id="@isabelpla" label="@isabelpla">
+        <attvalues>
+          <attvalue for="0" value="1" />
+          <attvalue for="1" value="1" />
+        </attvalues>
+      </node>
+      <node id="user1615" label="user1615">
+        <attvalues>
+          <attvalue for="0" value="108" />
+          <attvalue for="1" value="108" />
+        </attvalues>
+      </node>
+      <node id="user2784" label="user2784">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+      <node id="user5437" label="user5437">
+        <attvalues>
+          <attvalue for="0" value="19" />
+          <attvalue for="1" value="19" />
+        </attvalues>
+      </node>
+      <node id="@PANCHOSAAVEDRA" label="@PANCHOSAAVEDRA">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="@CorazonLlaneroM" label="@CorazonLlaneroM">
+        <attvalues>
+          <attvalue for="0" value="24" />
+          <attvalue for="1" value="24" />
+        </attvalues>
+      </node>
+      <node id="@PPD_Chile" label="@PPD_Chile">
+        <attvalues>
+          <attvalue for="0" value="2" />
+          <attvalue for="1" value="2" />
+        </attvalues>
+      </node>
+      <node id="user7033" label="user7033">
+        <attvalues>
+          <attvalue for="0" value="4" />
+          <attvalue for="1" value="4" />
+        </attvalues>
+      </node>
+      <node id="user7129" label="user7129">
+        <attvalues>
+          <attvalue for="0" value="7" />
+          <attvalue for="1" value="7" />
+        </attvalues>
+      </node>
+      <node id="user8032" label="user8032">
+        <attvalues>
+          <attvalue for="0" value="109" />
+          <attvalue for="1" value="109" />
+        </attvalues>
+      </node>
+      <node id="@ChangeorgLatino" label="@ChangeorgLatino">
+        <attvalues>
+          <attvalue for="0" value="0" />
+          <attvalue for="1" value="0" />
+        </attvalues>
+      </node>
+      <node id="@AlessandriFelip" label="@AlessandriFelip">
+        <attvalues>
+          <attvalue for="0" value="110" />
+          <attvalue for="1" value="110" />
+        </attvalues>
+      </node>
+      <node id="user15" label="user15">
+        <attvalues>
+          <attvalue for="0" value="111" />
+          <attvalue for="1" value="111" />
+        </attvalues>
+      </node>
+      <node id="user9940" label="user9940">
+        <attvalues>
+          <attvalue for="0" value="3" />
+          <attvalue for="1" value="3" />
+        </attvalues>
+      </node>
+      <node id="user7977" label="user7977">
+        <attvalues>
+          <attvalue for="0" value="9" />
+          <attvalue for="1" value="9" />
+        </attvalues>
+      </node>
+      <node id="@YouTube" label="@YouTube">
+        <attvalues>
+          <attvalue for="0" value="6" />
+          <attvalue for="1" value="6" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="user3836" target="@PamJiles" id="0" />
+      <edge source="user3836" target="@FELIX_GonzalezG" id="1" />
+      <edge source="user3836" target="@ifloresdiputado" id="2" />
+      <edge source="user3836" target="@ChangeorgLatino" id="3" />
+      <edge source="user8303" target="@inddhh" id="4" />
+      <edge source="user8303" target="@CHVNoticias" id="5" />
+      <edge source="user12588" target="@adnradiochile" id="6" />
+      <edge source="user1173" target="@latercera" id="7" />
+      <edge source="user1173" target="@eldesconcierto" id="8" />
+      <edge source="user12865" target="@NicolasMaduro" id="9" />
+      <edge source="user1296" target="@doris_gonzalez_" id="10" />
+      <edge source="user1296" target="@UkamauChile" id="11" />
+      <edge source="user1296" target="@chilevision" id="12" />
+      <edge source="user3593" target="@PamJiles" id="13" />
+      <edge source="user3593" target="@FELIX_GonzalezG" id="14" />
+      <edge source="user3593" target="@ifloresdiputado" id="15" />
+      <edge source="user3593" target="@ChangeorgLatino" id="16" />
+      <edge source="user4023" target="@CorazonLlaneroM" id="17" />
+      <edge source="user7026" target="@mcubillossigall" id="18" />
+      <edge source="user7026" target="@Bienvenidos13" id="19" />
+      <edge source="user6820" target="@alvaroramis" id="20" />
+      <edge source="user5924" target="@GobiernodeChile" id="21" />
+      <edge source="user2277" target="@FelipeGuevaraSt" id="22" />
+      <edge source="user2277" target="@sebastianpinera" id="23" />
+      <edge source="user4252" target="@Carabdechile" id="24" />
+      <edge source="user3315" target="@PDI_CHILE" id="25" />
+      <edge source="user3315" target="@metrodesantiago" id="26" />
+      <edge source="user308" target="@carmen_hertz" id="27" />
+      <edge source="user49" target="@latercera" id="28" />
+      <edge source="user49" target="@nayibbukele" id="29" />
+      <edge source="user5882" target="@YouTube" id="30" />
+      <edge source="user5882" target="@sebastianpinera" id="31" />
+      <edge source="user3798" target="@veronicadela4t" id="32" />
+      <edge source="user6481" target="@TVN" id="33" />
+      <edge source="user6481" target="@vidalvocero" id="34" />
+      <edge source="user6481" target="@sebastianpinera" id="35" />
+      <edge source="user6481" target="@camila_vallejo" id="36" />
+      <edge source="user6481" target="@KarolCariola" id="37" />
+      <edge source="user5235" target="@YouTube" id="38" />
+      <edge source="user3642" target="@alvaroramis" id="39" />
+      <edge source="user3642" target="@Bienvenidos13" id="40" />
+      <edge source="user3466" target="@ifloresdiputado" id="41" />
+      <edge source="user3466" target="@gabrielboric" id="42" />
+      <edge source="user3466" target="@GiorgioJackson" id="43" />
+      <edge source="user3466" target="@PamJiles" id="44" />
+      <edge source="user3466" target="@ChangeorgLatino" id="45" />
+      <edge source="user139" target="@Emol" id="46" />
+      <edge source="user139" target="@anefchile" id="47" />
+      <edge source="user139" target="@ColegioProfes" id="48" />
+      <edge source="user139" target="@biobio" id="49" />
+      <edge source="user7730" target="@Carabdechile" id="50" />
+      <edge source="user7730" target="@GobiernodeChile" id="51" />
+      <edge source="user7555" target="@allamand" id="52" />
+      <edge source="user7555" target="@Insulza" id="53" />
+      <edge source="user608" target="@Insulza" id="54" />
+      <edge source="user608" target="@chilevision" id="55" />
+      <edge source="user608" target="@Chilevision_cl" id="56" />
+      <edge source="user1770" target="@PANCHOSAAVEDRA" id="57" />
+      <edge source="user1770" target="@canal13" id="58" />
+      <edge source="user1770" target="@aluksicc" id="59" />
+      <edge source="user5513" target="@sebastianpinera" id="60" />
+      <edge source="user5513" target="@blondieclub" id="61" />
+      <edge source="user10270" target="@allamand" id="62" />
+      <edge source="user10270" target="@carmen_hertz" id="63" />
+      <edge source="user10270" target="@CNNChile" id="64" />
+      <edge source="user10270" target="@chilevision" id="65" />
+      <edge source="user12053" target="@pensador20201" id="66" />
+      <edge source="user12053" target="@PSChile" id="67" />
+      <edge source="user3888" target="@cnnee" id="68" />
+      <edge source="user3888" target="@ctxt_es" id="69" />
+      <edge source="user254" target="@DMatamala" id="70" />
+      <edge source="user254" target="@ChangeorgLatino" id="71" />
+      <edge source="user232" target="@biobio" id="72" />
+      <edge source="user232" target="@IquiqueDeTodos" id="73" />
+      <edge source="user1106" target="@gabrielboric" id="74" />
+      <edge source="user1106" target="@GiorgioJackson" id="75" />
+      <edge source="user11060" target="@SAEA170690" id="76" />
+      <edge source="user4444" target="@PamJiles" id="77" />
+      <edge source="user4444" target="@FELIX_GonzalezG" id="78" />
+      <edge source="user4444" target="@ifloresdiputado" id="79" />
+      <edge source="user4444" target="@ChangeorgLatino" id="80" />
+      <edge source="user6728" target="@ChangeorgLatino" id="81" />
+      <edge source="user6728" target="@PamJiles" id="82" />
+      <edge source="user6728" target="@FELIX_GonzalezG" id="83" />
+      <edge source="user6728" target="@ifloresdiputado" id="84" />
+      <edge source="user12624" target="@sebastianpinera" id="85" />
+      <edge source="user8994" target="@baradit" id="86" />
+      <edge source="user8994" target="@danieljadue" id="87" />
+      <edge source="user8994" target="@KarolCariola" id="88" />
+      <edge source="user8994" target="@labeasanchez" id="89" />
+      <edge source="user9515" target="@FelipeGuevaraSt" id="90" />
+      <edge source="user9515" target="@kebensperger" id="91" />
+      <edge source="user8864" target="@aluksicc" id="92" />
+      <edge source="user8864" target="@ActualidadRT" id="93" />
+      <edge source="user8864" target="@josepinera" id="94" />
+      <edge source="user1258" target="@NateDiaz209" id="95" />
+      <edge source="user10274" target="@udipopular" id="96" />
+      <edge source="user10274" target="@RNchile" id="97" />
+      <edge source="user10274" target="@PCdeChile" id="98" />
+      <edge source="user10274" target="@monlaferte" id="99" />
+      <edge source="user13163" target="@sebastianpinera" id="100" />
+      <edge source="user13163" target="@GiorgioJackson" id="101" />
+      <edge source="user13163" target="@gabrielboric" id="102" />
+      <edge source="user13163" target="@carreragonzalo" id="103" />
+      <edge source="user4921" target="@lopezobrador_" id="104" />
+      <edge source="user5985" target="@aluksicc" id="105" />
+      <edge source="user5985" target="@latercera" id="106" />
+      <edge source="user5985" target="@Mega" id="107" />
+      <edge source="user5985" target="@24HorasTVN" id="108" />
+      <edge source="user5985" target="@T13Noticias" id="109" />
+      <edge source="user3303" target="@AttackedByRats6" id="110" />
+      <edge source="user3303" target="@canal13" id="111" />
+      <edge source="user1805" target="@estadonacional" id="112" />
+      <edge source="user1805" target="@labeasanchez" id="113" />
+      <edge source="user4515" target="@ivanmoreirab" id="114" />
+      <edge source="user4515" target="@udipopular" id="115" />
+      <edge source="user4515" target="@RNchile" id="116" />
+      <edge source="user4515" target="@PPD_Chile" id="117" />
+      <edge source="user4515" target="@PDC_Chile" id="118" />
+      <edge source="user6668" target="@GobiernodeChile" id="119" />
+      <edge source="user46" target="@KarlaEnAccion" id="120" />
+      <edge source="user46" target="@gonzalomuller" id="121" />
+      <edge source="user4914" target="@isabelpla" id="122" />
+      <edge source="user4914" target="@T13Noticias" id="123" />
+      <edge source="user4914" target="@KarlaEnAccion" id="124" />
+      <edge source="user4330" target="@IvanDuque" id="125" />
+      <edge source="user8138" target="@T13" id="126" />
+      <edge source="user4548" target="@sebastianpinera" id="127" />
+      <edge source="user4548" target="@vidalvocero" id="128" />
+      <edge source="user4548" target="@ValdebenitoNata" id="129" />
+      <edge source="user4548" target="@baradit" id="130" />
+      <edge source="user4548" target="@gonzalomuller" id="131" />
+      <edge source="user4548" target="@CamaraDiputados" id="132" />
+      <edge source="user4548" target="@GobiernodeChile" id="133" />
+      <edge source="user4548" target="@RigobertMenchu" id="134" />
+      <edge source="user4548" target="@gblumel" id="135" />
+      <edge source="user4548" target="@anefchile" id="136" />
+      <edge source="user4548" target="@Cutchile" id="137" />
+      <edge source="user4548" target="@ColegioProfes" id="138" />
+      <edge source="user4548" target="@joseantoniokast" id="139" />
+      <edge source="user4548" target="@isabelpla" id="140" />
+      <edge source="user1300" target="@PamJiles" id="141" />
+      <edge source="user1300" target="@KarolCariola" id="142" />
+      <edge source="user1300" target="@camila_vallejo" id="143" />
+      <edge source="user4273" target="@PamJiles" id="144" />
+      <edge source="user4273" target="@KarolCariola" id="145" />
+      <edge source="user4273" target="@gabrielboric" id="146" />
+      <edge source="user4273" target="@GiorgioJackson" id="147" />
+      <edge source="user4273" target="@nayibbukele" id="148" />
+      <edge source="user4273" target="@sebastianpinera" id="149" />
+      <edge source="user4273" target="@senadornavarro" id="150" />
+      <edge source="user4273" target="@vidalvocero" id="151" />
+      <edge source="user12935" target="@NicolasMaduro" id="152" />
+      <edge source="user12935" target="@dcabellor" id="153" />
+      <edge source="user12935" target="@LaHojillaenTV" id="154" />
+      <edge source="user317" target="@thecliniccl" id="155" />
+      <edge source="user317" target="@MielyMerken" id="156" />
+      <edge source="user388" target="@alamos_fernando" id="157" />
+      <edge source="user388" target="@CarlosS65911850" id="158" />
+      <edge source="user997" target="@PamJiles" id="159" />
+      <edge source="user997" target="@subelaradio" id="160" />
+      <edge source="user8084" target="@rutadelmaipo" id="161" />
+      <edge source="user8084" target="@MTTChile" id="162" />
+      <edge source="user8084" target="@Red_Movilidad" id="163" />
+      <edge source="user5238" target="@danieljadue" id="164" />
+      <edge source="user6464" target="@pensador20201" id="165" />
+      <edge source="user6464" target="@camila_vallejo" id="166" />
+      <edge source="user6464" target="@DMatamala" id="167" />
+      <edge source="user6464" target="@joseantoniokast" id="168" />
+      <edge source="user6464" target="@tv_monica" id="169" />
+      <edge source="user8932" target="@allamand" id="170" />
+      <edge source="user3731" target="@tere_marinovic" id="171" />
+      <edge source="user3731" target="@RenAlmeyda1" id="172" />
+      <edge source="user3731" target="@carreragonzalo" id="173" />
+      <edge source="user2211" target="@ifloresdiputado" id="174" />
+      <edge source="user2211" target="@CamaraDiputados" id="175" />
+      <edge source="user2211" target="@ChangeorgLatino" id="176" />
+      <edge source="user9870" target="@UnidadSocialCh" id="177" />
+      <edge source="user9870" target="@CNT_NOmasAFP" id="178" />
+      <edge source="user9870" target="@sebastianpinera" id="179" />
+      <edge source="user9870" target="@andreschadwickp" id="180" />
+      <edge source="user4187" target="@s" id="181" />
+      <edge source="user4187" target="@KarlaEnAccion" id="182" />
+      <edge source="user2310" target="@sebastianpinera" id="183" />
+      <edge source="user13459" target="@PamJiles" id="184" />
+      <edge source="user13459" target="@FELIX_GonzalezG" id="185" />
+      <edge source="user13459" target="@ifloresdiputado" id="186" />
+      <edge source="user13459" target="@ChangeorgLatino" id="187" />
+      <edge source="user2050" target="@gabrielboric" id="188" />
+      <edge source="user2050" target="@JorgeSharp" id="189" />
+      <edge source="user2050" target="@paulinanu" id="190" />
+      <edge source="user2050" target="@melnicksergio" id="191" />
+      <edge source="user5220" target="@inddhh" id="192" />
+      <edge source="user6030" target="@joseantoniokast" id="193" />
+      <edge source="user6030" target="@tere_marinovic" id="194" />
+      <edge source="user5197" target="@PSChile" id="195" />
+      <edge source="user5197" target="@PPD_Chile" id="196" />
+      <edge source="user5197" target="@emol" id="197" />
+      <edge source="user4345" target="@DMatamala" id="198" />
+      <edge source="user4345" target="@CNNChile" id="199" />
+      <edge source="user4345" target="@carmen_hertz" id="200" />
+      <edge source="user958" target="@anibaito" id="201" />
+      <edge source="user958" target="@josepinera" id="202" />
+      <edge source="user10259" target="@latercera" id="203" />
+      <edge source="user2954" target="@doris_gonzalez_" id="204" />
+      <edge source="user2954" target="@CNNChile" id="205" />
+      <edge source="user2954" target="@CHVNoticias" id="206" />
+      <edge source="user5261" target="@paulinanu" id="207" />
+      <edge source="user5261" target="@allamand" id="208" />
+      <edge source="user3473" target="@PANCHOSAAVEDRA" id="209" />
+      <edge source="user3473" target="@T13" id="210" />
+      <edge source="user645" target="@Red_Movilidad" id="211" />
+      <edge source="user645" target="@metrodesantiago" id="212" />
+      <edge source="user8675" target="@sebastianpinera" id="213" />
+      <edge source="user8675" target="@GobiernodeChile" id="214" />
+      <edge source="user11811" target="@nayibbukele" id="215" />
+      <edge source="user11811" target="@NicolasMaduro" id="216" />
+      <edge source="user11811" target="@dcabellor" id="217" />
+      <edge source="user11811" target="@taniasandinista" id="218" />
+      <edge source="user8499" target="@ONU_derechos" id="219" />
+      <edge source="user8499" target="@KarlaEnAccion" id="220" />
+      <edge source="user8499" target="@Tono_Coloma" id="221" />
+      <edge source="user8499" target="@PPD_Chile" id="222" />
+      <edge source="user8499" target="@PSChile" id="223" />
+      <edge source="user8499" target="@CNT_NOmasAFP" id="224" />
+      <edge source="user3698" target="@24HorasTVN" id="225" />
+      <edge source="user3698" target="@Cooperativa" id="226" />
+      <edge source="user3698" target="@biobio" id="227" />
+      <edge source="user3698" target="@T13" id="228" />
+      <edge source="user10789" target="@sebastianpinera" id="229" />
+      <edge source="user10789" target="@danieljadue" id="230" />
+      <edge source="user10789" target="@gblumel" id="231" />
+      <edge source="user10789" target="@canal13" id="232" />
+      <edge source="user10789" target="@chilevision" id="233" />
+      <edge source="user8088" target="@ctxt_es" id="234" />
+      <edge source="user7005" target="@IvanDuque" id="235" />
+      <edge source="user7005" target="@AlvaroUribeVel" id="236" />
+      <edge source="user5183" target="@Carabdechile" id="237" />
+      <edge source="user7458" target="@petrogustavo" id="238" />
+      <edge source="user1727" target="@ChangeorgLatino" id="239" />
+      <edge source="user1727" target="@PamJiles" id="240" />
+      <edge source="user1727" target="@FELIX_GonzalezG" id="241" />
+      <edge source="user1727" target="@ifloresdiputado" id="242" />
+      <edge source="user1334" target="@Carabdechile" id="243" />
+      <edge source="user1334" target="@KarlaEnAccion" id="244" />
+      <edge source="user4565" target="@PCdeChile" id="245" />
+      <edge source="user7941" target="@PDI_CHILE" id="246" />
+      <edge source="user7941" target="@GobiernodeChile" id="247" />
+      <edge source="user7941" target="@inddhh" id="248" />
+      <edge source="user7941" target="@Carabdechile" id="249" />
+      <edge source="user4844" target="@sebastianpinera" id="250" />
+      <edge source="user4844" target="@SinCorbataTVN" id="251" />
+      <edge source="user601" target="@joseantoniokast" id="252" />
+      <edge source="user5307" target="@pomytapiad" id="253" />
+      <edge source="user5307" target="@inddhh" id="254" />
+      <edge source="user5307" target="@sebastianpinera" id="255" />
+      <edge source="user10809" target="@pomytapiad" id="256" />
+      <edge source="user2287" target="@joseantoniokast" id="257" />
+      <edge source="user2287" target="@camila_vallejo" id="258" />
+      <edge source="user2287" target="@sebastianpinera" id="259" />
+      <edge source="user2287" target="@KarolCariola" id="260" />
+      <edge source="user1423" target="@GobiernodeChile" id="261" />
+      <edge source="user1423" target="@sebastianpinera" id="262" />
+      <edge source="user1423" target="@CNNChile" id="263" />
+      <edge source="user1423" target="@CNNEE" id="264" />
+      <edge source="user1423" target="@PublimetroChile" id="265" />
+      <edge source="user1423" target="@Carabdechile" id="266" />
+      <edge source="user1423" target="@InterferenciaCL" id="267" />
+      <edge source="user207" target="@PDC_Chile" id="268" />
+      <edge source="user207" target="@PPD_Chile" id="269" />
+      <edge source="user207" target="@PSChile" id="270" />
+      <edge source="user207" target="@tv_monica" id="271" />
+      <edge source="user207" target="@gonzalomuller" id="272" />
+      <edge source="user207" target="@estadonacional" id="273" />
+      <edge source="user2168" target="@PANCHOSAAVEDRA" id="274" />
+      <edge source="user2168" target="@PamJiles" id="275" />
+      <edge source="user8808" target="@inddhh" id="276" />
+      <edge source="user8808" target="@gabrielboric" id="277" />
+      <edge source="user8808" target="@T13" id="278" />
+      <edge source="user11165" target="@Carabdechile" id="279" />
+      <edge source="user11165" target="@Cutchile" id="280" />
+      <edge source="user11165" target="@ColegioProfes" id="281" />
+      <edge source="user11165" target="@NOmasAFP" id="282" />
+      <edge source="user178" target="@RigobertMenchu" id="283" />
+      <edge source="user178" target="@inddhh" id="284" />
+      <edge source="user11597" target="@marcelobarti" id="285" />
+      <edge source="user903" target="@labeasanchez" id="286" />
+      <edge source="user903" target="@ValdebenitoNata" id="287" />
+      <edge source="user903" target="@subelaradio" id="288" />
+      <edge source="user5618" target="@canal13" id="289" />
+      <edge source="user13613" target="@HernanLarrain" id="290" />
+      <edge source="user13613" target="@rodolfocarter" id="291" />
+      <edge source="user13613" target="@JorgeSharp" id="292" />
+      <edge source="user1104" target="@labeasanchez" id="293" />
+      <edge source="user11939" target="@tere_marinovic" id="294" />
+      <edge source="user11939" target="@YouTube" id="295" />
+      <edge source="user6513" target="@SAEA170690" id="296" />
+      <edge source="user7625" target="@Cooperativa" id="297" />
+      <edge source="user7625" target="@thecliniccl" id="298" />
+      <edge source="user5975" target="@teatromori" id="299" />
+      <edge source="user5975" target="@tryoteatrobanda" id="300" />
+      <edge source="user1021" target="@teatromori" id="301" />
+      <edge source="user1021" target="@tryoteatrobanda" id="302" />
+      <edge source="user4524" target="@mcubillossigall" id="303" />
+      <edge source="user455" target="@Cooperativa" id="304" />
+      <edge source="user455" target="@CNNChile" id="305" />
+      <edge source="user455" target="@Jaime_Bassa" id="306" />
+      <edge source="user455" target="@inddhh" id="307" />
+      <edge source="user455" target="@mbachelet" id="308" />
+      <edge source="user10514" target="@eldesconcierto" id="309" />
+      <edge source="user10514" target="@Cooperativa" id="310" />
+      <edge source="user10514" target="@Carabdechile" id="311" />
+      <edge source="user10514" target="@s" id="312" />
+      <edge source="user2753" target="@Tono_Coloma" id="313" />
+      <edge source="user2753" target="@rmunda" id="314" />
+      <edge source="user2753" target="@PiensaPrensa" id="315" />
+      <edge source="user2753" target="@DMatamala" id="316" />
+      <edge source="user2753" target="@Chileokulto" id="317" />
+      <edge source="user13132" target="@labeasanchez" id="318" />
+      <edge source="user13132" target="@elfrente_amplio" id="319" />
+      <edge source="user4556" target="@alamos_fernando" id="320" />
+      <edge source="user4556" target="@Cooperativa" id="321" />
+      <edge source="user11767" target="@MTTChile" id="322" />
+      <edge source="user298" target="@Carabdechile" id="323" />
+      <edge source="user298" target="@sebastianpinera" id="324" />
+      <edge source="user2845" target="@nayibbukele" id="325" />
+      <edge source="user3557" target="@PamJiles" id="326" />
+      <edge source="user3557" target="@FELIX_GonzalezG" id="327" />
+      <edge source="user3557" target="@ifloresdiputado" id="328" />
+      <edge source="user3557" target="@ChangeorgLatino" id="329" />
+      <edge source="user625" target="@danieljadue" id="330" />
+      <edge source="user625" target="@rmunda" id="331" />
+      <edge source="user625" target="@elmostrador" id="332" />
+      <edge source="user625" target="@thecliniccl" id="333" />
+      <edge source="user625" target="@baradit" id="334" />
+      <edge source="user625" target="@PamJiles" id="335" />
+      <edge source="user625" target="@JorgeSharp" id="336" />
+      <edge source="user839" target="@cbofillr" id="337" />
+      <edge source="user839" target="@canal13" id="338" />
+      <edge source="user839" target="@aluksicc" id="339" />
+      <edge source="user839" target="@eugeniofigueroa" id="340" />
+      <edge source="user4907" target="@alamos_fernando" id="341" />
+      <edge source="user4907" target="@CarlosS65911850" id="342" />
+      <edge source="user4907" target="@Cooperativa" id="343" />
+      <edge source="user4471" target="@adnradiochile" id="344" />
+      <edge source="user4471" target="@biobio" id="345" />
+      <edge source="user13709" target="@PamJiles" id="346" />
+      <edge source="user13709" target="@baradit" id="347" />
+      <edge source="user8603" target="@alferdez" id="348" />
+      <edge source="user10702" target="@cesifoti" id="349" />
+      <edge source="user3603" target="@nayibbukele" id="350" />
+      <edge source="user3603" target="@sebastianpinera" id="351" />
+      <edge source="user517" target="@PamJiles" id="352" />
+      <edge source="user517" target="@FELIX_GonzalezG" id="353" />
+      <edge source="user517" target="@ifloresdiputado" id="354" />
+      <edge source="user517" target="@ChangeorgLatino" id="355" />
+      <edge source="user2163" target="@sebastianpinera" id="356" />
+      <edge source="user2314" target="@bessygprado" id="357" />
+      <edge source="user13616" target="@PensanteL" id="358" />
+      <edge source="user13616" target="@thecliniccl" id="359" />
+      <edge source="user3112" target="@s" id="360" />
+      <edge source="user6827" target="@FelipeGuevaraSt" id="361" />
+      <edge source="user6827" target="@Jaime_Bassa" id="362" />
+      <edge source="user6827" target="@sebastianpinera" id="363" />
+      <edge source="user6827" target="@DMatamala" id="364" />
+      <edge source="user1131" target="@carmen_hertz" id="365" />
+      <edge source="user4194" target="@PamJiles" id="366" />
+      <edge source="user4194" target="@FELIX_GonzalezG" id="367" />
+      <edge source="user4194" target="@ifloresdiputado" id="368" />
+      <edge source="user4194" target="@ChangeorgLatino" id="369" />
+      <edge source="user1119" target="@aluksicc" id="370" />
+      <edge source="user1119" target="@canal13" id="371" />
+      <edge source="user9048" target="@rosaliavt" id="372" />
+      <edge source="user9048" target="@DUALIPA" id="373" />
+      <edge source="user4827" target="@NicolasMaduro" id="374" />
+      <edge source="user4827" target="@dcabellor" id="375" />
+      <edge source="user4827" target="@YouTube" id="376" />
+      <edge source="user491" target="@ignatiuswilde" id="377" />
+      <edge source="user491" target="@T13" id="378" />
+      <edge source="user2247" target="@RNchile" id="379" />
+      <edge source="user3458" target="@Wolf48509619" id="380" />
+      <edge source="user3458" target="@joseantoniokast" id="381" />
+      <edge source="user6" target="@biobio" id="382" />
+      <edge source="user1808" target="@senadornavarro" id="383" />
+      <edge source="user1808" target="@Senado_Chile" id="384" />
+      <edge source="user1808" target="@biobio" id="385" />
+      <edge source="user1808" target="@inddhh" id="386" />
+      <edge source="user1808" target="@eldesconcierto" id="387" />
+      <edge source="user1808" target="@Emol" id="388" />
+      <edge source="user1808" target="@thecliniccl" id="389" />
+      <edge source="user1808" target="@KarlaEnAccion" id="390" />
+      <edge source="user9004" target="@PamJiles" id="391" />
+      <edge source="user9004" target="@FELIX_GonzalezG" id="392" />
+      <edge source="user9004" target="@ifloresdiputado" id="393" />
+      <edge source="user9004" target="@ChangeorgLatino" id="394" />
+      <edge source="user8184" target="@eldesconcierto" id="395" />
+      <edge source="user8184" target="@el_ciudadano" id="396" />
+      <edge source="user8184" target="@thecliniccl" id="397" />
+      <edge source="user5483" target="@canalspace" id="398" />
+      <edge source="user5483" target="@GiorgioJackson" id="399" />
+      <edge source="user7091" target="@nayibbukele" id="400" />
+      <edge source="user7091" target="@sebastianpinera" id="401" />
+      <edge source="user7990" target="@Carabdechile" id="402" />
+      <edge source="user7990" target="@ONU_derechos" id="403" />
+      <edge source="user7990" target="@mbachelet" id="404" />
+      <edge source="user941" target="@inddhh" id="405" />
+      <edge source="user941" target="@PiensaPrensa" id="406" />
+      <edge source="user941" target="@IquiqueDeTodos" id="407" />
+      <edge source="user9018" target="@estadonacional" id="408" />
+      <edge source="user9018" target="@vidalvocero" id="409" />
+      <edge source="user9018" target="@gonzalomuller" id="410" />
+      <edge source="user9018" target="@HernanLarrain" id="411" />
+      <edge source="user9018" target="@Carabdechile" id="412" />
+      <edge source="user9018" target="@ignatiuswilde" id="413" />
+      <edge source="user6071" target="@sebastianpinera" id="414" />
+      <edge source="user2464" target="@mfc_oficial" id="415" />
+      <edge source="user1602" target="@bessygprado" id="416" />
+      <edge source="user1584" target="@InterferenciaCL" id="417" />
+      <edge source="user11807" target="@elfrente_amplio" id="418" />
+      <edge source="user11807" target="@PCdeChile" id="419" />
+      <edge source="user11807" target="@PSChile" id="420" />
+      <edge source="user5944" target="@PCdeChile" id="421" />
+      <edge source="user5944" target="@elfrente_amplio" id="422" />
+      <edge source="user5944" target="@GiorgioJackson" id="423" />
+      <edge source="user5944" target="@JorgeSharp" id="424" />
+      <edge source="user5944" target="@labeasanchez" id="425" />
+      <edge source="user5944" target="@anefchile" id="426" />
+      <edge source="user5944" target="@Cutchile" id="427" />
+      <edge source="user5944" target="@Senado_Chile" id="428" />
+      <edge source="user5944" target="@CamaraDiputados" id="429" />
+      <edge source="user5944" target="@senadornavarro" id="430" />
+      <edge source="user5944" target="@RNchile" id="431" />
+      <edge source="user5944" target="@sebastianpinera" id="432" />
+      <edge source="user5944" target="@gblumel" id="433" />
+      <edge source="user5944" target="@Carabdechile" id="434" />
+      <edge source="user776" target="@udipopular" id="435" />
+      <edge source="user11938" target="@adictiveswoong" id="436" />
+      <edge source="user801" target="@JorgeSharp" id="437" />
+      <edge source="user801" target="@PamJiles" id="438" />
+      <edge source="user801" target="@baradit" id="439" />
+      <edge source="user801" target="@ValdebenitoNata" id="440" />
+      <edge source="user1049" target="@IvanDuque" id="441" />
+      <edge source="user1049" target="@jguaido" id="442" />
+      <edge source="user1049" target="@nayibbukele" id="443" />
+      <edge source="user1049" target="@petrogustavo" id="444" />
+      <edge source="user4586" target="@KarlaEnAccion" id="445" />
+      <edge source="user6721" target="@YouTube" id="446" />
+      <edge source="user6721" target="@eldesconcierto" id="447" />
+      <edge source="user7108" target="@el_ciudadano" id="448" />
+      <edge source="user3264" target="@PamJiles" id="449" />
+      <edge source="user3264" target="@FELIX_GonzalezG" id="450" />
+      <edge source="user3264" target="@ifloresdiputado" id="451" />
+      <edge source="user3264" target="@ChangeorgLatino" id="452" />
+      <edge source="user1787" target="@inddhh" id="453" />
+      <edge source="user1787" target="@T13" id="454" />
+      <edge source="user1787" target="@carolaurrejola" id="455" />
+      <edge source="user1787" target="@IvanValenzuelaU" id="456" />
+      <edge source="user10306" target="@CHVNoticias" id="457" />
+      <edge source="user437" target="@uchile" id="458" />
+      <edge source="user4001" target="@Wolf48509619" id="459" />
+      <edge source="user4001" target="@joseantoniokast" id="460" />
+      <edge source="user4001" target="@SinCorbataTVN" id="461" />
+      <edge source="user4001" target="@SergioMicco" id="462" />
+      <edge source="user968" target="@Carabdechile" id="463" />
+      <edge source="user968" target="@presidencia_cl" id="464" />
+      <edge source="user3230" target="@doris_gonzalez_" id="465" />
+      <edge source="user3230" target="@UkamauChile" id="466" />
+      <edge source="user3230" target="@PiensaPrensa" id="467" />
+      <edge source="user3230" target="@Chileokulto" id="468" />
+      <edge source="user3230" target="@uchileradio" id="469" />
+      <edge source="user213" target="@PamJiles" id="470" />
+      <edge source="user213" target="@FELIX_GonzalezG" id="471" />
+      <edge source="user213" target="@ifloresdiputado" id="472" />
+      <edge source="user9033" target="@KarlaEnAccion" id="473" />
+      <edge source="user9033" target="@Carabdechile" id="474" />
+      <edge source="user9033" target="@andreschadwickp" id="475" />
+      <edge source="user6103" target="@blondieclub" id="476" />
+      <edge source="user1026" target="@Jaime_Bassa" id="477" />
+      <edge source="user3386" target="@anefchile" id="478" />
+      <edge source="user3386" target="@UnidadSocialCh" id="479" />
+      <edge source="user3624" target="@ChangeorgLatino" id="480" />
+      <edge source="user3624" target="@Jonatha96845544" id="481" />
+      <edge source="user10338" target="@carmen_hertz" id="482" />
+      <edge source="user1210" target="@chilevision" id="483" />
+      <edge source="user151" target="@jguaido" id="484" />
+      <edge source="user12570" target="@taniasandinista" id="485" />
+      <edge source="user2223" target="@MielyMerken" id="486" />
+      <edge source="user7701" target="@PamJiles" id="487" />
+      <edge source="user7701" target="@FELIX_GonzalezG" id="488" />
+      <edge source="user7701" target="@ifloresdiputado" id="489" />
+      <edge source="user7701" target="@ChangeorgLatino" id="490" />
+      <edge source="user1717" target="@Carabdechile" id="491" />
+      <edge source="user1717" target="@PDI_CHILE" id="492" />
+      <edge source="user754" target="@rosaliavt" id="493" />
+      <edge source="user1149" target="@monlaferte" id="494" />
+      <edge source="user9273" target="@andreschadwickp" id="495" />
+      <edge source="user9273" target="@elfrente_amplio" id="496" />
+      <edge source="user9273" target="@PCdeChile" id="497" />
+      <edge source="user9273" target="@TVN" id="498" />
+      <edge source="user10914" target="@sebastianpinera" id="499" />
+      <edge source="user12731" target="@Wolf48509619" id="500" />
+      <edge source="user12731" target="@joseantoniokast" id="501" />
+      <edge source="user3455" target="@s" id="502" />
+      <edge source="user3455" target="@ErnaUlloaRiquel" id="503" />
+      <edge source="user3455" target="@PublimetroChile" id="504" />
+      <edge source="user11096" target="@alferdez" id="505" />
+      <edge source="user1180" target="@chilevision" id="506" />
+      <edge source="user1180" target="@Chilevision_cl" id="507" />
+      <edge source="user1180" target="@tv_monica" id="508" />
+      <edge source="user1180" target="@DMatamala" id="509" />
+      <edge source="user1180" target="@Wolf48509619" id="510" />
+      <edge source="user1180" target="@labeasanchez" id="511" />
+      <edge source="user1238" target="@DMatamala" id="512" />
+      <edge source="user1238" target="@uchile" id="513" />
+      <edge source="user1238" target="@inddhh" id="514" />
+      <edge source="user1238" target="@SergioMicco" id="515" />
+      <edge source="user1238" target="@KarolCariola" id="516" />
+      <edge source="user1238" target="@canal13" id="517" />
+      <edge source="user1544" target="@KarlaEnAccion" id="518" />
+      <edge source="user1544" target="@sebastianpinera" id="519" />
+      <edge source="user3137" target="@elmostrador" id="520" />
+      <edge source="user5958" target="@sebastianpinera" id="521" />
+      <edge source="user6587" target="@sebastianpinera" id="522" />
+      <edge source="user6587" target="@jguaido" id="523" />
+      <edge source="user9390" target="@NOmasAFP" id="524" />
+      <edge source="user9390" target="@CNT_NOmasAFP" id="525" />
+      <edge source="user6935" target="@gblumel" id="526" />
+      <edge source="user6935" target="@GobiernodeChile" id="527" />
+      <edge source="user6935" target="@sebastianpinera" id="528" />
+      <edge source="user6935" target="@allamand" id="529" />
+      <edge source="user6935" target="@gonzalomuller" id="530" />
+      <edge source="user3826" target="@uchile" id="531" />
+      <edge source="user4384" target="@PPD_Chile" id="532" />
+      <edge source="user4384" target="@chilevision" id="533" />
+      <edge source="user5720" target="@PamJiles" id="534" />
+      <edge source="user5720" target="@FELIX_GonzalezG" id="535" />
+      <edge source="user5720" target="@ifloresdiputado" id="536" />
+      <edge source="user5720" target="@ChangeorgLatino" id="537" />
+      <edge source="user8789" target="@Wolf48509619" id="538" />
+      <edge source="user8789" target="@joseantoniokast" id="539" />
+      <edge source="user5015" target="@latercera" id="540" />
+      <edge source="user5015" target="@carmen_hertz" id="541" />
+      <edge source="user5015" target="@CHVNoticias" id="542" />
+      <edge source="user1661" target="@rutadelmaipo" id="543" />
+      <edge source="user6566" target="@PamJiles" id="544" />
+      <edge source="user6566" target="@FELIX_GonzalezG" id="545" />
+      <edge source="user6566" target="@ifloresdiputado" id="546" />
+      <edge source="user6566" target="@ChangeorgLatino" id="547" />
+      <edge source="user6566" target="@ivanmoreirab" id="548" />
+      <edge source="user1723" target="@KarlaEnAccion" id="549" />
+      <edge source="user1723" target="@inddhh" id="550" />
+      <edge source="user7307" target="@Jonatha96845544" id="551" />
+      <edge source="user7307" target="@tere_marinovic" id="552" />
+      <edge source="user12006" target="@AlvaroUribeVel" id="553" />
+      <edge source="user12478" target="@ErnaUlloaRiquel" id="554" />
+      <edge source="user2784" target="@dcabellor" id="555" />
+      <edge source="user5437" target="@petrogustavo" id="556" />
+      <edge source="user7033" target="@danieljadue" id="557" />
+      <edge source="user7033" target="@melnicksergio" id="558" />
+      <edge source="user7033" target="@RenAlmeyda1" id="559" />
+      <edge source="user7129" target="@cbofillr" id="560" />
+      <edge source="user9940" target="@eldesconcierto" id="561" />
+      <edge source="user9940" target="@adnradiochile" id="562" />
+      <edge source="user9940" target="@TVN" id="563" />
+      <edge source="user9940" target="@canal13" id="564" />
+      <edge source="user9940" target="@CNNChile" id="565" />
+      <edge source="user9940" target="@CNNEE" id="566" />
+      <edge source="user9940" target="@ActualidadRT" id="567" />
+      <edge source="user7977" target="@T13" id="568" />
+      <edge source="user7977" target="@IvanValenzuelaU" id="569" />
+      <edge source="user7977" target="@carolaurrejola" id="570" />
+      <edge source="user7977" target="@presidencia_cl" id="571" />
+      <edge source="user7977" target="@sebastianpinera" id="572" />
+      <edge source="user7977" target="@ignatiuswilde" id="573" />
+    </edges>
+  </graph>
+</gexf>
