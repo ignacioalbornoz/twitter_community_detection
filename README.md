@@ -63,7 +63,7 @@ Este repositorio contiene el código y los datos necesarios para la detección y
 ## Ejemplos de Resultados
 
 ### Evolución de la información de twitter antes durante y después del estallido social de octubre de 2019 en Chile
-![Evolución de la Información](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/words_evolution.png.png?raw=true)
+![Evolución de la Información](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/words_evolution.png?raw=true)
 
 ### Número de tweets por fecha
 ![Tweets por fecha](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/tweets_fecha.png?raw=true)
@@ -76,3 +76,7 @@ Este repositorio contiene el código y los datos necesarios para la detección y
 
 ### Grafo de detección de comunidades del 19 de Cctubre de 2019
 ![Grafo de detección de comunidades del 19 de Cctubre de 2019](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/grafo-20191019.png?raw=true)
+
+### Centralidad de Grafos de Tweets por Comunidad y Principales Tópicos
+![Grafo de detección de comunidades del 19 de Cctubre de 2019](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/centrality_by_topic.png?raw=true)
+
