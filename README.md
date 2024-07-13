@@ -62,13 +62,17 @@ Este repositorio contiene el código y los datos necesarios para la detección y
 
 ## Ejemplos de Resultados
 
-### Detección de Comunidades
-![Detección de Comunidades](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/community_detection.png?raw=true)
+### Evolución de la información de twitter antes durante y después del estallido social de octubre de 2019 en Chile
+![Evolución de la Información](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/words_evolution.png.png?raw=true)
 
-### Evolución de la Información
-![Evolución de la Información](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/info_evolution.png?raw=true)
+### Número de tweets por fecha
+![Tweets por fecha](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/tweets_fecha.png?raw=true)
 
-### Análisis de Transporte
-![Análisis de Transporte](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/transport_analysis.png?raw=true)
+### Tweets sobre transporte por fecha
+![Tweets sobre transporte](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/tweets_transport.png?raw=true)
 
+### Nube de palabras del 19 de Cctubre de 2019
+![Nube de palabras del 19 de octubre de 2019](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/words_in.png?raw=true)
 
+### Grafo de detección de comunidades del 19 de Cctubre de 2019
+![Grafo de detección de comunidades del 19 de Cctubre de 2019](https://github.com/ignacioalbornoz/twitter_community_detection/blob/main/images/grafo-20191019.png?raw=true)
